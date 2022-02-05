@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c5c1e36b8bdea7a334a24d72311137a9",
+        "name": "Coca-Cola%20Regular%2024%20x%20330ml%20Online%20at....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Regular%2024%20x%20330ml%20Online%20at....jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "E2OWCdXl4",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 1021.2765957446809,
+                "width": 448.93617021276594,
+                "left": 379.78723404255317,
+                "top": 93.61702127659575
+            },
+            "points": [
+                {
+                    "x": 379.78723404255317,
+                    "y": 93.61702127659575
+                },
+                {
+                    "x": 828.7234042553191,
+                    "y": 93.61702127659575
+                },
+                {
+                    "x": 828.7234042553191,
+                    "y": 1114.8936170212767
+                },
+                {
+                    "x": 379.78723404255317,
+                    "y": 1114.8936170212767
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

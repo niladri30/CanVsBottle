@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c24cceaf43c5f2b68683458b90bdabb3",
+        "name": "Coca-Cola%20can%20_%203D%20CAD%20Model%20Library....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20_%203D%20CAD%20Model%20Library....jpg",
+        "size": {
+            "width": 853,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vxKb4uxEs",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 459.566265060241,
+                "width": 717.2603978300181,
+                "left": 57.072332730560575,
+                "top": 96.33734939759037
+            },
+            "points": [
+                {
+                    "x": 57.072332730560575,
+                    "y": 96.33734939759037
+                },
+                {
+                    "x": 774.3327305605786,
+                    "y": 96.33734939759037
+                },
+                {
+                    "x": 774.3327305605786,
+                    "y": 555.9036144578314
+                },
+                {
+                    "x": 57.072332730560575,
+                    "y": 555.9036144578314
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

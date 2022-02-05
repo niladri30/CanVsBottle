@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c3285c18db3d89ff43c0945395bdcf6c",
+        "name": "Technology%20Coca-Cola%20Can%20Safe%20DS-COKE....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Technology%20Coca-Cola%20Can%20Safe%20DS-COKE....jpg",
+        "size": {
+            "width": 516,
+            "height": 991
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4721isvut",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 975.1861702127659,
+                "width": 508.3762755102041,
+                "left": 7.623724489795918,
+                "top": 5.2712765957446805
+            },
+            "points": [
+                {
+                    "x": 7.623724489795918,
+                    "y": 5.2712765957446805
+                },
+                {
+                    "x": 516,
+                    "y": 5.2712765957446805
+                },
+                {
+                    "x": 516,
+                    "y": 980.4574468085106
+                },
+                {
+                    "x": 7.623724489795918,
+                    "y": 980.4574468085106
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

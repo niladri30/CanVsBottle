@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c0bae2acd48f1ac574f6728fb5f02183",
+        "name": "Emerald%20Green%20Glass%20Long%20Neck%20Beer....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Emerald%20Green%20Glass%20Long%20Neck%20Beer....jpg",
+        "size": {
+            "width": 1800,
+            "height": 1800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UZwpNxFAS",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1784.0425531914893,
+                "width": 536.1702127659574,
+                "left": 636.7021276595744,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 636.7021276595744,
+                    "y": 0
+                },
+                {
+                    "x": 1172.872340425532,
+                    "y": 0
+                },
+                {
+                    "x": 1172.872340425532,
+                    "y": 1784.0425531914893
+                },
+                {
+                    "x": 636.7021276595744,
+                    "y": 1784.0425531914893
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

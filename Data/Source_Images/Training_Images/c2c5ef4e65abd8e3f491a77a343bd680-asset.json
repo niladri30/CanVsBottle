@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c2c5ef4e65abd8e3f491a77a343bd680",
+        "name": "Bisleri%20Rockstar%20300ml%20Water%20Bottles....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bisleri%20Rockstar%20300ml%20Water%20Bottles....jpg",
+        "size": {
+            "width": 360,
+            "height": 380
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mnyv3SNn5",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 198.83720930232556,
+                "width": 120,
+                "left": 124.35966257668711,
+                "top": 152.44186046511626
+            },
+            "points": [
+                {
+                    "x": 124.35966257668711,
+                    "y": 152.44186046511626
+                },
+                {
+                    "x": 244.3596625766871,
+                    "y": 152.44186046511626
+                },
+                {
+                    "x": 244.3596625766871,
+                    "y": 351.27906976744185
+                },
+                {
+                    "x": 124.35966257668711,
+                    "y": 351.27906976744185
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

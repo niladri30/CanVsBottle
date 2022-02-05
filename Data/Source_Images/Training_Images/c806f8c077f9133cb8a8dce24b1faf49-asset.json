@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c806f8c077f9133cb8a8dce24b1faf49",
+        "name": "Coca-Cola%20Can%203D%20Puzzle%20_%20Coca-Cola%20Store.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%203D%20Puzzle%20_%20Coca-Cola%20Store.png",
+        "size": {
+            "width": 700,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JwYJdGfzC",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 654.0697674418604,
+                "width": 338.3817427385892,
+                "left": 177.63226141078837,
+                "top": 47.96511627906976
+            },
+            "points": [
+                {
+                    "x": 177.63226141078837,
+                    "y": 47.96511627906976
+                },
+                {
+                    "x": 516.0140041493776,
+                    "y": 47.96511627906976
+                },
+                {
+                    "x": 516.0140041493776,
+                    "y": 702.0348837209302
+                },
+                {
+                    "x": 177.63226141078837,
+                    "y": 702.0348837209302
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

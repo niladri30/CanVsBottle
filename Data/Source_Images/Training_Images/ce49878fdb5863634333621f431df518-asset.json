@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ce49878fdb5863634333621f431df518",
+        "name": "alcohol%20bottles....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/alcohol%20bottles....jpg",
+        "size": {
+            "width": 1600,
+            "height": 2397
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0xP8U_0ro",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1477.220930232558,
+                "width": 944.186046511628,
+                "left": 342.8779069767442,
+                "top": 548.1511627906976
+            },
+            "points": [
+                {
+                    "x": 342.8779069767442,
+                    "y": 548.1511627906976
+                },
+                {
+                    "x": 1287.0639534883721,
+                    "y": 548.1511627906976
+                },
+                {
+                    "x": 1287.0639534883721,
+                    "y": 2025.3720930232557
+                },
+                {
+                    "x": 342.8779069767442,
+                    "y": 2025.3720930232557
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

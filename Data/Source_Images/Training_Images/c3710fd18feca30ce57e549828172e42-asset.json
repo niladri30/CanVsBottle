@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c3710fd18feca30ce57e549828172e42",
+        "name": "Insulated%20Water%20Bottles....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Insulated%20Water%20Bottles....jpg",
+        "size": {
+            "width": 800,
+            "height": 670
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xzVDWekD_",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 608.2269503546099,
+                "width": 218.7221396731055,
+                "left": 296.2481426448737,
+                "top": 30.886524822695037
+            },
+            "points": [
+                {
+                    "x": 296.2481426448737,
+                    "y": 30.886524822695037
+                },
+                {
+                    "x": 514.9702823179792,
+                    "y": 30.886524822695037
+                },
+                {
+                    "x": 514.9702823179792,
+                    "y": 639.113475177305
+                },
+                {
+                    "x": 296.2481426448737,
+                    "y": 639.113475177305
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

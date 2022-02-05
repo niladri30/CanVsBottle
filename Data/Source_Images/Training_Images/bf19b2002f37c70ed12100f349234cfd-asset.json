@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bf19b2002f37c70ed12100f349234cfd",
+        "name": "Plastic%20Drink%20Water%20Bottle%20Stock%20Photo....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Drink%20Water%20Bottle%20Stock%20Photo....jpg",
+        "size": {
+            "width": 576,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2cME59aQt",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 920.5106382978723,
+                "width": 288.90851735015775,
+                "left": 141.9558359621451,
+                "top": 29.04964539007092
+            },
+            "points": [
+                {
+                    "x": 141.9558359621451,
+                    "y": 29.04964539007092
+                },
+                {
+                    "x": 430.86435331230285,
+                    "y": 29.04964539007092
+                },
+                {
+                    "x": 430.86435331230285,
+                    "y": 949.5602836879432
+                },
+                {
+                    "x": 141.9558359621451,
+                    "y": 949.5602836879432
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c6539aabaeff0ef3c7e869eaa0643de0",
+        "name": "Coca%20Cola%20Can%20%E2%80%93%20AskOnly.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20%E2%80%93%20AskOnly.jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "94FkOeSnO",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 399.22480620155034,
+                "width": 218.02325581395348,
+                "left": 142.92635658914728,
+                "top": 52.325581395348834
+            },
+            "points": [
+                {
+                    "x": 142.92635658914728,
+                    "y": 52.325581395348834
+                },
+                {
+                    "x": 360.94961240310073,
+                    "y": 52.325581395348834
+                },
+                {
+                    "x": 360.94961240310073,
+                    "y": 451.5503875968992
+                },
+                {
+                    "x": 142.92635658914728,
+                    "y": 451.5503875968992
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

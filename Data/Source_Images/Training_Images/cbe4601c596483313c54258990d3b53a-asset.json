@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cbe4601c596483313c54258990d3b53a",
+        "name": "Eco_%20Large%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Eco_%20Large%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+        "size": {
+            "width": 2657,
+            "height": 2657
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NPxNjI-3e",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 2157.6347517730496,
+                "width": 701.9379432624113,
+                "left": 982.2420212765957,
+                "top": 174.30673758865248
+            },
+            "points": [
+                {
+                    "x": 982.2420212765957,
+                    "y": 174.30673758865248
+                },
+                {
+                    "x": 1684.179964539007,
+                    "y": 174.30673758865248
+                },
+                {
+                    "x": 1684.179964539007,
+                    "y": 2331.9414893617018
+                },
+                {
+                    "x": 982.2420212765957,
+                    "y": 2331.9414893617018
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
