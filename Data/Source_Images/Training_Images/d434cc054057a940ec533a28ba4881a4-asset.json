@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d434cc054057a940ec533a28ba4881a4",
+        "name": "750ml%20Mountain%20Bottle%20with%20Screw%20Cap....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/750ml%20Mountain%20Bottle%20with%20Screw%20Cap....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "a49wGEMxR",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 469.96124031007747,
+                "width": 125,
+                "left": 187.5,
+                "top": 17.441860465116278
+            },
+            "points": [
+                {
+                    "x": 187.5,
+                    "y": 17.441860465116278
+                },
+                {
+                    "x": 312.5,
+                    "y": 17.441860465116278
+                },
+                {
+                    "x": 312.5,
+                    "y": 487.40310077519376
+                },
+                {
+                    "x": 187.5,
+                    "y": 487.40310077519376
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

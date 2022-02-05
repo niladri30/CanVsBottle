@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dbe656221872c4f4554e11dace69ba1f",
+        "name": "Empty%20Plastic%20Bottle%20Stock%20Photo....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Empty%20Plastic%20Bottle%20Stock%20Photo....jpg",
+        "size": {
+            "width": 681,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cXsNeW8tG",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 775.2624113475177,
+                "width": 285.112,
+                "left": 207.109125,
+                "top": 165.21985815602835
+            },
+            "points": [
+                {
+                    "x": 207.109125,
+                    "y": 165.21985815602835
+                },
+                {
+                    "x": 492.22112500000003,
+                    "y": 165.21985815602835
+                },
+                {
+                    "x": 492.22112500000003,
+                    "y": 940.482269503546
+                },
+                {
+                    "x": 207.109125,
+                    "y": 940.482269503546
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

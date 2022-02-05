@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d51a46ac88c3082ba00d2b1fe9dc0f02",
+        "name": "2%20Stainless%20Steel%20Water%20Bottles....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/2%20Stainless%20Steel%20Water%20Bottles....jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BcW1xEazs",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 941.8604651162791,
+                "width": 274.4186046511628,
+                "left": 266.27906976744185,
+                "top": 141.86046511627907
+            },
+            "points": [
+                {
+                    "x": 266.27906976744185,
+                    "y": 141.86046511627907
+                },
+                {
+                    "x": 540.6976744186047,
+                    "y": 141.86046511627907
+                },
+                {
+                    "x": 540.6976744186047,
+                    "y": 1083.7209302325582
+                },
+                {
+                    "x": 266.27906976744185,
+                    "y": 1083.7209302325582
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

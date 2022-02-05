@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d74d48a4836a4a0439b4d631e6e71313",
+        "name": "Nike%20Big%20Mouth%20Water%20Bottle%202.0%2022oz%20....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Nike%20Big%20Mouth%20Water%20Bottle%202.0%2022oz%20....jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AMVinZr9h",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1189.3617021276596,
+                "width": 410.63829787234044,
+                "left": 394.6808510638298,
+                "top": 2.127659574468085
+            },
+            "points": [
+                {
+                    "x": 394.6808510638298,
+                    "y": 2.127659574468085
+                },
+                {
+                    "x": 805.3191489361702,
+                    "y": 2.127659574468085
+                },
+                {
+                    "x": 805.3191489361702,
+                    "y": 1191.4893617021276
+                },
+                {
+                    "x": 394.6808510638298,
+                    "y": 1191.4893617021276
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d0463e8b734418b733196734a422d049",
+        "name": "Best%20Baby%20Bottles%20for%20Breastfed%20Babies....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Baby%20Bottles%20for%20Breastfed%20Babies....jpg",
+        "size": {
+            "width": 1500,
+            "height": 1500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aMQtb7gaH",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 613.3720930232557,
+                "width": 299.41860465116275,
+                "left": 707.8488372093022,
+                "top": 470.9302325581395
+            },
+            "points": [
+                {
+                    "x": 707.8488372093022,
+                    "y": 470.9302325581395
+                },
+                {
+                    "x": 1007.267441860465,
+                    "y": 470.9302325581395
+                },
+                {
+                    "x": 1007.267441860465,
+                    "y": 1084.3023255813953
+                },
+                {
+                    "x": 707.8488372093022,
+                    "y": 1084.3023255813953
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

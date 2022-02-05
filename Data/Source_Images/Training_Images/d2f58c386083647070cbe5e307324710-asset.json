@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d2f58c386083647070cbe5e307324710",
+        "name": "Pump%20Still%20Water%20Bottle%20750mL%20_%20Woolworths.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Pump%20Still%20Water%20Bottle%20750mL%20_%20Woolworths.jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yMGIKEwJK",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1193.6170212765958,
+                "width": 429.78723404255317,
+                "left": 381.9148936170213,
+                "top": 4.25531914893617
+            },
+            "points": [
+                {
+                    "x": 381.9148936170213,
+                    "y": 4.25531914893617
+                },
+                {
+                    "x": 811.7021276595744,
+                    "y": 4.25531914893617
+                },
+                {
+                    "x": 811.7021276595744,
+                    "y": 1197.872340425532
+                },
+                {
+                    "x": 381.9148936170213,
+                    "y": 1197.872340425532
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

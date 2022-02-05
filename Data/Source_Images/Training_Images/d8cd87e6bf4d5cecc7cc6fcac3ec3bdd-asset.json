@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d8cd87e6bf4d5cecc7cc6fcac3ec3bdd",
+        "name": "360%20view%20of%20Coca-Cola%20Can%2012%20FL%203D....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/360%20view%20of%20Coca-Cola%20Can%2012%20FL%203D....jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kCiglWfjD",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 567.2025723472668,
+                "width": 305.53345388788426,
+                "left": 462.92947558770345,
+                "top": 68.36816720257235
+            },
+            "points": [
+                {
+                    "x": 462.92947558770345,
+                    "y": 68.36816720257235
+                },
+                {
+                    "x": 768.4629294755878,
+                    "y": 68.36816720257235
+                },
+                {
+                    "x": 768.4629294755878,
+                    "y": 635.5707395498392
+                },
+                {
+                    "x": 462.92947558770345,
+                    "y": 635.5707395498392
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

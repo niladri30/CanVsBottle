@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d3b101629ea2f7cd9281036f91d97ef2",
+        "name": "Buy%20Aquafina%20Packaged%20Drinking%20Water%201....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Aquafina%20Packaged%20Drinking%20Water%201....jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fBvgLwDbf",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 856.3953488372093,
+                "width": 261.62790697674416,
+                "left": 306.1046511627907,
+                "top": 20.930232558139537
+            },
+            "points": [
+                {
+                    "x": 306.1046511627907,
+                    "y": 20.930232558139537
+                },
+                {
+                    "x": 567.7325581395348,
+                    "y": 20.930232558139537
+                },
+                {
+                    "x": 567.7325581395348,
+                    "y": 877.3255813953489
+                },
+                {
+                    "x": 306.1046511627907,
+                    "y": 877.3255813953489
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

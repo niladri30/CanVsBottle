@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dc854ef580f7b515f631641dc2dff951",
+        "name": "Glass%20Bottle%20Manufacturer%20in%20Europe...%20(1).jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20Bottle%20Manufacturer%20in%20Europe...%20(1).jpg",
+        "size": {
+            "width": 800,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1Jc23hUlN",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 540.4255319148937,
+                "width": 418.43971631205676,
+                "left": 193.61702127659575,
+                "top": 259.5744680851064
+            },
+            "points": [
+                {
+                    "x": 193.61702127659575,
+                    "y": 259.5744680851064
+                },
+                {
+                    "x": 612.0567375886525,
+                    "y": 259.5744680851064
+                },
+                {
+                    "x": 612.0567375886525,
+                    "y": 800
+                },
+                {
+                    "x": 193.61702127659575,
+                    "y": 800
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "da4e6d8c65f45ee3117c454dcc7a7fef",
+        "name": "Boldfit%20Gym%20Gallon%20Water%20Jug%20Bottle%20XL....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Boldfit%20Gym%20Gallon%20Water%20Jug%20Bottle%20XL....png",
+        "size": {
+            "width": 690,
+            "height": 700
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YAyBMNmoF",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 522.2868217054263,
+                "width": 281.9646365422397,
+                "left": 346.8004052062869,
+                "top": 90.89147286821705
+            },
+            "points": [
+                {
+                    "x": 346.8004052062869,
+                    "y": 90.89147286821705
+                },
+                {
+                    "x": 628.7650417485265,
+                    "y": 90.89147286821705
+                },
+                {
+                    "x": 628.7650417485265,
+                    "y": 613.1782945736434
+                },
+                {
+                    "x": 346.8004052062869,
+                    "y": 613.1782945736434
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

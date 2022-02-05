@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "daece1256974824801fc90f9f0bfbbd0",
+        "name": "Buy%20Living%20essence%20Glass%20Bottle%20in....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Living%20essence%20Glass%20Bottle%20in....jpg",
+        "size": {
+            "width": 360,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8pduC_Uul",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 279.06976744186045,
+                "width": 75.34883720930233,
+                "left": 144.7674418604651,
+                "top": 36.97674418604651
+            },
+            "points": [
+                {
+                    "x": 144.7674418604651,
+                    "y": 36.97674418604651
+                },
+                {
+                    "x": 220.11627906976744,
+                    "y": 36.97674418604651
+                },
+                {
+                    "x": 220.11627906976744,
+                    "y": 316.04651162790697
+                },
+                {
+                    "x": 144.7674418604651,
+                    "y": 316.04651162790697
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

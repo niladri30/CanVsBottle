@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "de360aae49c45632e3237308ed4af45c",
+        "name": "Stainless%20Steel%20Water%20Bottles%2027%20oz....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stainless%20Steel%20Water%20Bottles%2027%20oz....jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bFXg4pFwJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 489.36170212765956,
+                "width": 157.4468085106383,
+                "left": 216.48936170212767,
+                "top": 84.04255319148936
+            },
+            "points": [
+                {
+                    "x": 216.48936170212767,
+                    "y": 84.04255319148936
+                },
+                {
+                    "x": 373.93617021276594,
+                    "y": 84.04255319148936
+                },
+                {
+                    "x": 373.93617021276594,
+                    "y": 573.4042553191489
+                },
+                {
+                    "x": 216.48936170212767,
+                    "y": 573.4042553191489
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d8856a5a0b9cdfdd3fdeecc23d6f2bc5",
+        "name": "Crystal-Infused%20Water%20Bottles_%20Do%20They....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Crystal-Infused%20Water%20Bottles_%20Do%20They....jpg",
+        "size": {
+            "width": 732,
+            "height": 549
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ULXMLT7l5",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 455.5531914893617,
+                "width": 349.4521276595745,
+                "left": 188.35372340425533,
+                "top": 54.51063829787234
+            },
+            "points": [
+                {
+                    "x": 188.35372340425533,
+                    "y": 54.51063829787234
+                },
+                {
+                    "x": 537.8058510638298,
+                    "y": 54.51063829787234
+                },
+                {
+                    "x": 537.8058510638298,
+                    "y": 510.06382978723406
+                },
+                {
+                    "x": 188.35372340425533,
+                    "y": 510.06382978723406
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

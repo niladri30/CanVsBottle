@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d92822b8d721199d52ae5ee0b13ff69c",
+        "name": "%E2%9C%93%20Tin%20Coca-Cola%20Can%20On%20Brown%20Wooden....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/%E2%9C%93%20Tin%20Coca-Cola%20Can%20On%20Brown%20Wooden....jpg",
+        "size": {
+            "width": 5804,
+            "height": 3869
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "p44PnOSzE",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 3237.011952191235,
+                "width": 1842.1726427622843,
+                "left": 2412.5524568393093,
+                "top": 354.4094559262948
+            },
+            "points": [
+                {
+                    "x": 2412.5524568393093,
+                    "y": 354.4094559262948
+                },
+                {
+                    "x": 4254.725099601594,
+                    "y": 354.4094559262948
+                },
+                {
+                    "x": 4254.725099601594,
+                    "y": 3591.4214081175296
+                },
+                {
+                    "x": 2412.5524568393093,
+                    "y": 3591.4214081175296
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

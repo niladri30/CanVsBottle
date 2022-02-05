@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d293f2a7d59d40abe63b4183265da006",
+        "name": "Mainstays%2022-ounce%20Plastic%20Water%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Mainstays%2022-ounce%20Plastic%20Water%20Bottle....jpg",
+        "size": {
+            "width": 5000,
+            "height": 5000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "p6Jxvucn8",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 3971.631205673759,
+                "width": 1312.0567375886526,
+                "left": 1848.404255319149,
+                "top": 567.3758865248227
+            },
+            "points": [
+                {
+                    "x": 1848.404255319149,
+                    "y": 567.3758865248227
+                },
+                {
+                    "x": 3160.4609929078015,
+                    "y": 567.3758865248227
+                },
+                {
+                    "x": 3160.4609929078015,
+                    "y": 4539.007092198582
+                },
+                {
+                    "x": 1848.404255319149,
+                    "y": 4539.007092198582
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
