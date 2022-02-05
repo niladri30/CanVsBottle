@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ecd9e918e3b63ffcc52e4bf743d195f1",
+        "name": "0.75%20L%20Plastic%20Hydration%20Water%20Bottle%20....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/0.75%20L%20Plastic%20Hydration%20Water%20Bottle%20....jpg",
+        "size": {
+            "width": 2400,
+            "height": 2400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bN1plvXku",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 2241.860465116279,
+                "width": 632.5581395348837,
+                "left": 867.4418604651163,
+                "top": 79.06976744186046
+            },
+            "points": [
+                {
+                    "x": 867.4418604651163,
+                    "y": 79.06976744186046
+                },
+                {
+                    "x": 1500,
+                    "y": 79.06976744186046
+                },
+                {
+                    "x": 1500,
+                    "y": 2320.93023255814
+                },
+                {
+                    "x": 867.4418604651163,
+                    "y": 2320.93023255814
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

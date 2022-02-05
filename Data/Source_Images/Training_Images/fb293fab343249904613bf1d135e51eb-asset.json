@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fb293fab343249904613bf1d135e51eb",
+        "name": "Moomin%20_Apples_%20Glass%20Bottle%201%20l....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Moomin%20_Apples_%20Glass%20Bottle%201%20l....jpg",
+        "size": {
+            "width": 953,
+            "height": 953
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_s-uC4Jam",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 939.482269503546,
+                "width": 287.2517730496454,
+                "left": 340.47783687943263,
+                "top": 13.5177304964539
+            },
+            "points": [
+                {
+                    "x": 340.47783687943263,
+                    "y": 13.5177304964539
+                },
+                {
+                    "x": 627.729609929078,
+                    "y": 13.5177304964539
+                },
+                {
+                    "x": 627.729609929078,
+                    "y": 953
+                },
+                {
+                    "x": 340.47783687943263,
+                    "y": 953
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

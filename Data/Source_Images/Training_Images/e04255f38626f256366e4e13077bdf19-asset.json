@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e04255f38626f256366e4e13077bdf19",
+        "name": "Burch%20Bottle%20&%20Packaging_%20Inc....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Burch%20Bottle%20&%20Packaging_%20Inc....jpg",
+        "size": {
+            "width": 200,
+            "height": 267
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FBq7NaNOv",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 215.25581395348837,
+                "width": 90.95607235142118,
+                "left": 54.14244186046511,
+                "top": 16.558139534883722
+            },
+            "points": [
+                {
+                    "x": 54.14244186046511,
+                    "y": 16.558139534883722
+                },
+                {
+                    "x": 145.09851421188628,
+                    "y": 16.558139534883722
+                },
+                {
+                    "x": 145.09851421188628,
+                    "y": 231.8139534883721
+                },
+                {
+                    "x": 54.14244186046511,
+                    "y": 231.8139534883721
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

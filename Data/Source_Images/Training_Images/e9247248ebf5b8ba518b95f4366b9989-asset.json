@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e9247248ebf5b8ba518b95f4366b9989",
+        "name": "Clear%20PET%20Liquor%20Bottle-Cap....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clear%20PET%20Liquor%20Bottle-Cap....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Uea2O-hSM",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 479.65116279069764,
+                "width": 131.7829457364341,
+                "left": 187.5,
+                "top": 16.472868217054263
+            },
+            "points": [
+                {
+                    "x": 187.5,
+                    "y": 16.472868217054263
+                },
+                {
+                    "x": 319.2829457364341,
+                    "y": 16.472868217054263
+                },
+                {
+                    "x": 319.2829457364341,
+                    "y": 496.1240310077519
+                },
+                {
+                    "x": 187.5,
+                    "y": 496.1240310077519
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

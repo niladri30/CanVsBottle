@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e10c909d88ea30589b007f51c6ceeac4",
+        "name": "PET%20bottles.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/PET%20bottles.jpg",
+        "size": {
+            "width": 431,
+            "height": 444
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dc3RSfUxP",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 378.6595744680851,
+                "width": 138.6764168190128,
+                "left": 152.26828153564898,
+                "top": 33.851063829787236
+            },
+            "points": [
+                {
+                    "x": 152.26828153564898,
+                    "y": 33.851063829787236
+                },
+                {
+                    "x": 290.9446983546618,
+                    "y": 33.851063829787236
+                },
+                {
+                    "x": 290.9446983546618,
+                    "y": 412.51063829787233
+                },
+                {
+                    "x": 152.26828153564898,
+                    "y": 412.51063829787233
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

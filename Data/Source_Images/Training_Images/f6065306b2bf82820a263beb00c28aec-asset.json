@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "f6065306b2bf82820a263beb00c28aec",
+        "name": "Coca-Cola%20Sleek%20Can%20(Free)%20-%20Download....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Sleek%20Can%20(Free)%20-%20Download....jpeg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GSp4Qe9KD",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 868.5849056603774,
+                "width": 395.2191235059761,
+                "left": 752.191235059761,
+                "top": 139.5371462264151
+            },
+            "points": [
+                {
+                    "x": 752.191235059761,
+                    "y": 139.5371462264151
+                },
+                {
+                    "x": 1147.410358565737,
+                    "y": 139.5371462264151
+                },
+                {
+                    "x": 1147.410358565737,
+                    "y": 1008.1220518867925
+                },
+                {
+                    "x": 752.191235059761,
+                    "y": 1008.1220518867925
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

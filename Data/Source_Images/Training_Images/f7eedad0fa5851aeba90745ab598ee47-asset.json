@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f7eedad0fa5851aeba90745ab598ee47",
+        "name": "Glass_%20Metal_%20Plastic%20-%20Which%20Water....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass_%20Metal_%20Plastic%20-%20Which%20Water....jpg",
+        "size": {
+            "width": 1920,
+            "height": 1281
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jlFsQyUkC",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 793.6075697211155,
+                "width": 242.23107569721114,
+                "left": 1178.0079681274901,
+                "top": 89.83108192231076
+            },
+            "points": [
+                {
+                    "x": 1178.0079681274901,
+                    "y": 89.83108192231076
+                },
+                {
+                    "x": 1420.2390438247012,
+                    "y": 89.83108192231076
+                },
+                {
+                    "x": 1420.2390438247012,
+                    "y": 883.4386516434263
+                },
+                {
+                    "x": 1178.0079681274901,
+                    "y": 883.4386516434263
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

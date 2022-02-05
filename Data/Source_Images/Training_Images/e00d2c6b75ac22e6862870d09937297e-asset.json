@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e00d2c6b75ac22e6862870d09937297e",
+        "name": "Bisleri%20250ml%20Water%20Bottles%20Online%20at....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bisleri%20250ml%20Water%20Bottles%20Online%20at....jpg",
+        "size": {
+            "width": 650,
+            "height": 650
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4Zx-R8Gu0",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 297.28682170542635,
+                "width": 104.55426356589147,
+                "left": 272.72286821705427,
+                "top": 308.62403100775197
+            },
+            "points": [
+                {
+                    "x": 272.72286821705427,
+                    "y": 308.62403100775197
+                },
+                {
+                    "x": 377.27713178294573,
+                    "y": 308.62403100775197
+                },
+                {
+                    "x": 377.27713178294573,
+                    "y": 605.9108527131783
+                },
+                {
+                    "x": 272.72286821705427,
+                    "y": 605.9108527131783
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

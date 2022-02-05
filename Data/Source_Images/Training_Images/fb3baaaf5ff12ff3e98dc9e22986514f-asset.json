@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "fb3baaaf5ff12ff3e98dc9e22986514f",
+        "name": "S_well%20Stainless%20Steel%20Water%20Bottles....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/S_well%20Stainless%20Steel%20Water%20Bottles....png",
+        "size": {
+            "width": 375,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uYwKX0Y-x",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 280.8510638297872,
+                "width": 76.53061224489795,
+                "left": 152.9017857142857,
+                "top": 100.42553191489361
+            },
+            "points": [
+                {
+                    "x": 152.9017857142857,
+                    "y": 100.42553191489361
+                },
+                {
+                    "x": 229.43239795918365,
+                    "y": 100.42553191489361
+                },
+                {
+                    "x": 229.43239795918365,
+                    "y": 381.27659574468083
+                },
+                {
+                    "x": 152.9017857142857,
+                    "y": 381.27659574468083
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "eb618c00078c720628c1b4a3941b6f72",
+        "name": "Coca%20cola%20can%20by%20Ronak%20Jadhavrao%20on....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20by%20Ronak%20Jadhavrao%20on....png",
+        "size": {
+            "width": 400,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oQBNlKyuA",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 205.3012048192771,
+                "width": 128.02893309222424,
+                "left": 135.2622061482821,
+                "top": 46.536144578313255
+            },
+            "points": [
+                {
+                    "x": 135.2622061482821,
+                    "y": 46.536144578313255
+                },
+                {
+                    "x": 263.2911392405063,
+                    "y": 46.536144578313255
+                },
+                {
+                    "x": 263.2911392405063,
+                    "y": 251.83734939759037
+                },
+                {
+                    "x": 135.2622061482821,
+                    "y": 251.83734939759037
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

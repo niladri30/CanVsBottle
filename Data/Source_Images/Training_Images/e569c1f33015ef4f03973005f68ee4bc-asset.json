@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e569c1f33015ef4f03973005f68ee4bc",
+        "name": "Plastic%20Bottles%20in%20Mumbai_%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Bottles%20in%20Mumbai_%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95....jpg",
+        "size": {
+            "width": 250,
+            "height": 250
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "m28U9wDrz",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 219.85815602836877,
+                "width": 118.35106382978722,
+                "left": 68.48404255319149,
+                "top": 21.71985815602837
+            },
+            "points": [
+                {
+                    "x": 68.48404255319149,
+                    "y": 21.71985815602837
+                },
+                {
+                    "x": 186.83510638297872,
+                    "y": 21.71985815602837
+                },
+                {
+                    "x": 186.83510638297872,
+                    "y": 241.57801418439715
+                },
+                {
+                    "x": 68.48404255319149,
+                    "y": 241.57801418439715
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

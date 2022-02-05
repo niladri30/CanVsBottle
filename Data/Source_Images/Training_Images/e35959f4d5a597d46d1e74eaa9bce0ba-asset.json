@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e35959f4d5a597d46d1e74eaa9bce0ba",
+        "name": "Buy%20Coca-Cola%20Can%20300ml%20Online%20at%20Low....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Coca-Cola%20Can%20300ml%20Online%20at%20Low....jpg",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HLV7VniQb",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 959.3023255813953,
+                "width": 403.1007751937984,
+                "left": 264.5348837209302,
+                "top": 25.1937984496124
+            },
+            "points": [
+                {
+                    "x": 264.5348837209302,
+                    "y": 25.1937984496124
+                },
+                {
+                    "x": 667.6356589147287,
+                    "y": 25.1937984496124
+                },
+                {
+                    "x": 667.6356589147287,
+                    "y": 984.4961240310076
+                },
+                {
+                    "x": 264.5348837209302,
+                    "y": 984.4961240310076
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ef86350838d297f41ae5241f98453094",
+        "name": "Plastic%20water%20bottle%203D%20model....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20water%20bottle%203D%20model....jpg",
+        "size": {
+            "width": 600,
+            "height": 324
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xutwuSk6c",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 312.05896805896805,
+                "width": 109.96015936254979,
+                "left": 243.82470119521912,
+                "top": 3.4330466830466833
+            },
+            "points": [
+                {
+                    "x": 243.82470119521912,
+                    "y": 3.4330466830466833
+                },
+                {
+                    "x": 353.7848605577689,
+                    "y": 3.4330466830466833
+                },
+                {
+                    "x": 353.7848605577689,
+                    "y": 315.49201474201476
+                },
+                {
+                    "x": 243.82470119521912,
+                    "y": 315.49201474201476
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

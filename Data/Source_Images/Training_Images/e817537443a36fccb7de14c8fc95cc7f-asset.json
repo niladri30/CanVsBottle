@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e817537443a36fccb7de14c8fc95cc7f",
+        "name": "Stainless%20Steel%20Bottle%20Peacock....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stainless%20Steel%20Bottle%20Peacock....jpg",
+        "size": {
+            "width": 640,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LHPV88V_R",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 541.2765957446809,
+                "width": 140.70921985815605,
+                "left": 242.26950354609932,
+                "top": 49.9290780141844
+            },
+            "points": [
+                {
+                    "x": 242.26950354609932,
+                    "y": 49.9290780141844
+                },
+                {
+                    "x": 382.97872340425533,
+                    "y": 49.9290780141844
+                },
+                {
+                    "x": 382.97872340425533,
+                    "y": 591.2056737588653
+                },
+                {
+                    "x": 242.26950354609932,
+                    "y": 591.2056737588653
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

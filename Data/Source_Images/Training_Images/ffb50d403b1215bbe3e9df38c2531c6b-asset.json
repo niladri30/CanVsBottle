@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ffb50d403b1215bbe3e9df38c2531c6b",
+        "name": "Coca-Cola%20Is%20Changing%20Coke%20Zero_s....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Is%20Changing%20Coke%20Zero_s....jpg",
+        "size": {
+            "width": 1080,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8yVLxxiHM",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 829.1489361702128,
+                "width": 430.8510638297873,
+                "left": 318.82978723404256,
+                "top": 126.38297872340426
+            },
+            "points": [
+                {
+                    "x": 318.82978723404256,
+                    "y": 126.38297872340426
+                },
+                {
+                    "x": 749.6808510638298,
+                    "y": 126.38297872340426
+                },
+                {
+                    "x": 749.6808510638298,
+                    "y": 955.5319148936171
+                },
+                {
+                    "x": 318.82978723404256,
+                    "y": 955.5319148936171
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

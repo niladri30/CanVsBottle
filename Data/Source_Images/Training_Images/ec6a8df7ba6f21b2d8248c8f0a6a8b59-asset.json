@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ec6a8df7ba6f21b2d8248c8f0a6a8b59",
+        "name": "23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist.jpg",
+        "size": {
+            "width": 245,
+            "height": 367
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KPpPG7bY0",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 253.2015503875969,
+                "width": 148.13953488372093,
+                "left": 44.6800054505814,
+                "top": 62.58914728682171
+            },
+            "points": [
+                {
+                    "x": 44.6800054505814,
+                    "y": 62.58914728682171
+                },
+                {
+                    "x": 192.81954033430233,
+                    "y": 62.58914728682171
+                },
+                {
+                    "x": 192.81954033430233,
+                    "y": 315.7906976744186
+                },
+                {
+                    "x": 44.6800054505814,
+                    "y": 315.7906976744186
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
