@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "18a93709d433e218f12d59c01df28684",
+        "name": "Kids%20Water%20Bottles%20-%20Buy%20School%20Water....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Kids%20Water%20Bottles%20-%20Buy%20School%20Water....jpeg",
+        "size": {
+            "width": 432,
+            "height": 612
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ttqyn_f0U",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 604.4042553191489,
+                "width": 268.1005025125628,
+                "left": 113.49497487437186,
+                "top": 4.340425531914893
+            },
+            "points": [
+                {
+                    "x": 113.49497487437186,
+                    "y": 4.340425531914893
+                },
+                {
+                    "x": 381.5954773869347,
+                    "y": 4.340425531914893
+                },
+                {
+                    "x": 381.5954773869347,
+                    "y": 608.7446808510638
+                },
+                {
+                    "x": 113.49497487437186,
+                    "y": 608.7446808510638
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

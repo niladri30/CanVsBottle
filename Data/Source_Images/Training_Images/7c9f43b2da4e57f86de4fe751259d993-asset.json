@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7c9f43b2da4e57f86de4fe751259d993",
+        "name": "Plastic%20Empty%20Water%20Bottle_%20Capacity....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Empty%20Water%20Bottle_%20Capacity....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0xF2EIW1l",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 484.04255319148933,
+                "width": 165.78014184397162,
+                "left": 173.31560283687944,
+                "top": 7.978723404255319
+            },
+            "points": [
+                {
+                    "x": 173.31560283687944,
+                    "y": 7.978723404255319
+                },
+                {
+                    "x": 339.09574468085106,
+                    "y": 7.978723404255319
+                },
+                {
+                    "x": 339.09574468085106,
+                    "y": 492.02127659574467
+                },
+                {
+                    "x": 173.31560283687944,
+                    "y": 492.02127659574467
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

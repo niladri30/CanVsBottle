@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "18ce8d20527b2d2a3306d269b76862f0",
+        "name": "Coca%20Cola%20Soft%20Drink%20300%20Ml%20Can%20at%20Rs_yythkg....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Soft%20Drink%20300%20Ml%20Can%20at%20Rs_yythkg....png",
+        "size": {
+            "width": 403,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TbtEVvRqb",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 364.3410852713178,
+                "width": 157.90625,
+                "left": 119.59521484375,
+                "top": 81.3953488372093
+            },
+            "points": [
+                {
+                    "x": 119.59521484375,
+                    "y": 81.3953488372093
+                },
+                {
+                    "x": 277.50146484375,
+                    "y": 81.3953488372093
+                },
+                {
+                    "x": 277.50146484375,
+                    "y": 445.7364341085271
+                },
+                {
+                    "x": 119.59521484375,
+                    "y": 445.7364341085271
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

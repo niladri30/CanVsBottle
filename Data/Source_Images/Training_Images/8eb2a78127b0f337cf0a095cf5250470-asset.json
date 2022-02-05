@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8eb2a78127b0f337cf0a095cf5250470",
+        "name": "a%20Beer%20Bottle%20Without%20a%20Bottle%20Opener....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/a%20Beer%20Bottle%20Without%20a%20Bottle%20Opener....jpg",
+        "size": {
+            "width": 800,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Q-gPc31Pl",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 386.33440514469453,
+                "width": 131.64556962025316,
+                "left": 81.0126582278481,
+                "top": 31.154541800643088
+            },
+            "points": [
+                {
+                    "x": 81.0126582278481,
+                    "y": 31.154541800643088
+                },
+                {
+                    "x": 212.65822784810126,
+                    "y": 31.154541800643088
+                },
+                {
+                    "x": 212.65822784810126,
+                    "y": 417.4889469453376
+                },
+                {
+                    "x": 81.0126582278481,
+                    "y": 417.4889469453376
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

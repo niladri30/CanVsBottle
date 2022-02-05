@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8d1e12bde1930b7c4e63bc31a21f4889",
+        "name": "Best%20Water%20Bottle%20Type_%20Glass%20vs....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Water%20Bottle%20Type_%20Glass%20vs....jpg",
+        "size": {
+            "width": 800,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "664ThJ7jT",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 534.8837209302326,
+                "width": 170.54263565891475,
+                "left": 310.8527131782946,
+                "top": 106.97674418604652
+            },
+            "points": [
+                {
+                    "x": 310.8527131782946,
+                    "y": 106.97674418604652
+                },
+                {
+                    "x": 481.3953488372093,
+                    "y": 106.97674418604652
+                },
+                {
+                    "x": 481.3953488372093,
+                    "y": 641.8604651162791
+                },
+                {
+                    "x": 310.8527131782946,
+                    "y": 641.8604651162791
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

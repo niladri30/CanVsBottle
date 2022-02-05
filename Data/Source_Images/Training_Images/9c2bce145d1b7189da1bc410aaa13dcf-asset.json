@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9c2bce145d1b7189da1bc410aaa13dcf",
+        "name": "ArtStation%20-%20Coca%20Cola%20Can.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/ArtStation%20-%20Coca%20Cola%20Can.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "alq7ckSwm",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 875.1125401929261,
+                "width": 687.4502712477396,
+                "left": 614.5388788426762,
+                "top": 151.16961414790995
+            },
+            "points": [
+                {
+                    "x": 614.5388788426762,
+                    "y": 151.16961414790995
+                },
+                {
+                    "x": 1301.989150090416,
+                    "y": 151.16961414790995
+                },
+                {
+                    "x": 1301.989150090416,
+                    "y": 1026.282154340836
+                },
+                {
+                    "x": 614.5388788426762,
+                    "y": 1026.282154340836
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "26dfedd43184cd4980341268493862bc",
+        "name": "Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpg",
+        "size": {
+            "width": 220,
+            "height": 258
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aKVbP2yEO",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 254.3404255319149,
+                "width": 80.95634095634097,
+                "left": 30.630197505197508,
+                "top": 3.6595744680851063
+            },
+            "points": [
+                {
+                    "x": 30.630197505197508,
+                    "y": 3.6595744680851063
+                },
+                {
+                    "x": 111.58653846153847,
+                    "y": 3.6595744680851063
+                },
+                {
+                    "x": 111.58653846153847,
+                    "y": 258
+                },
+                {
+                    "x": 30.630197505197508,
+                    "y": 258
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

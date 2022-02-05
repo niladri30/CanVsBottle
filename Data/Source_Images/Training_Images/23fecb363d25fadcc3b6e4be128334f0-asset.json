@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "23fecb363d25fadcc3b6e4be128334f0",
+        "name": "LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As....jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2yFFIQIq7",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 627.1276595744681,
+                "width": 207.4468085106383,
+                "left": 337.5,
+                "top": 204.25531914893617
+            },
+            "points": [
+                {
+                    "x": 337.5,
+                    "y": 204.25531914893617
+                },
+                {
+                    "x": 544.9468085106383,
+                    "y": 204.25531914893617
+                },
+                {
+                    "x": 544.9468085106383,
+                    "y": 831.3829787234042
+                },
+                {
+                    "x": 337.5,
+                    "y": 831.3829787234042
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

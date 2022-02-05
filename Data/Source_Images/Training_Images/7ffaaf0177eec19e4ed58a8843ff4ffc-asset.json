@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7ffaaf0177eec19e4ed58a8843ff4ffc",
+        "name": "Best%20water%20bottles%20of%202022%20_%20CNN....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20water%20bottles%20of%202022%20_%20CNN....jpg",
+        "size": {
+            "width": 4032,
+            "height": 2268
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wHDGrbAHm",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 2020.0514469453376,
+                "width": 627.0379746835442,
+                "left": 2194.632911392405,
+                "top": 142.43368167202573
+            },
+            "points": [
+                {
+                    "x": 2194.632911392405,
+                    "y": 142.43368167202573
+                },
+                {
+                    "x": 2821.670886075949,
+                    "y": 142.43368167202573
+                },
+                {
+                    "x": 2821.670886075949,
+                    "y": 2162.4851286173634
+                },
+                {
+                    "x": 2194.632911392405,
+                    "y": 2162.4851286173634
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

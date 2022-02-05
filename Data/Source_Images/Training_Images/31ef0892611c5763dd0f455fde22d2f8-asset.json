@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "31ef0892611c5763dd0f455fde22d2f8",
+        "name": "Laboratory%20Bottle%20WITH%20PP%20Pouring%20Ring....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Laboratory%20Bottle%20WITH%20PP%20Pouring%20Ring....png",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0msxcHKGX",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 576.595744680851,
+                "width": 244.68085106382978,
+                "left": 177.12765957446808,
+                "top": 2.127659574468085
+            },
+            "points": [
+                {
+                    "x": 177.12765957446808,
+                    "y": 2.127659574468085
+                },
+                {
+                    "x": 421.8085106382979,
+                    "y": 2.127659574468085
+                },
+                {
+                    "x": 421.8085106382979,
+                    "y": 578.7234042553191
+                },
+                {
+                    "x": 177.12765957446808,
+                    "y": 578.7234042553191
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

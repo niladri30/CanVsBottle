@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "20af8a0c15375da8b23cc2618bc41e65",
+        "name": "Tupperware%20Aquasafe%20Steel%20Water%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Tupperware%20Aquasafe%20Steel%20Water%20Bottle....jpg",
+        "size": {
+            "width": 850,
+            "height": 850
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OEXCNNhH3",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 780.6737588652481,
+                "width": 254.69858156028369,
+                "left": 290.1152482269503,
+                "top": 60.28368794326241
+            },
+            "points": [
+                {
+                    "x": 290.1152482269503,
+                    "y": 60.28368794326241
+                },
+                {
+                    "x": 544.813829787234,
+                    "y": 60.28368794326241
+                },
+                {
+                    "x": 544.813829787234,
+                    "y": 840.9574468085106
+                },
+                {
+                    "x": 290.1152482269503,
+                    "y": 840.9574468085106
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

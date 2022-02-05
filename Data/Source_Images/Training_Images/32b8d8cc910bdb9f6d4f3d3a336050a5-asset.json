@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "32b8d8cc910bdb9f6d4f3d3a336050a5",
+        "name": "Buy%20Rejuve%20Steel%20Bottle%201%20Ltr%20in%20Pink....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Rejuve%20Steel%20Bottle%201%20Ltr%20in%20Pink....jpg",
+        "size": {
+            "width": 360,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ypAfROixY",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 357.90697674418607,
+                "width": 102.55813953488372,
+                "left": 128.02325581395348,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 128.02325581395348,
+                    "y": 0
+                },
+                {
+                    "x": 230.58139534883722,
+                    "y": 0
+                },
+                {
+                    "x": 230.58139534883722,
+                    "y": 357.90697674418607
+                },
+                {
+                    "x": 128.02325581395348,
+                    "y": 357.90697674418607
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

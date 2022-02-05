@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "6ca3f9e7c693ef238b3d816c5cf00a9b",
+        "name": "Coca%20Cola%20Classic%20(U.S.%20Origin)%2012fl.oz%20....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Classic%20(U.S.%20Origin)%2012fl.oz%20....png",
+        "size": {
+            "width": 525,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ErxVUwTD7",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 467.4418604651163,
+                "width": 252.04646017699116,
+                "left": 137.3478982300885,
+                "top": 62.79069767441861
+            },
+            "points": [
+                {
+                    "x": 137.3478982300885,
+                    "y": 62.79069767441861
+                },
+                {
+                    "x": 389.39435840707966,
+                    "y": 62.79069767441861
+                },
+                {
+                    "x": 389.39435840707966,
+                    "y": 530.232558139535
+                },
+                {
+                    "x": 137.3478982300885,
+                    "y": 530.232558139535
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

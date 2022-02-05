@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7ace85a1f06dc80050b4368638fbc819",
+        "name": "Best%20Glass%20Water%20Bottles%202021_%20Reusable....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Glass%20Water%20Bottles%202021_%20Reusable....jpg",
+        "size": {
+            "width": 2000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZzcuPjKla",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1461.2403100775193,
+                "width": 728.6821705426356,
+                "left": 742.2480620155038,
+                "top": 306.20155038759685
+            },
+            "points": [
+                {
+                    "x": 742.2480620155038,
+                    "y": 306.20155038759685
+                },
+                {
+                    "x": 1470.9302325581396,
+                    "y": 306.20155038759685
+                },
+                {
+                    "x": 1470.9302325581396,
+                    "y": 1767.4418604651162
+                },
+                {
+                    "x": 742.2480620155038,
+                    "y": 1767.4418604651162
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

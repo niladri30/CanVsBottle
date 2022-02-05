@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "7c05bf0452269dcb4f4fa08d3d02b663",
+        "name": "Coca%20Cola%20Soft%20Drink%20Can%20250ml....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Soft%20Drink%20Can%20250ml....jpeg",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "j6jbUbXvw",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 895.3488372093022,
+                "width": 368.21705426356584,
+                "left": 314.922480620155,
+                "top": 48.44961240310077
+            },
+            "points": [
+                {
+                    "x": 314.922480620155,
+                    "y": 48.44961240310077
+                },
+                {
+                    "x": 683.1395348837209,
+                    "y": 48.44961240310077
+                },
+                {
+                    "x": 683.1395348837209,
+                    "y": 943.798449612403
+                },
+                {
+                    "x": 314.922480620155,
+                    "y": 943.798449612403
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

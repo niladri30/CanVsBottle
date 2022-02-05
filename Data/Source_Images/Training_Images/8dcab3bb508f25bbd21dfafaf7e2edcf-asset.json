@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8dcab3bb508f25bbd21dfafaf7e2edcf",
+        "name": "Wines%20with%20Standout%20Bottle%20Designs....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Wines%20with%20Standout%20Bottle%20Designs....jpg",
+        "size": {
+            "width": 3744,
+            "height": 5000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7byQwULWU",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 3085.1063829787236,
+                "width": 975.9241706161137,
+                "left": 2259.458530805687,
+                "top": 1170.212765957447
+            },
+            "points": [
+                {
+                    "x": 2259.458530805687,
+                    "y": 1170.212765957447
+                },
+                {
+                    "x": 3235.3827014218004,
+                    "y": 1170.212765957447
+                },
+                {
+                    "x": 3235.3827014218004,
+                    "y": 4255.319148936171
+                },
+                {
+                    "x": 2259.458530805687,
+                    "y": 4255.319148936171
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

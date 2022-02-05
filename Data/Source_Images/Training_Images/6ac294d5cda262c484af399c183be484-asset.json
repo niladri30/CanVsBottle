@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6ac294d5cda262c484af399c183be484",
+        "name": "Personalized%20Water%20Bottle%20-%20For%20Gym....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Personalized%20Water%20Bottle%20-%20For%20Gym....jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RkODyO_lc",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 472.3404255319149,
+                "width": 168.08510638297872,
+                "left": 221.80851063829786,
+                "top": 74.46808510638297
+            },
+            "points": [
+                {
+                    "x": 221.80851063829786,
+                    "y": 74.46808510638297
+                },
+                {
+                    "x": 389.8936170212766,
+                    "y": 74.46808510638297
+                },
+                {
+                    "x": 389.8936170212766,
+                    "y": 546.8085106382979
+                },
+                {
+                    "x": 221.80851063829786,
+                    "y": 546.8085106382979
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

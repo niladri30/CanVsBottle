@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "35bf8c746920db4066fcd538d7b53673",
+        "name": "Woman%20finds%2095-year-old%20message%20in%20a....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Woman%20finds%2095-year-old%20message%20in%20a....jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "705VUpjuu",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 741.2264150943397,
+                "width": 311.0756972111554,
+                "left": 856.7330677290837,
+                "top": 119.15978773584906
+            },
+            "points": [
+                {
+                    "x": 856.7330677290837,
+                    "y": 119.15978773584906
+                },
+                {
+                    "x": 1167.808764940239,
+                    "y": 119.15978773584906
+                },
+                {
+                    "x": 1167.808764940239,
+                    "y": 860.3862028301887
+                },
+                {
+                    "x": 856.7330677290837,
+                    "y": 860.3862028301887
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

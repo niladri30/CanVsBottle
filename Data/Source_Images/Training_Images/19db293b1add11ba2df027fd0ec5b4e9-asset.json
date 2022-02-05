@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "19db293b1add11ba2df027fd0ec5b4e9",
+        "name": "CDL.%20GLASS%20BOTTLE%20WHISKY%20(SPIRIT)%201L.jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/CDL.%20GLASS%20BOTTLE%20WHISKY%20(SPIRIT)%201L.jpeg",
+        "size": {
+            "width": 550,
+            "height": 550
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "069YzxT46",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 447.6744186046511,
+                "width": 128.97286821705424,
+                "left": 201.9864341085271,
+                "top": 19.186046511627904
+            },
+            "points": [
+                {
+                    "x": 201.9864341085271,
+                    "y": 19.186046511627904
+                },
+                {
+                    "x": 330.95930232558135,
+                    "y": 19.186046511627904
+                },
+                {
+                    "x": 330.95930232558135,
+                    "y": 466.86046511627904
+                },
+                {
+                    "x": 201.9864341085271,
+                    "y": 466.86046511627904
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

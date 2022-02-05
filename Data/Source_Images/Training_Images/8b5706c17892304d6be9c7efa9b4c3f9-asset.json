@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8b5706c17892304d6be9c7efa9b4c3f9",
+        "name": "15%20Best%20Water%20Bottles_%20Find%20Your....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles_%20Find%20Your....jpg",
+        "size": {
+            "width": 1650,
+            "height": 1100
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sGzyff8WS",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 965.8536585365853,
+                "width": 277.48643761301986,
+                "left": 677.3056057866185,
+                "top": 57.664295392953925
+            },
+            "points": [
+                {
+                    "x": 677.3056057866185,
+                    "y": 57.664295392953925
+                },
+                {
+                    "x": 954.7920433996383,
+                    "y": 57.664295392953925
+                },
+                {
+                    "x": 954.7920433996383,
+                    "y": 1023.5179539295392
+                },
+                {
+                    "x": 677.3056057866185,
+                    "y": 1023.5179539295392
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

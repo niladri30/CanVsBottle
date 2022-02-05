@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8b4cca2e4e27dbe826b46e89e4a86825",
+        "name": "Plastic%20Water%20Bottle%20Safety%20Tips....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Water%20Bottle%20Safety%20Tips....jpg",
+        "size": {
+            "width": 2121,
+            "height": 1414
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LgbHJPy1E",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 740.800796812749,
+                "width": 1687.2231075697212,
+                "left": 64.78486055776892,
+                "top": 245.0557768924303
+            },
+            "points": [
+                {
+                    "x": 64.78486055776892,
+                    "y": 245.0557768924303
+                },
+                {
+                    "x": 1752.0079681274901,
+                    "y": 245.0557768924303
+                },
+                {
+                    "x": 1752.0079681274901,
+                    "y": 985.8565737051794
+                },
+                {
+                    "x": 64.78486055776892,
+                    "y": 985.8565737051794
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

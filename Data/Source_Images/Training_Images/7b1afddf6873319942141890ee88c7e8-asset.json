@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7b1afddf6873319942141890ee88c7e8",
+        "name": "Fact%20Check%20Story_%20Photo%20of%20Coca%20Cola....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Fact%20Check%20Story_%20Photo%20of%20Coca%20Cola....jpg",
+        "size": {
+            "width": 650,
+            "height": 540
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oDhSL6j49",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 393.51063829787233,
+                "width": 262.2974963181149,
+                "left": 155.99341863033874,
+                "top": 66.06382978723404
+            },
+            "points": [
+                {
+                    "x": 155.99341863033874,
+                    "y": 66.06382978723404
+                },
+                {
+                    "x": 418.29091494845363,
+                    "y": 66.06382978723404
+                },
+                {
+                    "x": 418.29091494845363,
+                    "y": 459.5744680851064
+                },
+                {
+                    "x": 155.99341863033874,
+                    "y": 459.5744680851064
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

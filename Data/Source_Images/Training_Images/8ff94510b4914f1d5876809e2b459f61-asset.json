@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8ff94510b4914f1d5876809e2b459f61",
+        "name": "How%20to%20draw%20a%20coca%20cola%20slim%20can%20-%20Yo.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20draw%20a%20coca%20cola%20slim%20can%20-%20Yo.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dN0WDBVwW",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 555.2830188679245,
+                "width": 226.08233731739708,
+                "left": 484.46215139442234,
+                "top": 91.32665094339623
+            },
+            "points": [
+                {
+                    "x": 484.46215139442234,
+                    "y": 91.32665094339623
+                },
+                {
+                    "x": 710.5444887118194,
+                    "y": 91.32665094339623
+                },
+                {
+                    "x": 710.5444887118194,
+                    "y": 646.6096698113208
+                },
+                {
+                    "x": 484.46215139442234,
+                    "y": 646.6096698113208
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

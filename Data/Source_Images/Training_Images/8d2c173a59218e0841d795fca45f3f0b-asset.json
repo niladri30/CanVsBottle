@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8d2c173a59218e0841d795fca45f3f0b",
+        "name": "Water%20bottle%20Images_%20Stock%20Photos....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20bottle%20Images_%20Stock%20Photos....jpg",
+        "size": {
+            "width": 184,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CbY-QePHL",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 197.09219858156027,
+                "width": 63.482479784366575,
+                "left": 60.421495956873315,
+                "top": 33.26241134751773
+            },
+            "points": [
+                {
+                    "x": 60.421495956873315,
+                    "y": 33.26241134751773
+                },
+                {
+                    "x": 123.90397574123989,
+                    "y": 33.26241134751773
+                },
+                {
+                    "x": 123.90397574123989,
+                    "y": 230.354609929078
+                },
+                {
+                    "x": 60.421495956873315,
+                    "y": 230.354609929078
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

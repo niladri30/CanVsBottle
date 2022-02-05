@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "6d05f2609d15df5a85b5d4fb1c867512",
+        "name": "Coke%20Can%20PNG%20Images_%20Free%20Transparent....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coke%20Can%20PNG%20Images_%20Free%20Transparent....png",
+        "size": {
+            "width": 224,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TMCwAK3Sp",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 262.6241134751773,
+                "width": 103.30820399113082,
+                "left": 66.60864745011087,
+                "top": 6.453900709219858
+            },
+            "points": [
+                {
+                    "x": 66.60864745011087,
+                    "y": 6.453900709219858
+                },
+                {
+                    "x": 169.9168514412417,
+                    "y": 6.453900709219858
+                },
+                {
+                    "x": 169.9168514412417,
+                    "y": 269.07801418439715
+                },
+                {
+                    "x": 66.60864745011087,
+                    "y": 269.07801418439715
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "19a984fdcfc274619da88a5279d43adb",
+        "name": "Home%20iDrink%20-%20iDrink.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Home%20iDrink%20-%20iDrink.jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ixaKbg-q4",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 785.1063829787234,
+                "width": 197.87234042553192,
+                "left": 356.6489361702128,
+                "top": 62.234042553191486
+            },
+            "points": [
+                {
+                    "x": 356.6489361702128,
+                    "y": 62.234042553191486
+                },
+                {
+                    "x": 554.5212765957447,
+                    "y": 62.234042553191486
+                },
+                {
+                    "x": 554.5212765957447,
+                    "y": 847.3404255319149
+                },
+                {
+                    "x": 356.6489361702128,
+                    "y": 847.3404255319149
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

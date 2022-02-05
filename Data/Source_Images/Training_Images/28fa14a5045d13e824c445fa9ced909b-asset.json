@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "28fa14a5045d13e824c445fa9ced909b",
+        "name": "Front%20View%20Of%20Coca%20Cola%20Can%20Stock%20Photo....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Front%20View%20Of%20Coca%20Cola%20Can%20Stock%20Photo....jpg",
+        "size": {
+            "width": 356,
+            "height": 482
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cGEfiadyo",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 352.0992907801418,
+                "width": 198.06235011990407,
+                "left": 79.2222721822542,
+                "top": 60.677304964539005
+            },
+            "points": [
+                {
+                    "x": 79.2222721822542,
+                    "y": 60.677304964539005
+                },
+                {
+                    "x": 277.28462230215825,
+                    "y": 60.677304964539005
+                },
+                {
+                    "x": 277.28462230215825,
+                    "y": 412.77659574468083
+                },
+                {
+                    "x": 79.2222721822542,
+                    "y": 412.77659574468083
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

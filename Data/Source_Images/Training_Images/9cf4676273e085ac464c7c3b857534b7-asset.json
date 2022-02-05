@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9cf4676273e085ac464c7c3b857534b7",
+        "name": "GIFTBASH%20Glass%20Bottle_%20100ML_%20Set%20of%204....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/GIFTBASH%20Glass%20Bottle_%20100ML_%20Set%20of%204....jpg",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FcG5-h0uu",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 936.1702127659574,
+                "width": 453.90070921985813,
+                "left": 250.886524822695,
+                "top": 31.914893617021274
+            },
+            "points": [
+                {
+                    "x": 250.886524822695,
+                    "y": 31.914893617021274
+                },
+                {
+                    "x": 704.7872340425531,
+                    "y": 31.914893617021274
+                },
+                {
+                    "x": 704.7872340425531,
+                    "y": 968.0851063829787
+                },
+                {
+                    "x": 250.886524822695,
+                    "y": 968.0851063829787
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

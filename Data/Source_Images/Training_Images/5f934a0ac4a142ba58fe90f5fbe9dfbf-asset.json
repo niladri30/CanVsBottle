@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5f934a0ac4a142ba58fe90f5fbe9dfbf",
+        "name": "Coca%20Cola%20Can%20at%20Rs%2024_piece%20_%20Cold....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20at%20Rs%2024_piece%20_%20Cold....png",
+        "size": {
+            "width": 214,
+            "height": 250
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9Yvmxt-Ne",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 233.04263565891472,
+                "width": 120.07239819004525,
+                "left": 50.04277432126697,
+                "top": 15.01937984496124
+            },
+            "points": [
+                {
+                    "x": 50.04277432126697,
+                    "y": 15.01937984496124
+                },
+                {
+                    "x": 170.1151725113122,
+                    "y": 15.01937984496124
+                },
+                {
+                    "x": 170.1151725113122,
+                    "y": 248.06201550387595
+                },
+                {
+                    "x": 50.04277432126697,
+                    "y": 248.06201550387595
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

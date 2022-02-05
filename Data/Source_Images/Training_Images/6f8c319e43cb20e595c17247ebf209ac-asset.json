@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "6f8c319e43cb20e595c17247ebf209ac",
+        "name": "Coca-Cola%20Can%20%E2%80%93%20Global%20Grocery.jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20%E2%80%93%20Global%20Grocery.jpeg",
+        "size": {
+            "width": 245,
+            "height": 416
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AOIe98jp0",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 413.5813953488372,
+                "width": 242.94741981907896,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 242.94741981907896,
+                    "y": 0
+                },
+                {
+                    "x": 242.94741981907896,
+                    "y": 413.5813953488372
+                },
+                {
+                    "x": 0,
+                    "y": 413.5813953488372
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

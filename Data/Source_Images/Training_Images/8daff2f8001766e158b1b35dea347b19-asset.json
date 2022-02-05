@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8daff2f8001766e158b1b35dea347b19",
+        "name": "500_%20Coca%20Cola%20Pictures%20_%20Download%20Free....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500_%20Coca%20Cola%20Pictures%20_%20Download%20Free....jpg",
+        "size": {
+            "width": 4400,
+            "height": 5500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Mc_I50-ss",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 4423.4496124031,
+                "width": 1715.2542372881355,
+                "left": 1533.141646489104,
+                "top": 735.4651162790698
+            },
+            "points": [
+                {
+                    "x": 1533.141646489104,
+                    "y": 735.4651162790698
+                },
+                {
+                    "x": 3248.3958837772393,
+                    "y": 735.4651162790698
+                },
+                {
+                    "x": 3248.3958837772393,
+                    "y": 5158.91472868217
+                },
+                {
+                    "x": 1533.141646489104,
+                    "y": 5158.91472868217
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

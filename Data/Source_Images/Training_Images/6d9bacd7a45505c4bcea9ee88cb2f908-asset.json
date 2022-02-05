@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6d9bacd7a45505c4bcea9ee88cb2f908",
+        "name": "Copper%20bottle_%20Stay%20hydrated%20during%20the....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Copper%20bottle_%20Stay%20hydrated%20during%20the....jpg",
+        "size": {
+            "width": 1200,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ytj2VNFqp",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 864.8936170212766,
+                "width": 261.70212765957444,
+                "left": 554.5212765957447,
+                "top": 15.957446808510639
+            },
+            "points": [
+                {
+                    "x": 554.5212765957447,
+                    "y": 15.957446808510639
+                },
+                {
+                    "x": 816.2234042553191,
+                    "y": 15.957446808510639
+                },
+                {
+                    "x": 816.2234042553191,
+                    "y": 880.8510638297872
+                },
+                {
+                    "x": 554.5212765957447,
+                    "y": 880.8510638297872
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

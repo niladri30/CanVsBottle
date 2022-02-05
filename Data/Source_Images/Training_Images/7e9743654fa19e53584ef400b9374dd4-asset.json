@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7e9743654fa19e53584ef400b9374dd4",
+        "name": "Clean%20Insulated%20Bottles%20and%20Drinkware....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clean%20Insulated%20Bottles%20and%20Drinkware....jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "S4JTSeAGZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 685.273311897106,
+                "width": 196.74502712477397,
+                "left": 564.7739602169983,
+                "top": 29.011254019292604
+            },
+            "points": [
+                {
+                    "x": 564.7739602169983,
+                    "y": 29.011254019292604
+                },
+                {
+                    "x": 761.5189873417722,
+                    "y": 29.011254019292604
+                },
+                {
+                    "x": 761.5189873417722,
+                    "y": 714.2845659163987
+                },
+                {
+                    "x": 564.7739602169983,
+                    "y": 714.2845659163987
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
