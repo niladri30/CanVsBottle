@@ -1,0 +1,325 @@
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1.5L%20Clear%20Plastic%20Bottle%20-%20CleverPatch%20....jpg 166,9,332,485,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10%20beautifully-designed%20alcohol%20bottles...%20(2).jpg 630,228,785,661,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0.75%20L%20Plastic%20Hydration%20Water%20Bottle%20....jpg 867,79,1500,2321,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10%20beautifully-designed%20alcohol%20bottles....jpg 127,58,367,556,0 378,119,590,555,0 599,276,731,549,0 741,356,837,555,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10%20beautifully-designed%20alcohol%20bottles...%20(1).jpg 102,71,1509,1643,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10_000_%20Best%20Beer%20Bottle%20Photos%20%C2%B7%20100....jpeg 146,253,348,633,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10_%20Best%20Water%20Bottles%20On%20Sale%20Right%20Now.jpg 246,1,430,636,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10_393%20Coke%20Can%20Stock%20Photos_%20Pictures....jpg 112,85,376,542,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\13%20Best%20Baby%20Bottles%20for%20Every%20Feeding%20Need.jpg 277,31,458,506,0 186,44,275,478,0 457,46,556,478,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\10_393%20Coke%20Can%20Stock%20Photos_%20Pictures...%20(1).jpg 86,65,279,409,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\135_%20Best%20Free%20Bottle%20Mockups%20for%202022....jpg 372,40,602,578,0 623,63,873,594,0 89,61,307,585,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\15%20best%20water%20bottles%20for%202021%20reviewed....jpg 278,4,458,466,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\15%20Best%20Water%20Bottles%20to%20Buy%20in%202022...%20(1).jpg 82,14,352,689,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\13%20best%20reusable%20water%20bottles%20to....jpg 401,80,639,153,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\13%20best%20reusable%20water%20bottles%20to...%20(1).jpg 252,4,464,713,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....jpg 91,1,231,494,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....png 85,7,297,527,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\15%20Best%20Water%20Bottles%20to%20Buy%20in%202022...%20(2).jpg 47,2,228,472,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\15%20Best%20Water%20Bottles_%20Find%20Your....jpg 677,58,955,1024,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\16.9%20oz.%20Clear%20PET%20Water%20Bottle%20with%20....jpg 334,12,660,984,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\21%20Best%20Water%20Bottles%202020%20_%20Vogue%20(1).jpg 100,16,217,300,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\20%20oz%20Distilled%20Water%20Bottles%20_%20Distillata.jpg 541,57,864,1129,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\21%20Best%20Water%20Bottles%202020%20_%20Vogue.jpg 117,12,203,292,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2%20Stainless%20Steel%20Water%20Bottles....jpg 266,142,541,1084,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1_478_461%20Bottle%20Photos%20-%20Free....jpg 222,83,635,1212,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist%20(1).jpg 93,99,158,327,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist.jpg 45,63,193,316,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist%20(2).jpg 5,36,106,326,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2_958%20Coke%20Can%20Photos%20and%20Premium%20High....jpg 61,36,210,297,1 222,60,388,353,1 392,152,563,343,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\27_%20Bottle%20Pictures%20_%20Download%20Free....jpg 1763,249,2640,2308,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(1).jpg 29,292,715,762,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(3).jpg 70,52,217,629,0 246,40,405,668,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(2).jpg 29,152,222,658,0 304,105,470,613,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\32oz%20Wide%20Mouth%20Tritan%20Water%20Bottle....png 122,76,448,665,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine....jpg 216,24,391,657,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\360%20view%20of%20Coca-Cola%20Can%2012%20FL%203D....jpg 463,68,768,636,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\38_517%20Wine%20Bottle%20Photos%20and%20Premium....jpg 130,43,280,581,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\400ml%20thermal%20bottle%20with%20Drinking%20Reminder.jpg 284,40,512,753,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5%20Best%20Water%20Bottles%20in%202022.jpg 410,80,673,646,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5%20CREATIVE%20PLASTIC%20BOTTLES%20IDEA_%20-%20YouTube.jpg 12,8,1268,599,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\500ml%20Clear%20Glass%20Bottle%20With%20Screw%20Cap....jpg 145,63,274,493,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\500ml%20stainless%20steel%20Bottles....jpg 98,18,161,255,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free...%20(1).jpeg 146,185,432,613,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\500_%20Water%20Bottle%20Pictures%20%5BHQ....jpg 1264,1549,2801,5659,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\500_%20Coca%20Cola%20Pictures%20_%20Download%20Free....jpg 1533,735,3248,5159,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\87_929%20Water%20Bottle%20Stock%20Photos....jpg 111,24,295,552,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free....jpeg 152,124,344,606,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\750ml%20Mountain%20Bottle%20with%20Screw%20Cap....jpg 188,17,312,487,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\750mL%20Glass%20Spirit%20Bottle%20with%20Black....png 323,52,712,973,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\a%20Beer%20Bottle%20Without%20a%20Bottle%20Opener....jpg 81,31,213,417,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\adidas%20Performance%20Bottle.5%20L%20-%20White%20....jpg 196,21,413,583,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\adidas%20x%20Classic%20LEGO%C2%AE%20Bottle%20-%20Yellow....jpg 195,17,398,579,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Anti-colic%20GLASS%20Baby%20Bottle....jpg 416,59,765,830,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Ajanta%20Bottle%20Pvt%20Ltd%20-.jpeg 1250,63,1458,483,0 1673,87,1792,442,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\alcohol%20bottles....jpg 343,548,1287,2025,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ATMAN%203PCS%20WATER%20BOTTLE%201000%20ml%20Water....jpeg 101,1,201,375,0 203,1,302,373,0 0,0,96,375,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ArtStation%20-%20Coca%20Cola%20Can.jpg 615,151,1302,1026,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Ask%20the%20experts_%20Plastic%20water%20bottles....jpg 561,37,800,578,0 126,255,550,613,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Baby%20bottle%20-%20Wikipedia.jpg 155,85,409,924,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ArtStation%20-%20Coca%20cola%20can%20case.jpg 1201,481,1472,769,1 990,446,1215,717,1 799,408,1010,669,1 615,370,809,623,1 427,353,625,599,1 250,314,427,554,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Baby%20Feeding%20Bottle(%E0%A4%AC%E0%A5%87%E0%A4%AC%E0%A5%80%20%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97....jpeg 0,42,184,594,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Glass%20Water%20Bottles%202021_%20Reusable....jpg 742,306,1471,1767,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Berlin%20Packaging%20_%20Bruni%20Glass%20-%20Jars....jpg 19,24,83,254,0 98,71,159,255,0 174,133,270,255,0 266,63,326,263,0 342,88,418,252,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Baby%20Bottles%20for%20Breastfed%20Babies....jpg 708,471,1007,1084,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Baby%20Milk%20Feeding%20Bottle....jpg 707,94,1878,2228,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Insulated%20Water%20Bottles%20(2021....jpg 105,74,269,673,0 270,70,396,614,0 407,42,480,702,0 2,63,103,580,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20glass%20water%20bottles%20to%20stay....jpg 87,79,532,197,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Reusable%20Water%20Bottles%202021_%20Top....jpg 16,0,831,1415,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20self-cleaning%20water%20bottle%20for...%20(1).jpg 138,30,185,229,0 188,29,232,227,0 234,31,283,229,0 282,30,332,229,0 332,31,384,231,0 36,28,86,228,0 84,29,134,229,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20reusable%20water%20bottle%202022....jpg 113,124,302,727,0 356,116,564,716,0 616,127,857,736,0 905,116,1065,740,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Water%20Bottles%202021%20_%20Bottles%20for....jpg 4,29,256,555,0 308,7,486,557,0 547,48,725,551,0 773,31,940,557,0 987,42,1159,564,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20self-cleaning%20water%20bottle%20for....jpg 252,0,438,628,0 497,81,677,628,0 749,24,955,626,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20self-cleaning%20water%20bottle%20for...%20(2).jpg 274,74,651,503,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Water%20Bottles%20for%20Cycling%202021....jpg 269,9,434,559,0 447,35,725,596,0 749,24,924,553,0 942,96,1200,588,0 0,42,239,594,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20Water%20Bottle%20Type_%20Glass%20vs....jpg 311,107,481,642,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bisleri%20250ml%20Water%20Bottles%20Online%20at....jpg 273,309,377,606,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bistro%20Glass%20Bottle%20Amber%201L....jpg 223,31,539,741,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20water%20bottles_%20The%20ultimate....jpg 369,8,556,705,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Best%20water%20bottles%20of%202022%20_%20CNN....jpg 2195,142,2822,2162,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Beverage%20Bottles%20-%20Ball.jpg 806,188,1157,1011,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bisleri%20Rockstar%20300ml%20Water%20Bottles....jpg 124,152,244,351,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20-%20Wikipedia.jpg 50,16,103,223,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Boldfit%20Gym%20Gallon%20Water%20Jug%20Bottle%20XL....png 347,91,629,613,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bold%20Bottle%20_%20Reusable%20water%20bottles....jpg 174,138,385,940,0 387,143,589,942,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20-%20Wikipedia%20(1).jpg 859,428,1649,2562,0 1710,446,2482,2580,0 2543,420,3264,2502,0 3385,454,4140,2432,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20Dating%20Examples.jpg 360,6,471,299,0 655,164,789,534,0 542,222,666,541,0 379,420,509,553,0 193,263,318,555,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20jar%20Images_%20Stock%20Photos....jpg 31,93,123,239,0 132,35,205,235,0 215,11,285,235,0 297,25,375,238,0 382,66,446,242,0 451,97,544,241,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20Images_%20Stock%20Photos%20&%20Vectors....jpg 74,41,182,213,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20Of%20Beer%20With%20Custom%20Label%20And....jpg 99,6,227,457,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20Jump%203D%20%E2%80%93%20Apps%20on%20Google%20Play.png 58,27,433,505,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottle%20Of%20Water%20Pictures%20_%20Download....jpg 121,39,238,437,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottles%20of%20Water%20Have%20Expiration%20Dates....jpg 191,13,249,227,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottles%20Coca%20Cola%20Soft%20Drinks%20330ml%20Can....jpg 161,20,339,477,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Bottles%20Wholesale%20-%20Wholesale%20Jars....jpg 23,81,173,416,0 182,137,297,413,0 309,193,410,417,0 415,216,503,417,0 508,261,572,417,0 577,285,632,415,0 642,299,689,416,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Branded%20Metal%20Tide%20Insulated%20Vacuum....png 542,375,746,1189,0 746,369,969,1203,0 969,360,1141,1148,0 1153,340,1304,1108,0 1298,323,1446,1067,0 350,358,519,1172,0 202,352,350,1087,0 42,334,214,1067,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Burch%20Bottle%20&%20Packaging_%20Inc....jpg 54,17,145,232,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Aquafina%20Packaged%20Drinking%20Water%201....jpg 306,21,568,877,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water...%20(1).jpg 112,44,196,275,0 200,51,278,281,0 281,48,363,276,0 369,50,436,280,0 443,49,519,278,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water....jpg 308,47,566,870,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20BB%20Home%20Penta%20Plastic%20Pet%20Water....jpg 301,10,585,783,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Cello%20H2o%20Unbreakable%20Water%20Bottle....jpg 183,9,327,493,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Coca-Cola%20Can%20300ml%20Online%20at%20Low....jpg 265,25,668,984,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Coca%20Cola%20Soft%20Drink%20Coke%20Zero%20300....jpg 48,66,209,433,1 292,63,448,434,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Coca%20Cola%20Can%20300ml%20Online%20-%20Lulu....jpg 438,319,713,949,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Elvira%2032oz%20Large%20Water%20Bottle%20with....jpg 60,0,473,1215,0 473,0,1076,1189,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Flasks%20and%20Water%20Bottles%20Online....jpg 152,30,245,357,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Flasks%20and%20Water%20Bottles%20Online...%20(1).jpg 161,31,238,351,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Glass%20Bottle%20300%20ML%20at%20Best%20Price....png 161,40,239,255,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Glass%20Ideas%20Glass%20Bottle%20-%20Plain....jpg 430,110,672,865,0 676,54,896,785,0 1,108,269,856,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Kinley%20Club%20Soda%20125%20L%20Online%20At....png 317,31,569,865,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Milton%20Water%20Bottle%20-%20Thermosteel....jpg 178,1,318,494,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Milton%20bottle%20Thermosteel%20Stainless....jpg 347,326,1041,1810,0 1118,279,1579,1791,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Living%20essence%20Glass%20Bottle%20in....jpg 145,37,220,316,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Rejuve%20Steel%20Bottle%201%20Ltr%20in%20Pink....jpg 128,0,231,358,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Pexpo%20Stainless%20Steel%20Water%20Bottle....jpg 0,0,488,1634,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20the%20Noodoll%20Water%20Bottle%20at%20KIDLY%20UK.jpg 861,68,1139,661,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Buy%20Serial%20Sipper%20Water%20Bottle%20Online....jpg 158,21,315,457,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\CDL.%20GLASS%20BOTTLE%20WHISKY%20(SPIRIT)%201L.jpeg 202,19,331,467,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cap%20On%20A%20White%20Background%20Stock%20Photo....jpg 125,16,377,945,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Can%20You%20Freeze%20Water%20Bottles_%20Here_s....jpg 226,12,454,359,0 25,3,221,393,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cello%20H2O%20Plastic%20Bottle%20_%201%20L_%20Set%20of_yythk....jpg 388,407,711,1442,0 717,456,999,1453,0 1016,381,1336,1442,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cello%20Fridge%20Bottle%20Squaremate%20Set%20of%206....jpeg 123,49,207,317,0 210,29,292,291,0 264,65,351,337,0 333,26,412,297,0 4,27,80,284,0 82,4,161,246,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cello%20Ozone%20Plastic%20Water%20Bottle%20Set_%201....jpg 618,395,868,1340,0 1173,462,1350,1209,0 1016,445,1211,1270,0 426,433,644,1299,0 289,439,423,1256,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cello%20H2O%20Unbreakable%20Plastic%20Bottle....jpg 676,602,946,1419,0 929,407,1170,1241,0 1094,605,1368,1448,0 539,398,786,1247,0 292,605,542,1439,0 173,407,365,1227,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cello%20Ozone%20Plastic%20Water%20Bottle%20Set_%201...%20(1).jpg 651,114,863,814,0 852,149,1017,801,0 502,141,659,779,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cello%20VENICE%20FRIDGE%20WATER%20BOTTLES%201000....jpeg 95,17,175,229,0 183,13,261,246,0 261,18,332,289,0 336,8,414,312,0 12,215,262,317,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Chicco%20Duo%20Hybrid%20Baby%20Bottles%20with....jpg 100,85,336,573,0 302,49,521,514,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cello%20Puro%20Steel-X%20Benz%20Stainless%20Steel....jpg 475,99,850,1220,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cello%20Venice%20Plastic%20Bottle%20Set_%201....jpg 722,384,984,1419,0 1135,422,1330,1337,0 339,436,531,1311,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\clean%20and%20sanitize%20your%20water%20bottle....jpg 580,0,920,750,0 952,0,1288,745,0 1305,0,1500,737,0 233,3,551,732,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Clear%20Glass%20Bottle%20100ml....jpg 325,74,681,843,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Clear%2034%20oz.%20Giara%20Glass%20Water%20Bottle%20....jpg 226,8,377,586,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Clean%20Insulated%20Bottles%20and%20Drinkware....jpg 565,29,762,714,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Clear%20PET%20Liquor%20Bottle-Cap....jpg 188,16,319,496,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20300%20ml%20(Can)%20-%20JioMart.jpg 172,10,433,586,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\COCA%20COLA%20CAN%20300%20ML%20%E2%80%93%20MazBox.png 420,170,773,1021,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\COCA%20COLA%20CAN%20300ML%20-%20SOFT%20DRINKS....jpg 191,42,593,794,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\COCA%20COLA%20CAN%20180ML%20-%20SOFT%20DRINKS....jpg 201,16,605,788,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\COCA%20COLA%20CAN%20300ML.jpg 119,84,265,413,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20150%20Ml%20(Pack%20of%2024)-%20Buy_yythk....jpg 279,14,1129,1437,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20by%20Ronak%20Jadhavrao%20on....png 135,47,263,252,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20by%20masterche%20_%203DOcean.jpg 127,26,455,561,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20at%20Rs%2024_piece%20_%20Cold....png 50,15,170,248,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20editorial%20photography...%20(1).jpg 136,190,759,465,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\coca%20cola%20can%20by%20benwood%20_%203DOcean.jpg 398,104,622,535,1 622,56,854,456,1 172,46,405,439,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20Images_%20Stock%20Photos...%20(1).jpg 72,30,187,228,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20editorial%20photography....jpg 147,84,449,762,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20High%20Resolution%20Stock...%20(1).jpg 186,121,785,1220,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20High%20Resolution%20Stock....jpg 149,94,670,1145,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20High%20Resolution%20Stock...%20(2).jpg 16,421,244,769,1 306,252,520,781,1 614,301,853,781,1 926,144,1197,802,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20Images_%20Stock%20Photos...%20(2).jpg 35,42,148,247,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20Images_%20Stock%20Photos....jpg 138,16,242,257,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20cola%20can%20photography-HD000827-Picxy.jpg 462,202,1060,1345,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20Pictures%20_%20Download%20Free....jpg 2183,693,3372,3260,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20Pictures%20_%20Download%20Free...%20(1).jpg 953,996,1921,3328,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20PNG%20Images_%20Free....png 63,10,171,271,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20Reviews_%20Latest%20Review%20of....jpeg 0,0,172,290,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20%E2%80%93%20330ml%20%E2%80%93%20Capitalmart.jpg 125,12,251,333,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20%E2%80%93%20AskOnly.jpg 143,52,361,452,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Can%20PNG%20Image%20-%20PurePNG....png 358,0,818,791,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Zero%20300%20ml%20(Can)%20-%20JioMart.jpg 194,49,410,544,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Soft%20Drink%20Can%20250ml....jpeg 315,48,683,944,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Soft%20Drink%20300%20Ml%20Can%20at%20Rs_yythkg....png 120,81,278,446,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Classic%20(U.S.%20Origin)%2012fl.oz%20....png 137,63,389,530,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca%20Cola%20Cold%20Drink....jpg 7,49,122,256,1 123,69,231,289,1 238,95,354,322,1 363,119,481,361,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20-%203D%20Model%20by%20luxmi_3d_studio.jpg 1207,558,1909,1916,1 319,1028,1193,1935,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%2012%20FL%203D%20model%20-%20Food%20on_yythk....jpg 317,147,673,851,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20-%203D%20Model%20by%20luxmi_3d_studio%20(1).jpg 333,321,1151,1828,1 802,1056,2128,2233,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\coca%20cola_%20product_%20tin%20can_%20soft%20drink....jpg 437,976,2731,3767,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20can%20250%20ml-tablets%20-%20Tawsyl.jpg 303,169,494,629,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20can%20330%20ml%20on%20white....jpg 329,313,722,1298,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20300ml%20(Pack%20of%204....jpg 534,7,997,1172,1 410,40,557,1130,1 301,51,415,1107,1 197,79,310,1081,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20by%20Genewal%20Design%20on%20Dribbble.jpg 156,48,242,268,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%203D%20Puzzle%20_%20Coca-Cola%20Store.png 178,48,516,702,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20300ml%20(Pack%20of%206)%20-%20Apni%20Shop.jpg 93,139,220,443,1 218,139,341,448,1 342,137,466,449,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20Soda%20Tin%20-%20Free%20photo%20on....jpg 204,174,606,1024,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20Price%20in%20India%20-%20Buy%20Coca....jpeg 1,1,234,416,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20can%20_%203D%20CAD%20Model%20Library....jpg 57,96,774,556,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Can%20%E2%80%93%20Global%20Grocery.jpeg 0,0,243,414,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20can%20_%20Smithsonian_s%20National%20Zoo.jpg 130,117,635,1049,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Cans%20_Life%20Hacks....jpg 139,103,818,545,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20cola180%20ml%20Can%20_%20Amazon.in%20....jpg 292,53,803,1059,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20company%20trials%20first%20paper....jpg 389,17,600,525,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Contour%20Bottle....jpg 106,77,462,1103,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Is%20Changing%20Coke%20Zero_s....jpg 319,126,750,956,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20_%20Coca-Cola%20Flavours%20in%20India....png 99,19,200,253,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20releases%20HK%20heritage%20design....jpg 5,125,96,347,1 107,129,192,352,1 201,123,300,350,1 303,121,399,351,1 403,122,501,352,1 508,124,601,350,1 607,120,703,357,1 712,127,795,356,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Regular%2024%20x%20330ml%20Online%20at....jpg 380,94,829,1115,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20rolls%20out%20new%20pack%20design%20for....jpg 739,123,1148,881,1 1155,141,1562,884,1 327,126,731,856,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola%20Sleek%20Can%20(Free)%20-%20Download....jpeg 752,140,1147,1008,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\COKE%20CAN%20300%20ML%20-%20Stationery%20items....jpg 139,30,343,482,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coke%20Can%20PNG%20Images_%20Free%20Transparent....png 67,6,170,269,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\COCACOLA%20POP%20CAN%20180ML.png 320,124,676,883,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coke%20Can%20Stock%20Photo%20-%20Download%20Image....jpg 50,29,567,1002,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coca-Cola....jpg 301,36,607,558,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coke%20Cans%20png%20images%20_%20PNGEgg.png 320,62,580,529,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Cold%20Water%20Bottle....jpeg 53,2,171,416,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Copper%20Bottle.jpg 386,37,638,825,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Coke%20can%20Stock%20Photos%20&%20Images....jpg 50,29,347,565,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Copper%20bottle_%20Stay%20hydrated%20during%20the....jpg 555,16,816,881,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Crushed%20Coca%20Cola%20can%20cut-out%20-%20Stock....jpg 55,81,528,699,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Double%20Walled%20Vacuum%20Insulated....jpg 648,256,816,709,0 793,102,949,712,0 1051,92,1215,714,0 1271,250,1452,718,0 1184,7,1344,283,0 632,5,825,287,0 524,96,661,732,0 245,100,415,710,0 12,260,177,726,0 118,5,270,260,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Eco%20Bottle%201L%20with%20Fliptop%20(2....jpg 462,106,715,977,0 678,48,893,980,0 129,21,387,968,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Crystal-Infused%20Water%20Bottles_%20Do%20They....jpg 188,55,538,510,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Eco_%20Large%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg 982,174,1684,2332,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Eco_%20Medium%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg 1006,499,1679,2370,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Essential%20Cycling%20Water%20Bottle%20550%20ml....jpg 304,264,504,696,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Evolution%20of%20Coke%20Bottles%20and%20Cans%20(1).jpg 236,70,494,548,1 501,64,743,547,1 2,70,250,535,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Empty%20Plastic%20Bottle%20Stock%20Photo....jpg 207,165,492,940,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Emerald%20Green%20Glass%20Long%20Neck%20Beer....jpg 637,0,1173,1784,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Fact%20Check%20Story_%20Photo%20of%20Coca%20Cola....jpg 156,66,418,460,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Evolution%20of%20Coke%20Bottles%20and%20Cans.jpg 741,4,1082,596,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Expensive%20Water%20Bottles%20Are%20Millennials....jpg 112,50,854,484,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Fridge%20Water%20Bottle%20Set....jpg 703,261,1044,1434,0 1137,255,1480,1441,0 302,261,653,1428,0 17,98,305,1285,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\F1%20Fragrance%20bottle....jpg 104,320,949,1956,0 1214,27,2243,1975,0 2484,277,3405,1947,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Gatorade%20Squeeze%2032oz%20Plastic%20Water....jpg 131,2,263,400,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Gatorade%20Squeeze%20Bottle%20_%20Sport%20Chek.jpg 189,32,335,488,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Front%20View%20Of%20Coca%20Cola%20Can%20Stock%20Photo....jpg 79,61,277,413,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\GIFTBASH%20Glass%20Bottle_%20100ML_%20Set%20of%204....jpg 251,32,705,968,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Gemful%203L%20Large%20Water%20Bottle%20with....jpg 57,80,473,922,0 540,65,958,930,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Glass%20200%20ml%20Milk%20Bottle_%20Rs%2012%20_unit....jpg 78,28,171,238,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Glass%20Bottle%20Manufacturer%20in%20Europe...%20(1).jpg 194,260,612,800,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Glass%20Bottle%20Manufacturer%20in%20Europe....jpg 218,277,599,800,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Glass%20Bottle%20Cork%20Stopper%20at%20Rs%2048....jpg 131,11,366,497,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Glass%20bottle%20shortage%20leaves%20US....jpg 948,52,1335,1244,0 1359,29,1870,1242,0 576,52,910,1244,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\glass%20bottle_New%20daily%20offers....jpg 185,78,318,492,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\GS%20POLO%20Coca%20Cola%20Can%20Sipper%20Vaccum%20Mug....jpeg 21,1,154,326,1 129,183,381,336,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Guide%20to%20Wine%20Bottle%20Sizes%20_%20Wine%20Folly.jpg 148,602,216,843,0 229,511,314,841,0 323,450,428,852,0 440,324,572,849,0 591,268,789,838,0 821,24,1054,852,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Glass_%20Metal_%20Plastic%20-%20Which%20Water....jpg 1178,90,1420,883,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Goals%20Insulated%20Stainless%20Steel%20Water....png 91,92,240,553,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Home%20iDrink%20-%20iDrink.jpg 357,62,555,847,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Hand%20Holding%20Coca%20Cola%20Can_%20by%20NOOR....jpg 125,68,286,269,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Home%20%E2%80%93%20EQUA%20-%20Sustainable%20Water%20Bottles.jpg 330,52,504,547,0 605,45,791,576,0 858,57,1045,571,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\How%20to%20Use%20a%20Density%20Bottle.png 92,55,239,397,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\How%20to%20draw%20a%20coca%20cola%20slim%20can%20-%20Yo.jpg 484,91,711,647,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\How%20to%20buy%20bottles%20and%20nipples%20_%20BabyCenter.jpg 519,46,992,714,0 30,53,507,714,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\How%20to%20Clean%20a%20Water%20Bottle%E2%80%94Because...%20(1).jpg 5,255,681,1582,0 700,35,1324,1355,0 1353,0,1945,1092,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Impossible%20bottle%20-%20Wikipedia.jpg 149,336,955,2661,0 997,325,1765,2661,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Irish%20message%20in%20a%20bottle%20found%2040....jpg 259,0,443,811,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Jameson%20Water%20Bottle%20_%20Jameson%20Irish....jpg 215,96,345,520,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Insulated%20Water%20Bottles....jpg 296,31,515,639,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\KENKO%20COPPER%20WATER%20BOTTLE%201%20LITER(MHS....jpg 264,30,415,582,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\KENT%20Thermos%20Bottles%20&%20Stainless%20Steel....png 959,252,1181,850,0 1317,351,1486,918,0 442,262,643,891,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As...%20(1).jpg 444,162,686,988,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Laboratory%20Bottle%20WITH%20PP%20Pouring%20Ring....png 177,2,422,579,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Kids%20Water%20Bottles%20-%20Buy%20School%20Water....jpeg 113,4,382,609,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Kuber%20Industries%20Cola%20Stainless%20Steel....jpg 258,94,684,1406,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Lable-free%20Bottle%20_%20evian%C2%AE%20-%20evian....jpg 1202,363,1914,2417,0 291,421,955,2340,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\meaning%20in%20the%20Cambridge%20English%20Dictionary.jpg 47,5,103,191,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As...%20(2).jpg 355,172,543,791,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As....jpg 338,204,545,831,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Matchstix%20Coke%20Can%20Stainless%20Steel....jpg 339,61,929,1191,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Mainstays%2022-ounce%20Plastic%20Water%20Bottle....jpg 1848,567,3160,4539,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Milton%20Duo%20DLX%201000%20Thermosteel%2024....jpg 740,102,1293,1849,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Milton%20Aqua%201000%20Stainless%20Steel%20Water....jpg 349,28,629,577,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Message%20in%20a%20bottle%20finders%20speak%20to%20US....jpg 139,117,817,407,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Menu%20Bottle%20Carafe%20with%20Lid....jpg 679,124,1186,1901,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Metal%20Water%20Bottle_%20GREY.png 720,90,1502,2941,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Moomin%20_Apples_%20Glass%20Bottle%201%20l....jpg 340,14,628,953,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Multi-Colour%20Roundel%20Water%20Bottle.jpg 259,27,454,675,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Milton%20Water%20Bottles%20Online%20at....jpeg 308,0,459,449,0 461,4,612,458,0 150,0,301,451,0 10,0,144,456,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Monkey%20Bottles%20%E2%80%93%20monkeycups.ie.jpg 112,46,229,536,0 425,89,523,455,0 325,76,429,472,0 224,67,339,502,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\network%20Bottles%20for%20Fridge%20School%20Use....jpeg 155,30,264,358,0 272,29,376,360,0 44,31,144,364,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Personalized%20Water%20Bottle%20-%20For%20Gym....jpg 222,74,390,547,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Nike%20Big%20Mouth%20Water%20Bottle%202.0%2022oz%20....jpg 395,2,805,1191,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Odel%20600Ml%20Plastic%20Bottle%20_%20Odel.lk.jpeg 209,93,770,1449,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\PET%20bottles.jpg 152,34,291,413,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Ocean%20Bottle_%20The%20world_s%20most%20needed....png 168,7,741,896,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plastic%20Bottles%20in%20Mumbai_%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95....jpg 68,22,187,242,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plastic%20Bottle%20Pictures%20%5BHQ%5D%20_%20Download....jpg 61,30,249,441,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plain%20Water%20bottle%20_%20Water%20bottles....jpg 177,78,326,538,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plastic%20Drink%20Water%20Bottle%20Stock%20Photo....jpg 142,29,431,950,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Pump%20Still%20Water%20Bottle%20750mL%20_%20Woolworths.jpg 382,4,812,1198,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plastic%20Empty%20Water%20Bottle_%20Capacity....jpg 173,8,339,492,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plastic%20water%20bottle%203D%20model....jpg 244,3,354,315,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\PUMA%20Sportstyle%20Unisex%20Training%20600ml....jpg 658,32,1342,1965,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Plastic%20Water%20Bottle%20Safety%20Tips....jpg 65,245,1752,986,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Realistic%20Coca%20cola%20can%203D%20model%20_%20CGTrader.jpg 59,8,415,468,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Reagent%20Bottle%20with%20Screw%20Cap_%20Clear....jpg 168,38,410,539,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Pura%20Stainless%20_%20Stainless%20Steel%20Baby....png 23,16,227,534,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Reuse%20My%20Bottled%20Water%20Bottle....jpg 1324,121,2000,2000,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Reuse%20Old%20Plastic%20Bottles.png 124,132,573,455,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Smart%20Water%20Bottles%20That%20Are%20Worth%20the....jpg 283,9,431,423,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Sparkling%20Wine%20Bottle%20Clear%20750ml%20-%20The....jpg 370,27,643,972,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Solimo%20Plastic%20Fridge%20Bottle%20Set....jpg 776,0,1374,2201,0 1516,8,2122,2213,0 20,16,606,2197,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\SOMA%20Glass%20Bottle%20_%20SOMA%20Water%20Singapore.jpg 478,168,739,1036,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Stainless%20Steel%20Reusable%20Insulated%20Bottles.png 198,121,395,730,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Stainless%20Steel%20Bottle%20Peacock....jpg 242,50,383,591,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Sprite%202L%20Bottle%20_%20Walmart%20Canada.jpg 310,8,820,1463,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Stainless%20Steel%20Water%20Bottles%2027%20oz....jpg 216,84,374,573,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Stone%20_%20S_well%C2%AE%20Bottle%20Official.png 96,93,238,550,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\S_well%20Stainless%20Steel%20Water%20Bottles....jpg 35,65,93,270,0 101,107,167,274,0 175,62,261,265,0 259,76,314,273,0 356,89,445,269,0 509,67,567,272,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Steel%20Water%20Bottle%201200ml%20-%20Miniso.jpg 596,131,933,995,0 255,339,459,909,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Technology%20Coca-Cola%20Can%20Safe%20DS-COKE....jpg 8,5,516,980,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\S_well%20Stainless%20Steel%20Water%20Bottles....png 153,100,229,381,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\The%208%20Best%20Reusable%20Water%20Bottles%20(2022...%20(1).jpg 988,85,1472,1208,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\The%208%20Best%20Reusable%20Water%20Bottles%20(2022....jpg 134,43,188,194,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\The%208%20Best%20Water%20Bottles%20for%202022...%20(2).jpg 180,135,911,683,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\The%208%20Best%20Water%20Bottles%20for%202022....jpg 86,197,200,439,0 243,97,348,455,0 349,120,431,385,0 539,121,623,419,0 821,211,914,439,0 726,178,805,410,0 657,138,738,371,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\The%208%20Best%20Water%20Bottles%20for%202022...%20(1).jpg 791,106,1232,1297,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Top%20COCA%20COLA%20CAN%20330ML%20(PACK%20OF%2024....jpeg 116,121,220,247,1 227,116,328,249,1 330,107,433,235,1 431,104,533,228,1 531,97,634,224,1 630,88,730,214,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Trendy%20Stainless%20Steel%20Water%20Bottle....jpg 306,29,585,871,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\The%20Best%20Kids%20Water%20Bottles%20for%202022....jpg 857,264,1257,1204,0 1333,177,1773,1183,0 269,231,810,1207,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Thermos%20Water%20Bottle%20(New%20Designs....png 237,79,365,488,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\TRITAN%E2%84%A2%20BOTTLE%20Wide%20Mouth%20(1%20Liter....jpg 141,16,383,470,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Tupperware%20Aquasafe%20Steel%20Water%20Bottle....jpg 290,60,545,841,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Tupperware%20Aquasafe%20Cool%20n%20Chic%20500ml....jpg 386,72,631,1132,0 648,181,893,1121,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Wash%20Your%20Water%20Bottle....jpeg 119,71,196,316,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottle%20-%20Frankztreat.jpg 366,36,665,957,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Two-liter%20bottle%20-%20Wikipedia.jpg 318,27,634,904,0 10,32,316,907,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottle%20500%20ML%20-%20Tunturi%20Fitness.jpg 645,125,1265,1745,0 1278,115,1865,1785,0 12,111,642,1772,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20bottle%20Images_%20Stock%20Photos....jpg 60,33,124,230,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottle%2028%20cl_%20Mat%20Navy%20-%20GLACIAL....jpg 387,29,858,1473,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottles%20for%20Staying%20Hydrated....jpg 49,107,273,807,0 445,139,683,819,0 879,101,1091,801,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottles%20for%20Runners.jpg 1334,84,1998,2012,0 2900,84,3569,2040,0 603,162,1251,2029,0 0,0,465,2023,0 3680,118,4167,2083,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottles%20That%20Track%20Intake...%20(1).jpg 624,65,860,892,0 414,456,573,916,0 229,464,375,906,0 20,468,163,905,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20bottles....jpg 302,17,454,424,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottles%20That%20Track%20Intake....jpg 135,4,295,402,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpeg 10,25,76,241,0 79,22,147,242,0 150,22,214,242,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpg 31,4,112,258,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\%E2%84%A2%E2%9C%93%20Coca%20Cola%20(Coke)%20Soft%20Drink%20Can....jpg 40,152,192,541,1 231,248,311,469,1 311,239,384,451,1 389,235,458,443,1 456,224,514,429,1 521,203,578,416,1 579,192,639,406,1
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Water%20Plastic%20Bottle%20Isolated%20Stock....jpg 56,141,218,471,0 228,20,352,468,0 358,16,494,473,0 499,24,645,476,0 657,40,786,473,0 787,61,941,468,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Woman%20finds%2095-year-old%20message%20in%20a....jpg 857,119,1168,860,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\Wines%20with%20Standout%20Bottle%20Designs....jpg 2259,1170,3235,4255,0
+C:\Users\I508308\Dev\SingTel\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\%E2%9C%93%20Tin%20Coca-Cola%20Can%20On%20Brown%20Wooden....jpg 2413,354,4255,3591,1
