@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5219f846b4bdd58e3a64a047e2e820a5",
+        "name": "750mL%20Glass%20Spirit%20Bottle%20with%20Black....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/750mL%20Glass%20Spirit%20Bottle%20with%20Black....png",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Bqxp2OYyi",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 920.5426356589147,
+                "width": 389.5348837209302,
+                "left": 322.6744186046511,
+                "top": 52.325581395348834
+            },
+            "points": [
+                {
+                    "x": 322.6744186046511,
+                    "y": 52.325581395348834
+                },
+                {
+                    "x": 712.2093023255813,
+                    "y": 52.325581395348834
+                },
+                {
+                    "x": 712.2093023255813,
+                    "y": 972.8682170542635
+                },
+                {
+                    "x": 322.6744186046511,
+                    "y": 972.8682170542635
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

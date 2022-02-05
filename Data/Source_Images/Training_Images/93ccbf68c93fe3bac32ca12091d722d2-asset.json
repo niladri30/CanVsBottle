@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "93ccbf68c93fe3bac32ca12091d722d2",
+        "name": "Reuse%20Old%20Plastic%20Bottles.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reuse%20Old%20Plastic%20Bottles.png",
+        "size": {
+            "width": 635,
+            "height": 476
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "I0lfBaR1K",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 323.2411347517731,
+                "width": 449.22872340425533,
+                "left": 123.87830369015957,
+                "top": 131.6595744680851
+            },
+            "points": [
+                {
+                    "x": 123.87830369015957,
+                    "y": 131.6595744680851
+                },
+                {
+                    "x": 573.1070270944149,
+                    "y": 131.6595744680851
+                },
+                {
+                    "x": 573.1070270944149,
+                    "y": 454.90070921985813
+                },
+                {
+                    "x": 123.87830369015957,
+                    "y": 454.90070921985813
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

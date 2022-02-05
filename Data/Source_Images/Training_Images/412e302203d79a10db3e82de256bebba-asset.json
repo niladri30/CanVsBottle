@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "412e302203d79a10db3e82de256bebba",
+        "name": "Buy%20Kinley%20Club%20Soda%20125%20L%20Online%20At....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Kinley%20Club%20Soda%20125%20L%20Online%20At....png",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lQh8nQlN6",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 833.7209302325581,
+                "width": 252.90697674418604,
+                "left": 316.56976744186045,
+                "top": 31.3953488372093
+            },
+            "points": [
+                {
+                    "x": 316.56976744186045,
+                    "y": 31.3953488372093
+                },
+                {
+                    "x": 569.4767441860465,
+                    "y": 31.3953488372093
+                },
+                {
+                    "x": 569.4767441860465,
+                    "y": 865.1162790697674
+                },
+                {
+                    "x": 316.56976744186045,
+                    "y": 865.1162790697674
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

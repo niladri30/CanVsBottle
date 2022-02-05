@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "620fd8622971c838a642485a84e61997",
+        "name": "Stainless%20Steel%20Reusable%20Insulated%20Bottles.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stainless%20Steel%20Reusable%20Insulated%20Bottles.png",
+        "size": {
+            "width": 600,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7VmowVZAv",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 609.0425531914893,
+                "width": 196.89578713968956,
+                "left": 198.37167405764967,
+                "top": 121.01063829787233
+            },
+            "points": [
+                {
+                    "x": 198.37167405764967,
+                    "y": 121.01063829787233
+                },
+                {
+                    "x": 395.26746119733923,
+                    "y": 121.01063829787233
+                },
+                {
+                    "x": 395.26746119733923,
+                    "y": 730.0531914893617
+                },
+                {
+                    "x": 198.37167405764967,
+                    "y": 730.0531914893617
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

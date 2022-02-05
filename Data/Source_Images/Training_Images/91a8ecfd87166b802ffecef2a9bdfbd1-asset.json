@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "91a8ecfd87166b802ffecef2a9bdfbd1",
+        "name": "Reuse%20My%20Bottled%20Water%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reuse%20My%20Bottled%20Water%20Bottle....jpg",
+        "size": {
+            "width": 2000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wPah-pm_V",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1879.432624113475,
+                "width": 675.531914893617,
+                "left": 1324.468085106383,
+                "top": 120.56737588652481
+            },
+            "points": [
+                {
+                    "x": 1324.468085106383,
+                    "y": 120.56737588652481
+                },
+                {
+                    "x": 1999.9999999999998,
+                    "y": 120.56737588652481
+                },
+                {
+                    "x": 1999.9999999999998,
+                    "y": 1999.9999999999998
+                },
+                {
+                    "x": 1324.468085106383,
+                    "y": 1999.9999999999998
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

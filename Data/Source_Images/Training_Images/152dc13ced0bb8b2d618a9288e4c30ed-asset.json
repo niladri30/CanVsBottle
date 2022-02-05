@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "152dc13ced0bb8b2d618a9288e4c30ed",
+        "name": "Buy%20Flasks%20and%20Water%20Bottles%20Online....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Flasks%20and%20Water%20Bottles%20Online....jpg",
+        "size": {
+            "width": 400,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LKvWOmByh",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 327.13178294573646,
+                "width": 93.7984496124031,
+                "left": 151.55038759689924,
+                "top": 30.232558139534884
+            },
+            "points": [
+                {
+                    "x": 151.55038759689924,
+                    "y": 30.232558139534884
+                },
+                {
+                    "x": 245.34883720930233,
+                    "y": 30.232558139534884
+                },
+                {
+                    "x": 245.34883720930233,
+                    "y": 357.36434108527135
+                },
+                {
+                    "x": 151.55038759689924,
+                    "y": 357.36434108527135
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

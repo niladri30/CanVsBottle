@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "931a083eb34fd90d44c2da45b1046b7f",
+        "name": "Bottle%20Of%20Water%20Pictures%20_%20Download....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Of%20Water%20Pictures%20_%20Download....jpg",
+        "size": {
+            "width": 359,
+            "height": 479
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "l_M-jcdBP",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 398.23837209302326,
+                "width": 116.88372093023256,
+                "left": 121.40600775193799,
+                "top": 38.98837209302326
+            },
+            "points": [
+                {
+                    "x": 121.40600775193799,
+                    "y": 38.98837209302326
+                },
+                {
+                    "x": 238.28972868217053,
+                    "y": 38.98837209302326
+                },
+                {
+                    "x": 238.28972868217053,
+                    "y": 437.2267441860465
+                },
+                {
+                    "x": 121.40600775193799,
+                    "y": 437.2267441860465
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

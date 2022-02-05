@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0572e3c9415059f251fea149549e778c",
+        "name": "Cello%20Puro%20Steel-X%20Benz%20Stainless%20Steel....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20Puro%20Steel-X%20Benz%20Stainless%20Steel....jpg",
+        "size": {
+            "width": 1280,
+            "height": 1280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "T97BqtpYL",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1121.2403100775193,
+                "width": 374.5736434108527,
+                "left": 475.0387596899225,
+                "top": 99.2248062015504
+            },
+            "points": [
+                {
+                    "x": 475.0387596899225,
+                    "y": 99.2248062015504
+                },
+                {
+                    "x": 849.6124031007752,
+                    "y": 99.2248062015504
+                },
+                {
+                    "x": 849.6124031007752,
+                    "y": 1220.4651162790697
+                },
+                {
+                    "x": 475.0387596899225,
+                    "y": 1220.4651162790697
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

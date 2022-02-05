@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "48905d01801065c4c9769f75551922d9",
+        "name": "Odel%20600Ml%20Plastic%20Bottle%20_%20Odel.lk.jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Odel%20600Ml%20Plastic%20Bottle%20_%20Odel.lk.jpeg",
+        "size": {
+            "width": 1000,
+            "height": 1500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EueAbJGE2",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1356.3829787234042,
+                "width": 561.1702127659574,
+                "left": 208.77659574468086,
+                "top": 93.08510638297872
+            },
+            "points": [
+                {
+                    "x": 208.77659574468086,
+                    "y": 93.08510638297872
+                },
+                {
+                    "x": 769.9468085106383,
+                    "y": 93.08510638297872
+                },
+                {
+                    "x": 769.9468085106383,
+                    "y": 1449.468085106383
+                },
+                {
+                    "x": 208.77659574468086,
+                    "y": 1449.468085106383
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

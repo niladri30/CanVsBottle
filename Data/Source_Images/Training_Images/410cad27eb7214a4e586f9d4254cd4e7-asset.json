@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "410cad27eb7214a4e586f9d4254cd4e7",
+        "name": "Wash%20Your%20Water%20Bottle....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Wash%20Your%20Water%20Bottle....jpeg",
+        "size": {
+            "width": 477,
+            "height": 357
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kmRe-W6NE",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 244.9627659574468,
+                "width": 76.64940239043824,
+                "left": 119.09163346613546,
+                "top": 71.39802194148936
+            },
+            "points": [
+                {
+                    "x": 119.09163346613546,
+                    "y": 71.39802194148936
+                },
+                {
+                    "x": 195.74103585657372,
+                    "y": 71.39802194148936
+                },
+                {
+                    "x": 195.74103585657372,
+                    "y": 316.36078789893617
+                },
+                {
+                    "x": 119.09163346613546,
+                    "y": 316.36078789893617
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

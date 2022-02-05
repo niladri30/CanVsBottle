@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4177e068b49f51e1a91480e05c7867aa",
+        "name": "Coca-Cola%20can%20330%20ml%20on%20white....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20330%20ml%20on%20white....jpg",
+        "size": {
+            "width": 1069,
+            "height": 1700
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gnURg8Zj1",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 985.077519379845,
+                "width": 392.62654320987656,
+                "left": 329.1134259259259,
+                "top": 312.984496124031
+            },
+            "points": [
+                {
+                    "x": 329.1134259259259,
+                    "y": 312.984496124031
+                },
+                {
+                    "x": 721.7399691358025,
+                    "y": 312.984496124031
+                },
+                {
+                    "x": 721.7399691358025,
+                    "y": 1298.062015503876
+                },
+                {
+                    "x": 329.1134259259259,
+                    "y": 1298.062015503876
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

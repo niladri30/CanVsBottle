@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "90c9cf4a2cdfc056ffad8a984f6c4f4a",
+        "name": "10_393%20Coke%20Can%20Stock%20Photos_%20Pictures....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10_393%20Coke%20Can%20Stock%20Photos_%20Pictures....jpg",
+        "size": {
+            "width": 494,
+            "height": 612
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "l4isqtNmy",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 456.6279069767442,
+                "width": 264.17745803357315,
+                "left": 112.26431354916066,
+                "top": 85.39534883720931
+            },
+            "points": [
+                {
+                    "x": 112.26431354916066,
+                    "y": 85.39534883720931
+                },
+                {
+                    "x": 376.4417715827338,
+                    "y": 85.39534883720931
+                },
+                {
+                    "x": 376.4417715827338,
+                    "y": 542.0232558139535
+                },
+                {
+                    "x": 112.26431354916066,
+                    "y": 542.0232558139535
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

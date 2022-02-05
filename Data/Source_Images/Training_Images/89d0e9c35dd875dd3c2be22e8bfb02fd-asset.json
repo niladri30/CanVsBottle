@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "89d0e9c35dd875dd3c2be22e8bfb02fd",
+        "name": "27_%20Bottle%20Pictures%20_%20Download%20Free....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/27_%20Bottle%20Pictures%20_%20Download%20Free....jpg",
+        "size": {
+            "width": 3086,
+            "height": 2629
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "duRIc4Tbs",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 2059.6624203821657,
+                "width": 876.133815551537,
+                "left": 1763.4285714285716,
+                "top": 248.73633227176222
+            },
+            "points": [
+                {
+                    "x": 1763.4285714285716,
+                    "y": 248.73633227176222
+                },
+                {
+                    "x": 2639.5623869801084,
+                    "y": 248.73633227176222
+                },
+                {
+                    "x": 2639.5623869801084,
+                    "y": 2308.398752653928
+                },
+                {
+                    "x": 1763.4285714285716,
+                    "y": 2308.398752653928
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

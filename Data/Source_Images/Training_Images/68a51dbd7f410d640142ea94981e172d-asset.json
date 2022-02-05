@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "68a51dbd7f410d640142ea94981e172d",
+        "name": "How%20to%20Use%20a%20Density%20Bottle.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20Use%20a%20Density%20Bottle.png",
+        "size": {
+            "width": 310,
+            "height": 465
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aAb_7y86C",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 341.32978723404256,
+                "width": 146.75531914893617,
+                "left": 91.92819148936171,
+                "top": 55.23936170212766
+            },
+            "points": [
+                {
+                    "x": 91.92819148936171,
+                    "y": 55.23936170212766
+                },
+                {
+                    "x": 238.6835106382979,
+                    "y": 55.23936170212766
+                },
+                {
+                    "x": 238.6835106382979,
+                    "y": 396.5691489361702
+                },
+                {
+                    "x": 91.92819148936171,
+                    "y": 396.5691489361702
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

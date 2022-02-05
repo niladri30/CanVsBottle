@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "643cf2dcc9a00c55edc4ba9557b049c3",
+        "name": "Bistro%20Glass%20Bottle%20Amber%201L....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bistro%20Glass%20Bottle%20Amber%201L....jpg",
+        "size": {
+            "width": 765,
+            "height": 765
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "h_8jlSrCE",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 710.1453488372093,
+                "width": 315.7848837209302,
+                "left": 223.125,
+                "top": 31.133720930232556
+            },
+            "points": [
+                {
+                    "x": 223.125,
+                    "y": 31.133720930232556
+                },
+                {
+                    "x": 538.9098837209302,
+                    "y": 31.133720930232556
+                },
+                {
+                    "x": 538.9098837209302,
+                    "y": 741.2790697674418
+                },
+                {
+                    "x": 223.125,
+                    "y": 741.2790697674418
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

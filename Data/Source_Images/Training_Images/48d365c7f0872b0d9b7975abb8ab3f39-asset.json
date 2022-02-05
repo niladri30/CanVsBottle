@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "48d365c7f0872b0d9b7975abb8ab3f39",
+        "name": "coca%20cola_%20product_%20tin%20can_%20soft%20drink....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/coca%20cola_%20product_%20tin%20can_%20soft%20drink....jpg",
+        "size": {
+            "width": 3168,
+            "height": 4752
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XLYymTwbR",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 2790.4186046511627,
+                "width": 2293.1162790697676,
+                "left": 437.4418604651163,
+                "top": 976.186046511628
+            },
+            "points": [
+                {
+                    "x": 437.4418604651163,
+                    "y": 976.186046511628
+                },
+                {
+                    "x": 2730.558139534884,
+                    "y": 976.186046511628
+                },
+                {
+                    "x": 2730.558139534884,
+                    "y": 3766.604651162791
+                },
+                {
+                    "x": 437.4418604651163,
+                    "y": 3766.604651162791
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

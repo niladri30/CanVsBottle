@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "56d33e511c608e5474b00acefe6e48f3",
+        "name": "Buy%20Glass%20Bottle%20300%20ML%20at%20Best%20Price....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Glass%20Bottle%20300%20ML%20at%20Best%20Price....png",
+        "size": {
+            "width": 400,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "e7cFfrpZh",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 214.6987951807229,
+                "width": 78.84267631103074,
+                "left": 160.57866184448463,
+                "top": 40.03012048192771
+            },
+            "points": [
+                {
+                    "x": 160.57866184448463,
+                    "y": 40.03012048192771
+                },
+                {
+                    "x": 239.42133815551537,
+                    "y": 40.03012048192771
+                },
+                {
+                    "x": 239.42133815551537,
+                    "y": 254.7289156626506
+                },
+                {
+                    "x": 160.57866184448463,
+                    "y": 254.7289156626506
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

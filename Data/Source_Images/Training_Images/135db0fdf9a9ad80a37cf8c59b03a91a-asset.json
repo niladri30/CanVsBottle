@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "135db0fdf9a9ad80a37cf8c59b03a91a",
+        "name": "500_%20Water%20Bottle%20Pictures%20%5BHQ....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500_%20Water%20Bottle%20Pictures%20%5BHQ....jpg",
+        "size": {
+            "width": 4006,
+            "height": 6008
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OAnObt6-r",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 4110.124031007752,
+                "width": 1537.186046511628,
+                "left": 1263.8842659883721,
+                "top": 1548.5736434108526
+            },
+            "points": [
+                {
+                    "x": 1263.8842659883721,
+                    "y": 1548.5736434108526
+                },
+                {
+                    "x": 2801.0703125,
+                    "y": 1548.5736434108526
+                },
+                {
+                    "x": 2801.0703125,
+                    "y": 5658.697674418604
+                },
+                {
+                    "x": 1263.8842659883721,
+                    "y": 5658.697674418604
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "699fd337ba4b767b66875463e4192046",
+        "name": "Evolution%20of%20Coke%20Bottles%20and%20Cans.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Evolution%20of%20Coke%20Bottles%20and%20Cans.jpg",
+        "size": {
+            "width": 1200,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Onj5_wv55",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 592.0424403183024,
+                "width": 341.0358565737052,
+                "left": 741.0358565737051,
+                "top": 3.5809018567639255
+            },
+            "points": [
+                {
+                    "x": 741.0358565737051,
+                    "y": 3.5809018567639255
+                },
+                {
+                    "x": 1082.0717131474103,
+                    "y": 3.5809018567639255
+                },
+                {
+                    "x": 1082.0717131474103,
+                    "y": 595.6233421750663
+                },
+                {
+                    "x": 741.0358565737051,
+                    "y": 595.6233421750663
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

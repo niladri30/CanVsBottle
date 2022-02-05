@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "651f02e08a338f2637741871e70ea22f",
+        "name": "Pura%20Stainless%20_%20Stainless%20Steel%20Baby....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Pura%20Stainless%20_%20Stainless%20Steel%20Baby....png",
+        "size": {
+            "width": 300,
+            "height": 537
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w6F9ANi7f",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 517.9574468085107,
+                "width": 203.8095238095238,
+                "left": 22.90178571428571,
+                "top": 16.18617021276596
+            },
+            "points": [
+                {
+                    "x": 22.90178571428571,
+                    "y": 16.18617021276596
+                },
+                {
+                    "x": 226.71130952380952,
+                    "y": 16.18617021276596
+                },
+                {
+                    "x": 226.71130952380952,
+                    "y": 534.1436170212766
+                },
+                {
+                    "x": 22.90178571428571,
+                    "y": 534.1436170212766
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

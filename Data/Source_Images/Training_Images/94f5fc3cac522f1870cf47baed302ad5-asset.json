@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "94f5fc3cac522f1870cf47baed302ad5",
+        "name": "Buy%20Milton%20Water%20Bottle%20-%20Thermosteel....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Milton%20Water%20Bottle%20-%20Thermosteel....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jUirdkZce",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 493.21705426356584,
+                "width": 140.50387596899225,
+                "left": 177.81007751937983,
+                "top": 0.9689922480620154
+            },
+            "points": [
+                {
+                    "x": 177.81007751937983,
+                    "y": 0.9689922480620154
+                },
+                {
+                    "x": 318.3139534883721,
+                    "y": 0.9689922480620154
+                },
+                {
+                    "x": 318.3139534883721,
+                    "y": 494.18604651162786
+                },
+                {
+                    "x": 177.81007751937983,
+                    "y": 494.18604651162786
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

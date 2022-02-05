@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "52c2424d177d9cd6e208fb5de485ce6e",
+        "name": "Matchstix%20Coke%20Can%20Stainless%20Steel....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Matchstix%20Coke%20Can%20Stainless%20Steel....jpg",
+        "size": {
+            "width": 1280,
+            "height": 1280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CQJulnHXy",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 1130.212765957447,
+                "width": 590.0709219858156,
+                "left": 339.290780141844,
+                "top": 61.276595744680854
+            },
+            "points": [
+                {
+                    "x": 339.290780141844,
+                    "y": 61.276595744680854
+                },
+                {
+                    "x": 929.3617021276597,
+                    "y": 61.276595744680854
+                },
+                {
+                    "x": 929.3617021276597,
+                    "y": 1191.4893617021278
+                },
+                {
+                    "x": 339.290780141844,
+                    "y": 1191.4893617021278
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

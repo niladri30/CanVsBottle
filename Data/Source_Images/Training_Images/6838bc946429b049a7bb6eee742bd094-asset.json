@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6838bc946429b049a7bb6eee742bd094",
+        "name": "Reagent%20Bottle%20with%20Screw%20Cap_%20Clear....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reagent%20Bottle%20with%20Screw%20Cap_%20Clear....jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cZvbM2nWH",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 501.06382978723406,
+                "width": 242.5531914893617,
+                "left": 167.5531914893617,
+                "top": 38.29787234042553
+            },
+            "points": [
+                {
+                    "x": 167.5531914893617,
+                    "y": 38.29787234042553
+                },
+                {
+                    "x": 410.1063829787234,
+                    "y": 38.29787234042553
+                },
+                {
+                    "x": 410.1063829787234,
+                    "y": 539.3617021276596
+                },
+                {
+                    "x": 167.5531914893617,
+                    "y": 539.3617021276596
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "629da9cb2c50158b124c003eb1dfa9df",
+        "name": "Ocean%20Bottle_%20The%20world_s%20most%20needed....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Ocean%20Bottle_%20The%20world_s%20most%20needed....png",
+        "size": {
+            "width": 750,
+            "height": 1019
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-aEcq7cx-",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 888.9148936170213,
+                "width": 572.8915662650603,
+                "left": 168.18524096385542,
+                "top": 7.226950354609929
+            },
+            "points": [
+                {
+                    "x": 168.18524096385542,
+                    "y": 7.226950354609929
+                },
+                {
+                    "x": 741.0768072289156,
+                    "y": 7.226950354609929
+                },
+                {
+                    "x": 741.0768072289156,
+                    "y": 896.1418439716313
+                },
+                {
+                    "x": 168.18524096385542,
+                    "y": 896.1418439716313
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

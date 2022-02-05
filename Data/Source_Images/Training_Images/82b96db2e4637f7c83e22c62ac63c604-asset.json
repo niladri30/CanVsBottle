@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "82b96db2e4637f7c83e22c62ac63c604",
+        "name": "meaning%20in%20the%20Cambridge%20English%20Dictionary.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/meaning%20in%20the%20Cambridge%20English%20Dictionary.jpg",
+        "size": {
+            "width": 150,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "boy92LJyN",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 186.52482269503545,
+                "width": 56.02836879432624,
+                "left": 47.16312056737589,
+                "top": 4.964539007092199
+            },
+            "points": [
+                {
+                    "x": 47.16312056737589,
+                    "y": 4.964539007092199
+                },
+                {
+                    "x": 103.19148936170212,
+                    "y": 4.964539007092199
+                },
+                {
+                    "x": 103.19148936170212,
+                    "y": 191.48936170212767
+                },
+                {
+                    "x": 47.16312056737589,
+                    "y": 191.48936170212767
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

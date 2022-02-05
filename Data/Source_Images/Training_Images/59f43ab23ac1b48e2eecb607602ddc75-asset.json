@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "59f43ab23ac1b48e2eecb607602ddc75",
+        "name": "glass%20bottle_New%20daily%20offers....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/glass%20bottle_New%20daily%20offers....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-5ILIvNxn",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 414.0070921985815,
+                "width": 132.9787234042553,
+                "left": 184.8404255319149,
+                "top": 78.01418439716312
+            },
+            "points": [
+                {
+                    "x": 184.8404255319149,
+                    "y": 78.01418439716312
+                },
+                {
+                    "x": 317.81914893617017,
+                    "y": 78.01418439716312
+                },
+                {
+                    "x": 317.81914893617017,
+                    "y": 492.02127659574467
+                },
+                {
+                    "x": 184.8404255319149,
+                    "y": 492.02127659574467
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

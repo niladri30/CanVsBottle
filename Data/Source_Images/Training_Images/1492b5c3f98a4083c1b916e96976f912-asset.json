@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1492b5c3f98a4083c1b916e96976f912",
+        "name": "COCA%20COLA%20CAN%20180ML%20-%20SOFT%20DRINKS....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCA%20COLA%20CAN%20180ML%20-%20SOFT%20DRINKS....jpg",
+        "size": {
+            "width": 800,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fDdHHle_U",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 772.093023255814,
+                "width": 404.6511627906977,
+                "left": 200.77519379844964,
+                "top": 15.503875968992249
+            },
+            "points": [
+                {
+                    "x": 200.77519379844964,
+                    "y": 15.503875968992249
+                },
+                {
+                    "x": 605.4263565891473,
+                    "y": 15.503875968992249
+                },
+                {
+                    "x": 605.4263565891473,
+                    "y": 787.5968992248063
+                },
+                {
+                    "x": 200.77519379844964,
+                    "y": 787.5968992248063
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

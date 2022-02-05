@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "186f1835a6655d555105821d137565f6",
+        "name": "PUMA%20Sportstyle%20Unisex%20Training%20600ml....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/PUMA%20Sportstyle%20Unisex%20Training%20600ml....jpg",
+        "size": {
+            "width": 2000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-vfZZwVVQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1932.6241134751772,
+                "width": 684.3971631205674,
+                "left": 657.8014184397163,
+                "top": 31.914893617021274
+            },
+            "points": [
+                {
+                    "x": 657.8014184397163,
+                    "y": 31.914893617021274
+                },
+                {
+                    "x": 1342.1985815602836,
+                    "y": 31.914893617021274
+                },
+                {
+                    "x": 1342.1985815602836,
+                    "y": 1964.5390070921985
+                },
+                {
+                    "x": 657.8014184397163,
+                    "y": 1964.5390070921985
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

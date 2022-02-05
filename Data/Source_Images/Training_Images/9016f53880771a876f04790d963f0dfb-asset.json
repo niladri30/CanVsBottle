@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9016f53880771a876f04790d963f0dfb",
+        "name": "Gatorade%20Squeeze%20Bottle%20_%20Sport%20Chek.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Gatorade%20Squeeze%20Bottle%20_%20Sport%20Chek.jpg",
+        "size": {
+            "width": 520,
+            "height": 520
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qEfJM_ggm",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 455.4609929078014,
+                "width": 145.67375886524823,
+                "left": 189.46808510638297,
+                "top": 32.269503546099294
+            },
+            "points": [
+                {
+                    "x": 189.46808510638297,
+                    "y": 32.269503546099294
+                },
+                {
+                    "x": 335.1418439716312,
+                    "y": 32.269503546099294
+                },
+                {
+                    "x": 335.1418439716312,
+                    "y": 487.7304964539007
+                },
+                {
+                    "x": 189.46808510638297,
+                    "y": 487.7304964539007
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

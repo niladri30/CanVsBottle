@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "881a5002e5dd161b6bf770374c0e2037",
+        "name": "500ml%20Clear%20Glass%20Bottle%20With%20Screw%20Cap....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500ml%20Clear%20Glass%20Bottle%20With%20Screw%20Cap....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D9P8D6PAc",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 430.23255813953483,
+                "width": 128.87596899224806,
+                "left": 144.86434108527132,
+                "top": 62.984496124031004
+            },
+            "points": [
+                {
+                    "x": 144.86434108527132,
+                    "y": 62.984496124031004
+                },
+                {
+                    "x": 273.7403100775194,
+                    "y": 62.984496124031004
+                },
+                {
+                    "x": 273.7403100775194,
+                    "y": 493.21705426356584
+                },
+                {
+                    "x": 144.86434108527132,
+                    "y": 493.21705426356584
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

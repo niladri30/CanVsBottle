@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "962df0ab38401c94661e687aed2502ad",
+        "name": "Coca%20Cola%20Zero%20300%20ml%20(Can)%20-%20JioMart.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Zero%20300%20ml%20(Can)%20-%20JioMart.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cX4FQJlng",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 495.34883720930236,
+                "width": 216.27906976744188,
+                "left": 193.6046511627907,
+                "top": 48.83720930232558
+            },
+            "points": [
+                {
+                    "x": 193.6046511627907,
+                    "y": 48.83720930232558
+                },
+                {
+                    "x": 409.8837209302326,
+                    "y": 48.83720930232558
+                },
+                {
+                    "x": 409.8837209302326,
+                    "y": 544.186046511628
+                },
+                {
+                    "x": 193.6046511627907,
+                    "y": 544.186046511628
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

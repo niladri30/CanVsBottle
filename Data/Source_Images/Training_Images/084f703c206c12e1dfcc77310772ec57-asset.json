@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "084f703c206c12e1dfcc77310772ec57",
+        "name": "Beverage%20Bottles%20-%20Ball.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Beverage%20Bottles%20-%20Ball.jpg",
+        "size": {
+            "width": 2025,
+            "height": 1350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "11Mc8bSa6",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 823.1707317073171,
+                "width": 351.5370705244123,
+                "left": 805.6057866184449,
+                "top": 187.84298780487805
+            },
+            "points": [
+                {
+                    "x": 805.6057866184449,
+                    "y": 187.84298780487805
+                },
+                {
+                    "x": 1157.142857142857,
+                    "y": 187.84298780487805
+                },
+                {
+                    "x": 1157.142857142857,
+                    "y": 1011.0137195121952
+                },
+                {
+                    "x": 805.6057866184449,
+                    "y": 1011.0137195121952
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

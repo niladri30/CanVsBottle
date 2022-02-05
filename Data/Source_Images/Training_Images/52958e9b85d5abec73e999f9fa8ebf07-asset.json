@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "52958e9b85d5abec73e999f9fa8ebf07",
+        "name": "COCACOLA%20POP%20CAN%20180ML.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCACOLA%20POP%20CAN%20180ML.png",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cMBBdemJ8",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 758.8652482269503,
+                "width": 356.3829787234042,
+                "left": 320.03546099290776,
+                "top": 124.11347517730496
+            },
+            "points": [
+                {
+                    "x": 320.03546099290776,
+                    "y": 124.11347517730496
+                },
+                {
+                    "x": 676.418439716312,
+                    "y": 124.11347517730496
+                },
+                {
+                    "x": 676.418439716312,
+                    "y": 882.9787234042552
+                },
+                {
+                    "x": 320.03546099290776,
+                    "y": 882.9787234042552
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

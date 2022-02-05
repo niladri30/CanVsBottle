@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "502ed0bc5ed3269398f79fced0203904",
+        "name": "Buy%20Serial%20Sipper%20Water%20Bottle%20Online....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Serial%20Sipper%20Water%20Bottle%20Online....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ye2uWLc8F",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 436.04651162790697,
+                "width": 156.97674418604652,
+                "left": 158.43023255813952,
+                "top": 21.31782945736434
+            },
+            "points": [
+                {
+                    "x": 158.43023255813952,
+                    "y": 21.31782945736434
+                },
+                {
+                    "x": 315.406976744186,
+                    "y": 21.31782945736434
+                },
+                {
+                    "x": 315.406976744186,
+                    "y": 457.3643410852713
+                },
+                {
+                    "x": 158.43023255813952,
+                    "y": 457.3643410852713
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

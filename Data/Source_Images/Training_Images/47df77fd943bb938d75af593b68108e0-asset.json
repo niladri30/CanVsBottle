@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "47df77fd943bb938d75af593b68108e0",
+        "name": "Water%20Bottle%20-%20Frankztreat.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottle%20-%20Frankztreat.jpg",
+        "size": {
+            "width": 1024,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "S3kfXvSP2",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 920.5106382978723,
+                "width": 299.5744680851064,
+                "left": 365.84397163120565,
+                "top": 36.31205673758865
+            },
+            "points": [
+                {
+                    "x": 365.84397163120565,
+                    "y": 36.31205673758865
+                },
+                {
+                    "x": 665.418439716312,
+                    "y": 36.31205673758865
+                },
+                {
+                    "x": 665.418439716312,
+                    "y": 956.8226950354609
+                },
+                {
+                    "x": 365.84397163120565,
+                    "y": 956.8226950354609
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

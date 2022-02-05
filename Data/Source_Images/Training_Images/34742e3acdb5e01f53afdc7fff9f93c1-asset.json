@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "34742e3acdb5e01f53afdc7fff9f93c1",
+        "name": "Gatorade%20Squeeze%2032oz%20Plastic%20Water....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Gatorade%20Squeeze%2032oz%20Plastic%20Water....jpg",
+        "size": {
+            "width": 400,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w9Jh5ngQD",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 397.87234042553195,
+                "width": 132.6241134751773,
+                "left": 130.85106382978725,
+                "top": 2.127659574468085
+            },
+            "points": [
+                {
+                    "x": 130.85106382978725,
+                    "y": 2.127659574468085
+                },
+                {
+                    "x": 263.4751773049646,
+                    "y": 2.127659574468085
+                },
+                {
+                    "x": 263.4751773049646,
+                    "y": 400
+                },
+                {
+                    "x": 130.85106382978725,
+                    "y": 400
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

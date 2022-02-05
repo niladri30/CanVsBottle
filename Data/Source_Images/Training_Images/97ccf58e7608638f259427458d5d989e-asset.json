@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "97ccf58e7608638f259427458d5d989e",
+        "name": "Clear%20Glass%20Bottle%20100ml....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clear%20Glass%20Bottle%20100ml....jpg",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jORZpDfqE",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 769.3798449612402,
+                "width": 356.5891472868217,
+                "left": 324.61240310077517,
+                "top": 73.64341085271317
+            },
+            "points": [
+                {
+                    "x": 324.61240310077517,
+                    "y": 73.64341085271317
+                },
+                {
+                    "x": 681.2015503875969,
+                    "y": 73.64341085271317
+                },
+                {
+                    "x": 681.2015503875969,
+                    "y": 843.0232558139535
+                },
+                {
+                    "x": 324.61240310077517,
+                    "y": 843.0232558139535
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

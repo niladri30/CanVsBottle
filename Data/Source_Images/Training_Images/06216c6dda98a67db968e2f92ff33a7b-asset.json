@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "06216c6dda98a67db968e2f92ff33a7b",
+        "name": "Message%20in%20a%20bottle%20finders%20speak%20to%20US....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Message%20in%20a%20bottle%20finders%20speak%20to%20US....jpg",
+        "size": {
+            "width": 1024,
+            "height": 576
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wVCZBOtTB",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 290.71698113207543,
+                "width": 678.5869853917662,
+                "left": 138.70916334661354,
+                "top": 116.53301886792453
+            },
+            "points": [
+                {
+                    "x": 138.70916334661354,
+                    "y": 116.53301886792453
+                },
+                {
+                    "x": 817.2961487383798,
+                    "y": 116.53301886792453
+                },
+                {
+                    "x": 817.2961487383798,
+                    "y": 407.25
+                },
+                {
+                    "x": 138.70916334661354,
+                    "y": 407.25
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

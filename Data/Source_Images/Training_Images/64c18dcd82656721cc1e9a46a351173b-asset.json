@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "64c18dcd82656721cc1e9a46a351173b",
+        "name": "Buy%20BB%20Home%20Penta%20Plastic%20Pet%20Water....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20BB%20Home%20Penta%20Plastic%20Pet%20Water....jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "smI7akvO9",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 772.6744186046511,
+                "width": 284.30232558139534,
+                "left": 300.8720930232558,
+                "top": 10.465116279069768
+            },
+            "points": [
+                {
+                    "x": 300.8720930232558,
+                    "y": 10.465116279069768
+                },
+                {
+                    "x": 585.1744186046511,
+                    "y": 10.465116279069768
+                },
+                {
+                    "x": 585.1744186046511,
+                    "y": 783.1395348837209
+                },
+                {
+                    "x": 300.8720930232558,
+                    "y": 783.1395348837209
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

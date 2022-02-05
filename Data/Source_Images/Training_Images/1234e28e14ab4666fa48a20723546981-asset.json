@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1234e28e14ab4666fa48a20723546981",
+        "name": "Bottles%20of%20Water%20Have%20Expiration%20Dates....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottles%20of%20Water%20Have%20Expiration%20Dates....jpg",
+        "size": {
+            "width": 320,
+            "height": 245
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "W4-7l0-GS",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 213.72340425531914,
+                "width": 57.86618444846293,
+                "left": 190.9584086799277,
+                "top": 13.149564125295507
+            },
+            "points": [
+                {
+                    "x": 190.9584086799277,
+                    "y": 13.149564125295507
+                },
+                {
+                    "x": 248.8245931283906,
+                    "y": 13.149564125295507
+                },
+                {
+                    "x": 248.8245931283906,
+                    "y": 226.87296838061462
+                },
+                {
+                    "x": 190.9584086799277,
+                    "y": 226.87296838061462
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

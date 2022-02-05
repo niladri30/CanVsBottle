@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "154ec89b31d3fd32927f5be82a1e653f",
+        "name": "32oz%20Wide%20Mouth%20Tritan%20Water%20Bottle....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/32oz%20Wide%20Mouth%20Tritan%20Water%20Bottle....png",
+        "size": {
+            "width": 505,
+            "height": 758
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CfQt1bKsT",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 589.0658914728682,
+                "width": 325.90116279069764,
+                "left": 122.41937681686046,
+                "top": 76.3875968992248
+            },
+            "points": [
+                {
+                    "x": 122.41937681686046,
+                    "y": 76.3875968992248
+                },
+                {
+                    "x": 448.32053960755815,
+                    "y": 76.3875968992248
+                },
+                {
+                    "x": 448.32053960755815,
+                    "y": 665.453488372093
+                },
+                {
+                    "x": 122.41937681686046,
+                    "y": 665.453488372093
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

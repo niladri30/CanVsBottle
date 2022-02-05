@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "45db90b44764ec0e28d8035933d6a63f",
+        "name": "Eco_%20Medium%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Eco_%20Medium%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+        "size": {
+            "width": 2657,
+            "height": 2657
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BFhxOSj6x",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1870.264184397163,
+                "width": 673.6719858156027,
+                "left": 1005.7969858156027,
+                "top": 499.3652482269503
+            },
+            "points": [
+                {
+                    "x": 1005.7969858156027,
+                    "y": 499.3652482269503
+                },
+                {
+                    "x": 1679.4689716312055,
+                    "y": 499.3652482269503
+                },
+                {
+                    "x": 1679.4689716312055,
+                    "y": 2369.629432624113
+                },
+                {
+                    "x": 1005.7969858156027,
+                    "y": 2369.629432624113
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

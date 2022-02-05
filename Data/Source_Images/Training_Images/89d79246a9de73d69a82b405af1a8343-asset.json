@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "89d79246a9de73d69a82b405af1a8343",
+        "name": "Hand%20Holding%20Coca%20Cola%20Can_%20by%20NOOR....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Hand%20Holding%20Coca%20Cola%20Can_%20by%20NOOR....jpg",
+        "size": {
+            "width": 562,
+            "height": 376
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eH5WZrLCc",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 201.42857142857144,
+                "width": 161.21115537848607,
+                "left": 124.64010624169987,
+                "top": 67.81894841269842
+            },
+            "points": [
+                {
+                    "x": 124.64010624169987,
+                    "y": 67.81894841269842
+                },
+                {
+                    "x": 285.85126162018594,
+                    "y": 67.81894841269842
+                },
+                {
+                    "x": 285.85126162018594,
+                    "y": 269.2475198412698
+                },
+                {
+                    "x": 124.64010624169987,
+                    "y": 269.2475198412698
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

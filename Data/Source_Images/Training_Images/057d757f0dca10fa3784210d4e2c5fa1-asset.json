@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "057d757f0dca10fa3784210d4e2c5fa1",
+        "name": "Bottle%20Jump%203D%20%E2%80%93%20Apps%20on%20Google%20Play.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Jump%203D%20%E2%80%93%20Apps%20on%20Google%20Play.png",
+        "size": {
+            "width": 512,
+            "height": 512
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8UuQ4e9k3",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 478.26356589147287,
+                "width": 375.06976744186045,
+                "left": 58.04651162790697,
+                "top": 26.790697674418603
+            },
+            "points": [
+                {
+                    "x": 58.04651162790697,
+                    "y": 26.790697674418603
+                },
+                {
+                    "x": 433.1162790697674,
+                    "y": 26.790697674418603
+                },
+                {
+                    "x": 433.1162790697674,
+                    "y": 505.05426356589146
+                },
+                {
+                    "x": 58.04651162790697,
+                    "y": 505.05426356589146
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
