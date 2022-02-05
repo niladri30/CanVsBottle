@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "59015458b2c92d60b98d32f28e95a0f0",
+        "name": "Buy%20the%20Noodoll%20Water%20Bottle%20at%20KIDLY%20UK.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20the%20Noodoll%20Water%20Bottle%20at%20KIDLY%20UK.jpg",
+        "size": {
+            "width": 1920,
+            "height": 760
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LwLRL4Q0y",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 593.4246575342465,
+                "width": 277.75768535262205,
+                "left": 861.0488245931284,
+                "top": 67.50856164383562
+            },
+            "points": [
+                {
+                    "x": 861.0488245931284,
+                    "y": 67.50856164383562
+                },
+                {
+                    "x": 1138.8065099457503,
+                    "y": 67.50856164383562
+                },
+                {
+                    "x": 1138.8065099457503,
+                    "y": 660.9332191780821
+                },
+                {
+                    "x": 861.0488245931284,
+                    "y": 660.9332191780821
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

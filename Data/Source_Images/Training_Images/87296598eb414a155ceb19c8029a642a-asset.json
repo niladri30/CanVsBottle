@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "87296598eb414a155ceb19c8029a642a",
+        "name": "Smart%20Water%20Bottles%20That%20Are%20Worth%20the....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Smart%20Water%20Bottles%20That%20Are%20Worth%20the....jpg",
+        "size": {
+            "width": 700,
+            "height": 466
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8EtTva4tp",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 413.9121756487026,
+                "width": 148.738379814077,
+                "left": 282.6029216467463,
+                "top": 8.981661676646707
+            },
+            "points": [
+                {
+                    "x": 282.6029216467463,
+                    "y": 8.981661676646707
+                },
+                {
+                    "x": 431.34130146082333,
+                    "y": 8.981661676646707
+                },
+                {
+                    "x": 431.34130146082333,
+                    "y": 422.8938373253493
+                },
+                {
+                    "x": 282.6029216467463,
+                    "y": 422.8938373253493
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

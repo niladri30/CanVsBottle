@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "329705a1fb63732d7a6f3c394a97f439",
+        "name": "Buy%20Coca%20Cola%20Can%20300ml%20Online%20-%20Lulu....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Coca%20Cola%20Can%20300ml%20Online%20-%20Lulu....jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_iMYh9xYd",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 630.232558139535,
+                "width": 274.4186046511628,
+                "left": 438.37209302325584,
+                "top": 318.60465116279073
+            },
+            "points": [
+                {
+                    "x": 438.37209302325584,
+                    "y": 318.60465116279073
+                },
+                {
+                    "x": 712.7906976744187,
+                    "y": 318.60465116279073
+                },
+                {
+                    "x": 712.7906976744187,
+                    "y": 948.8372093023256
+                },
+                {
+                    "x": 438.37209302325584,
+                    "y": 948.8372093023256
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

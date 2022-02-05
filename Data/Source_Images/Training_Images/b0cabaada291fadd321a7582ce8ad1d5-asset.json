@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b0cabaada291fadd321a7582ce8ad1d5",
+        "name": "20%20oz%20Distilled%20Water%20Bottles%20_%20Distillata.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/20%20oz%20Distilled%20Water%20Bottles%20_%20Distillata.jpg",
+        "size": {
+            "width": 1400,
+            "height": 1400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2uAFKb0vP",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1071.7054263565892,
+                "width": 322.86821705426354,
+                "left": 541.2790697674418,
+                "top": 56.97674418604651
+            },
+            "points": [
+                {
+                    "x": 541.2790697674418,
+                    "y": 56.97674418604651
+                },
+                {
+                    "x": 864.1472868217054,
+                    "y": 56.97674418604651
+                },
+                {
+                    "x": 864.1472868217054,
+                    "y": 1128.6821705426357
+                },
+                {
+                    "x": 541.2790697674418,
+                    "y": 1128.6821705426357
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

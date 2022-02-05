@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a16e64d5183f78a5e00985c96e0f473f",
+        "name": "Stone%20_%20S_well%C2%AE%20Bottle%20Official.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stone%20_%20S_well%C2%AE%20Bottle%20Official.png",
+        "size": {
+            "width": 330,
+            "height": 584
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "opK4Tb4Ug",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 456.6382978723404,
+                "width": 141.7241379310345,
+                "left": 96.06142241379311,
+                "top": 93.19148936170212
+            },
+            "points": [
+                {
+                    "x": 96.06142241379311,
+                    "y": 93.19148936170212
+                },
+                {
+                    "x": 237.78556034482762,
+                    "y": 93.19148936170212
+                },
+                {
+                    "x": 237.78556034482762,
+                    "y": 549.8297872340426
+                },
+                {
+                    "x": 96.06142241379311,
+                    "y": 549.8297872340426
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

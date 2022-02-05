@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3259725f49f15076555b3e5aab960963",
+        "name": "Bottle%20-%20Wikipedia.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20-%20Wikipedia.jpg",
+        "size": {
+            "width": 150,
+            "height": 239
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yEAT-r5ht",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 207.0406976744186,
+                "width": 53.24074074074074,
+                "left": 49.739583333333336,
+                "top": 15.748062015503876
+            },
+            "points": [
+                {
+                    "x": 49.739583333333336,
+                    "y": 15.748062015503876
+                },
+                {
+                    "x": 102.98032407407408,
+                    "y": 15.748062015503876
+                },
+                {
+                    "x": 102.98032407407408,
+                    "y": 222.78875968992247
+                },
+                {
+                    "x": 49.739583333333336,
+                    "y": 222.78875968992247
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

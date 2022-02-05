@@ -1,0 +1,4023 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Local Scan",
+        "description": "Local Scan",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2U0MjJlMTRkOTIwOTdmMjBhNzY5OGJiMjA2ODFjODAyODMxZDlmNTdhNTgwMjFmYzdjZjYzMzhmODVmNTUwMTIyNzkyNWJlMzNlZWUxMDNjMDFiZTllYWFmZTAzM2ZhOWVkNzEwNWYyZWMwNmFkNTM3MjU3NWY5MGQyYzJlZTc5N2E4ZGUyZWFlNDFhNWIwYmIwNGZjMWFkNGY3MWRlOCIsIml2IjoiMmNjNDk5ZDkzZmViMTU3YjQxNmMxMTE1YTE1MDc3NzU1NGZjNDcxYTNjYzY1MTMwIn0="
+        },
+        "id": "byoNer6b8"
+    },
+    "targetConnection": {
+        "name": "Store Scan",
+        "description": "Store Scan",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmQ1MmMyMzFiZjE2OGQyODRmNDkyNDVhZmUyZmZiOTkyMzI0MzA0YmIzODE5MTkzMWRjZTJjMDg4OTYyMjY4NzdkNjYzYzdkYjg2NDcyZDRhN2U2ODBkNGQzYWE4ZDYzM2Y0ZWVmMzU1NDBkNmU4ZDM1NDc0ZTlmMjY4ZDQ4YTIzZDM2ZmRjNDNjOWVmNWFkMzcwYjQxOGM4MzYxZGVhNCIsIml2IjoiNTgyOTUyMWE5YmJmYjYyN2M5YTNjOWMwNGU3MDFmNTczY2I5NDIwYzkwN2I2MTNkIn0="
+        },
+        "id": "ML5dk2yju"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "can",
+            "color": "#808000"
+        },
+        {
+            "name": "bottle",
+            "color": "#808000"
+        }
+    ],
+    "id": "uC9sPqeTX",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTA4MzI1OWE1NzM0YmJiMTBkMDJkNWVmMTMyZDlkNTU3N2VmMGZkMzRkYjVmZTI1YTQ1MDk1YmI2NjY2ODNhNjlmNTMxNDVkYWYzZmFjN2M0ZGUwYmVjYWJhNjg4NjRlIiwiaXYiOiJiYmE2OTc2ZTUzOTJjYjEwMzRiNDc1MzBiMTMwMGU2M2IwZWRiNDI3NmJhMTRmNzIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "d92822b8d721199d52ae5ee0b13ff69c",
+    "assets": {
+        "ecd9e918e3b63ffcc52e4bf743d195f1": {
+            "format": "jpg",
+            "id": "ecd9e918e3b63ffcc52e4bf743d195f1",
+            "name": "0.75%20L%20Plastic%20Hydration%20Water%20Bottle%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/0.75%20L%20Plastic%20Hydration%20Water%20Bottle%20....jpg",
+            "size": {
+                "width": 2400,
+                "height": 2400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "359917750994ba2fc4b27fbd423eb0b6": {
+            "format": "jpg",
+            "id": "359917750994ba2fc4b27fbd423eb0b6",
+            "name": "1.5L%20Clear%20Plastic%20Bottle%20-%20CleverPatch%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/1.5L%20Clear%20Plastic%20Bottle%20-%20CleverPatch%20....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6151332635de3b7669a1ec2cfb88ddf9": {
+            "format": "jpg",
+            "id": "6151332635de3b7669a1ec2cfb88ddf9",
+            "name": "10%20beautifully-designed%20alcohol%20bottles...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10%20beautifully-designed%20alcohol%20bottles...%20(1).jpg",
+            "size": {
+                "width": 1600,
+                "height": 1752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f4e1d76d5bb52af9d331e08810bbcac": {
+            "format": "jpg",
+            "id": "1f4e1d76d5bb52af9d331e08810bbcac",
+            "name": "10%20beautifully-designed%20alcohol%20bottles...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10%20beautifully-designed%20alcohol%20bottles...%20(2).jpg",
+            "size": {
+                "width": 1360,
+                "height": 765
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54c316b6ba2d6f77e48fe5f2ae579bb6": {
+            "format": "jpg",
+            "id": "54c316b6ba2d6f77e48fe5f2ae579bb6",
+            "name": "10%20beautifully-designed%20alcohol%20bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10%20beautifully-designed%20alcohol%20bottles....jpg",
+            "size": {
+                "width": 1000,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b607627895c0d1b893452999114306c1": {
+            "format": "jpg",
+            "id": "b607627895c0d1b893452999114306c1",
+            "name": "10_%20Best%20Water%20Bottles%20On%20Sale%20Right%20Now.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10_%20Best%20Water%20Bottles%20On%20Sale%20Right%20Now.jpg",
+            "size": {
+                "width": 640,
+                "height": 637
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ae199032f8b87c993ddbc2878763751": {
+            "format": "jpeg",
+            "id": "1ae199032f8b87c993ddbc2878763751",
+            "name": "10_000_%20Best%20Beer%20Bottle%20Photos%20%C2%B7%20100....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10_000_%20Best%20Beer%20Bottle%20Photos%20%C2%B7%20100....jpeg",
+            "size": {
+                "width": 500,
+                "height": 749
+            },
+            "state": 2,
+            "type": 1
+        },
+        "899f0e66532c909fa14c529530bb2dd2": {
+            "format": "jpg",
+            "id": "899f0e66532c909fa14c529530bb2dd2",
+            "name": "10_393%20Coke%20Can%20Stock%20Photos_%20Pictures...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10_393%20Coke%20Can%20Stock%20Photos_%20Pictures...%20(1).jpg",
+            "size": {
+                "width": 372,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90c9cf4a2cdfc056ffad8a984f6c4f4a": {
+            "format": "jpg",
+            "id": "90c9cf4a2cdfc056ffad8a984f6c4f4a",
+            "name": "10_393%20Coke%20Can%20Stock%20Photos_%20Pictures....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10_393%20Coke%20Can%20Stock%20Photos_%20Pictures....jpg",
+            "size": {
+                "width": 494,
+                "height": 612
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f68d2df6436c5ef6fdc97a083659346f": {
+            "format": "jpg",
+            "id": "f68d2df6436c5ef6fdc97a083659346f",
+            "name": "13%20Best%20Baby%20Bottles%20for%20Every%20Feeding%20Need.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/13%20Best%20Baby%20Bottles%20for%20Every%20Feeding%20Need.jpg",
+            "size": {
+                "width": 750,
+                "height": 550
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4308bcce6d9e61ec9030605069d912e": {
+            "format": "jpg",
+            "id": "b4308bcce6d9e61ec9030605069d912e",
+            "name": "13%20best%20reusable%20water%20bottles%20to...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/13%20best%20reusable%20water%20bottles%20to...%20(1).jpg",
+            "size": {
+                "width": 720,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad7210046b47bfaace5410360bb46721": {
+            "format": "jpg",
+            "id": "ad7210046b47bfaace5410360bb46721",
+            "name": "13%20best%20reusable%20water%20bottles%20to....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/13%20best%20reusable%20water%20bottles%20to....jpg",
+            "size": {
+                "width": 760,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aeba88e0455c0e27361b5c8357dab9e9": {
+            "format": "jpg",
+            "id": "aeba88e0455c0e27361b5c8357dab9e9",
+            "name": "135_%20Best%20Free%20Bottle%20Mockups%20for%202022....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/135_%20Best%20Free%20Bottle%20Mockups%20for%202022....jpg",
+            "size": {
+                "width": 960,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93039552a6a827b6f511b73778b00f22": {
+            "format": "jpg",
+            "id": "93039552a6a827b6f511b73778b00f22",
+            "name": "15%20best%20water%20bottles%20for%202021%20reviewed....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20best%20water%20bottles%20for%202021%20reviewed....jpg",
+            "size": {
+                "width": 700,
+                "height": 466
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51548d5e8fce7481dab0bec6c07861d6": {
+            "format": "jpg",
+            "id": "51548d5e8fce7481dab0bec6c07861d6",
+            "name": "15%20Best%20Water%20Bottles%20to%20Buy%20in%202022...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles%20to%20Buy%20in%202022...%20(1).jpg",
+            "size": {
+                "width": 480,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eebb619b8ada4725e4af0f36e6e5896f": {
+            "format": "jpg",
+            "id": "eebb619b8ada4725e4af0f36e6e5896f",
+            "name": "15%20Best%20Water%20Bottles%20to%20Buy%20in%202022...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles%20to%20Buy%20in%202022...%20(2).jpg",
+            "size": {
+                "width": 314,
+                "height": 472
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5c0a06b1903fa96833665161f114617": {
+            "format": "jpg",
+            "id": "e5c0a06b1903fa96833665161f114617",
+            "name": "15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....jpg",
+            "size": {
+                "width": 334,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0af0f53abc0b70c49993920e0ca7040d": {
+            "format": "png",
+            "id": "0af0f53abc0b70c49993920e0ca7040d",
+            "name": "15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....png",
+            "size": {
+                "width": 365,
+                "height": 545
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b5706c17892304d6be9c7efa9b4c3f9": {
+            "format": "jpg",
+            "id": "8b5706c17892304d6be9c7efa9b4c3f9",
+            "name": "15%20Best%20Water%20Bottles_%20Find%20Your....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles_%20Find%20Your....jpg",
+            "size": {
+                "width": 1650,
+                "height": 1100
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ed6a5191d954d0df16e48b1e421ce17": {
+            "format": "jpg",
+            "id": "2ed6a5191d954d0df16e48b1e421ce17",
+            "name": "16.9%20oz.%20Clear%20PET%20Water%20Bottle%20with%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/16.9%20oz.%20Clear%20PET%20Water%20Bottle%20with%20....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "463f63f5f1627ec1063ae54ad30f200b": {
+            "format": "jpg",
+            "id": "463f63f5f1627ec1063ae54ad30f200b",
+            "name": "1_478_461%20Bottle%20Photos%20-%20Free....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/1_478_461%20Bottle%20Photos%20-%20Free....jpg",
+            "size": {
+                "width": 960,
+                "height": 1300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d51a46ac88c3082ba00d2b1fe9dc0f02": {
+            "format": "jpg",
+            "id": "d51a46ac88c3082ba00d2b1fe9dc0f02",
+            "name": "2%20Stainless%20Steel%20Water%20Bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/2%20Stainless%20Steel%20Water%20Bottles....jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0cabaada291fadd321a7582ce8ad1d5": {
+            "format": "jpg",
+            "id": "b0cabaada291fadd321a7582ce8ad1d5",
+            "name": "20%20oz%20Distilled%20Water%20Bottles%20_%20Distillata.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/20%20oz%20Distilled%20Water%20Bottles%20_%20Distillata.jpg",
+            "size": {
+                "width": 1400,
+                "height": 1400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11b89e0960e06ca30eee833d16335bc6": {
+            "format": "jpg",
+            "id": "11b89e0960e06ca30eee833d16335bc6",
+            "name": "21%20Best%20Water%20Bottles%202020%20_%20Vogue%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/21%20Best%20Water%20Bottles%202020%20_%20Vogue%20(1).jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "483454fffb6e0aba707eb7c9a0b371ad": {
+            "format": "jpg",
+            "id": "483454fffb6e0aba707eb7c9a0b371ad",
+            "name": "21%20Best%20Water%20Bottles%202020%20_%20Vogue.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/21%20Best%20Water%20Bottles%202020%20_%20Vogue.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a2e5a640ef30f795fd3e6fc48fd2849": {
+            "format": "jpg",
+            "id": "4a2e5a640ef30f795fd3e6fc48fd2849",
+            "name": "23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist%20(1).jpg",
+            "size": {
+                "width": 245,
+                "height": 368
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a58ef12502781e0bd78129cb18f31f5": {
+            "format": "jpg",
+            "id": "9a58ef12502781e0bd78129cb18f31f5",
+            "name": "23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist%20(2).jpg",
+            "size": {
+                "width": 245,
+                "height": 367
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec6a8df7ba6f21b2d8248c8f0a6a8b59": {
+            "format": "jpg",
+            "id": "ec6a8df7ba6f21b2d8248c8f0a6a8b59",
+            "name": "23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/23%20Best%20Water%20Bottles%202022%20_%20The%20Strategist.jpg",
+            "size": {
+                "width": 245,
+                "height": 367
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89d0e9c35dd875dd3c2be22e8bfb02fd": {
+            "format": "jpg",
+            "id": "89d0e9c35dd875dd3c2be22e8bfb02fd",
+            "name": "27_%20Bottle%20Pictures%20_%20Download%20Free....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/27_%20Bottle%20Pictures%20_%20Download%20Free....jpg",
+            "size": {
+                "width": 3086,
+                "height": 2629
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddd0eddf11189782a882e505ebab27d5": {
+            "format": "jpg",
+            "id": "ddd0eddf11189782a882e505ebab27d5",
+            "name": "2_958%20Coke%20Can%20Photos%20and%20Premium%20High....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/2_958%20Coke%20Can%20Photos%20and%20Premium%20High....jpg",
+            "size": {
+                "width": 612,
+                "height": 408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "154ec89b31d3fd32927f5be82a1e653f": {
+            "format": "png",
+            "id": "154ec89b31d3fd32927f5be82a1e653f",
+            "name": "32oz%20Wide%20Mouth%20Tritan%20Water%20Bottle....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/32oz%20Wide%20Mouth%20Tritan%20Water%20Bottle....png",
+            "size": {
+                "width": 505,
+                "height": 758
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b846204ead0ad143229eb88d2e74efe": {
+            "format": "jpg",
+            "id": "0b846204ead0ad143229eb88d2e74efe",
+            "name": "35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(1).jpg",
+            "size": {
+                "width": 735,
+                "height": 898
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86b2ae4de3e20bb2e2b3d1c66c9fb12c": {
+            "format": "jpg",
+            "id": "86b2ae4de3e20bb2e2b3d1c66c9fb12c",
+            "name": "35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(2).jpg",
+            "size": {
+                "width": 480,
+                "height": 719
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b98a0db128a853dc3f11c14ed971c0bb": {
+            "format": "jpg",
+            "id": "b98a0db128a853dc3f11c14ed971c0bb",
+            "name": "35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(3).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine...%20(3).jpg",
+            "size": {
+                "width": 480,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00cc54b1eb1f0b2cdd99bf981ecd029d": {
+            "format": "jpg",
+            "id": "00cc54b1eb1f0b2cdd99bf981ecd029d",
+            "name": "35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine....jpg",
+            "size": {
+                "width": 480,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8cd87e6bf4d5cecc7cc6fcac3ec3bdd": {
+            "format": "jpg",
+            "id": "d8cd87e6bf4d5cecc7cc6fcac3ec3bdd",
+            "name": "360%20view%20of%20Coca-Cola%20Can%2012%20FL%203D....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/360%20view%20of%20Coca-Cola%20Can%2012%20FL%203D....jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac8d78513953635cd0264fa434e82ee2": {
+            "format": "jpg",
+            "id": "ac8d78513953635cd0264fa434e82ee2",
+            "name": "38_517%20Wine%20Bottle%20Photos%20and%20Premium....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/38_517%20Wine%20Bottle%20Photos%20and%20Premium....jpg",
+            "size": {
+                "width": 408,
+                "height": 612
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cf5eb817df3da61c54ea32e8d8b9e33": {
+            "format": "jpg",
+            "id": "0cf5eb817df3da61c54ea32e8d8b9e33",
+            "name": "400ml%20thermal%20bottle%20with%20Drinking%20Reminder.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/400ml%20thermal%20bottle%20with%20Drinking%20Reminder.jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ada4b9fa90d97ea651d1faef9c9e6366": {
+            "format": "jpg",
+            "id": "ada4b9fa90d97ea651d1faef9c9e6366",
+            "name": "5%20Best%20Water%20Bottles%20in%202022.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/5%20Best%20Water%20Bottles%20in%202022.jpg",
+            "size": {
+                "width": 1000,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "514c591cfeefd38d9ec8e6ab9a55e916": {
+            "format": "jpg",
+            "id": "514c591cfeefd38d9ec8e6ab9a55e916",
+            "name": "5%20CREATIVE%20PLASTIC%20BOTTLES%20IDEA_%20-%20YouTube.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/5%20CREATIVE%20PLASTIC%20BOTTLES%20IDEA_%20-%20YouTube.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "881a5002e5dd161b6bf770374c0e2037": {
+            "format": "jpg",
+            "id": "881a5002e5dd161b6bf770374c0e2037",
+            "name": "500ml%20Clear%20Glass%20Bottle%20With%20Screw%20Cap....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500ml%20Clear%20Glass%20Bottle%20With%20Screw%20Cap....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "27cc4b30dda931753359a52159292d68": {
+            "format": "jpg",
+            "id": "27cc4b30dda931753359a52159292d68",
+            "name": "500ml%20stainless%20steel%20Bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500ml%20stainless%20steel%20Bottles....jpg",
+            "size": {
+                "width": 262,
+                "height": 262
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8daff2f8001766e158b1b35dea347b19": {
+            "format": "jpg",
+            "id": "8daff2f8001766e158b1b35dea347b19",
+            "name": "500_%20Coca%20Cola%20Pictures%20_%20Download%20Free....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500_%20Coca%20Cola%20Pictures%20_%20Download%20Free....jpg",
+            "size": {
+                "width": 4400,
+                "height": 5500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "135db0fdf9a9ad80a37cf8c59b03a91a": {
+            "format": "jpg",
+            "id": "135db0fdf9a9ad80a37cf8c59b03a91a",
+            "name": "500_%20Water%20Bottle%20Pictures%20%5BHQ....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/500_%20Water%20Bottle%20Pictures%20%5BHQ....jpg",
+            "size": {
+                "width": 4006,
+                "height": 6008
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55ec477d40695d998e246bb665307067": {
+            "format": "jpeg",
+            "id": "55ec477d40695d998e246bb665307067",
+            "name": "600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free...%20(1).jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free...%20(1).jpeg",
+            "size": {
+                "width": 500,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84784a6e7d7e02dcd31bba42694fa529": {
+            "format": "jpeg",
+            "id": "84784a6e7d7e02dcd31bba42694fa529",
+            "name": "600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free....jpeg",
+            "size": {
+                "width": 500,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5219f846b4bdd58e3a64a047e2e820a5": {
+            "format": "png",
+            "id": "5219f846b4bdd58e3a64a047e2e820a5",
+            "name": "750mL%20Glass%20Spirit%20Bottle%20with%20Black....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/750mL%20Glass%20Spirit%20Bottle%20with%20Black....png",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d434cc054057a940ec533a28ba4881a4": {
+            "format": "jpg",
+            "id": "d434cc054057a940ec533a28ba4881a4",
+            "name": "750ml%20Mountain%20Bottle%20with%20Screw%20Cap....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/750ml%20Mountain%20Bottle%20with%20Screw%20Cap....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62a1a10dc186ebf89d6096bf47e9ca8d": {
+            "format": "jpg",
+            "id": "62a1a10dc186ebf89d6096bf47e9ca8d",
+            "name": "87_929%20Water%20Bottle%20Stock%20Photos....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/87_929%20Water%20Bottle%20Stock%20Photos....jpg",
+            "size": {
+                "width": 408,
+                "height": 612
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8eb2a78127b0f337cf0a095cf5250470": {
+            "format": "jpg",
+            "id": "8eb2a78127b0f337cf0a095cf5250470",
+            "name": "a%20Beer%20Bottle%20Without%20a%20Bottle%20Opener....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/a%20Beer%20Bottle%20Without%20a%20Bottle%20Opener....jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b63cef7cc43e92e7b27826d2f56e3e3": {
+            "format": "jpg",
+            "id": "9b63cef7cc43e92e7b27826d2f56e3e3",
+            "name": "adidas%20Performance%20Bottle.5%20L%20-%20White%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/adidas%20Performance%20Bottle.5%20L%20-%20White%20....jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e3093cef44a3d11d6da74ebdb3a6f7b": {
+            "format": "jpg",
+            "id": "7e3093cef44a3d11d6da74ebdb3a6f7b",
+            "name": "adidas%20x%20Classic%20LEGO%C2%AE%20Bottle%20-%20Yellow....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/adidas%20x%20Classic%20LEGO%C2%AE%20Bottle%20-%20Yellow....jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1f30f9d69c17047847de5d639819a9e": {
+            "format": "jpeg",
+            "id": "b1f30f9d69c17047847de5d639819a9e",
+            "name": "Ajanta%20Bottle%20Pvt%20Ltd%20-.jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Ajanta%20Bottle%20Pvt%20Ltd%20-.jpeg",
+            "size": {
+                "width": 1920,
+                "height": 556
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce49878fdb5863634333621f431df518": {
+            "format": "jpg",
+            "id": "ce49878fdb5863634333621f431df518",
+            "name": "alcohol%20bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/alcohol%20bottles....jpg",
+            "size": {
+                "width": 1600,
+                "height": 2397
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bf1093c929dd2369732ab1a24e20f49": {
+            "format": "jpg",
+            "id": "1bf1093c929dd2369732ab1a24e20f49",
+            "name": "Anti-colic%20GLASS%20Baby%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Anti-colic%20GLASS%20Baby%20Bottle....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c93bc3165118dd79fa60bfaceb635844": {
+            "format": "jpg",
+            "id": "c93bc3165118dd79fa60bfaceb635844",
+            "name": "ArtStation%20-%20Coca%20cola%20can%20case.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/ArtStation%20-%20Coca%20cola%20can%20case.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c2bce145d1b7189da1bc410aaa13dcf": {
+            "format": "jpg",
+            "id": "9c2bce145d1b7189da1bc410aaa13dcf",
+            "name": "ArtStation%20-%20Coca%20Cola%20Can.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/ArtStation%20-%20Coca%20Cola%20Can.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e02e35d98cb8900ae387a093915123a7": {
+            "format": "jpg",
+            "id": "e02e35d98cb8900ae387a093915123a7",
+            "name": "Ask%20the%20experts_%20Plastic%20water%20bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Ask%20the%20experts_%20Plastic%20water%20bottles....jpg",
+            "size": {
+                "width": 1024,
+                "height": 685
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a559140e6b7a7faa9efc1923e240bd8": {
+            "format": "jpeg",
+            "id": "2a559140e6b7a7faa9efc1923e240bd8",
+            "name": "ATMAN%203PCS%20WATER%20BOTTLE%201000%20ml%20Water....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/ATMAN%203PCS%20WATER%20BOTTLE%201000%20ml%20Water....jpeg",
+            "size": {
+                "width": 303,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b502add690cc8dd8bfc7b13c33c5768": {
+            "format": "jpg",
+            "id": "2b502add690cc8dd8bfc7b13c33c5768",
+            "name": "Baby%20bottle%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Baby%20bottle%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 800,
+                "height": 1067
+            },
+            "state": 2,
+            "type": 1
+        },
+        "204253e1310856299d69b5b143c561b8": {
+            "format": "jpeg",
+            "id": "204253e1310856299d69b5b143c561b8",
+            "name": "Baby%20Feeding%20Bottle(%E0%A4%AC%E0%A5%87%E0%A4%AC%E0%A5%80%20%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Baby%20Feeding%20Bottle(%E0%A4%AC%E0%A5%87%E0%A4%AC%E0%A5%80%20%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97....jpeg",
+            "size": {
+                "width": 486,
+                "height": 612
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ddb5e8b45619e59392dc70426e328cd": {
+            "format": "jpg",
+            "id": "1ddb5e8b45619e59392dc70426e328cd",
+            "name": "Baby%20Milk%20Feeding%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Baby%20Milk%20Feeding%20Bottle....jpg",
+            "size": {
+                "width": 2560,
+                "height": 2560
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35da590a8fa575a6752057ace4cd19b0": {
+            "format": "jpg",
+            "id": "35da590a8fa575a6752057ace4cd19b0",
+            "name": "Berlin%20Packaging%20_%20Bruni%20Glass%20-%20Jars....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Berlin%20Packaging%20_%20Bruni%20Glass%20-%20Jars....jpg",
+            "size": {
+                "width": 466,
+                "height": 299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0463e8b734418b733196734a422d049": {
+            "format": "jpg",
+            "id": "d0463e8b734418b733196734a422d049",
+            "name": "Best%20Baby%20Bottles%20for%20Breastfed%20Babies....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Baby%20Bottles%20for%20Breastfed%20Babies....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ace85a1f06dc80050b4368638fbc819": {
+            "format": "jpg",
+            "id": "7ace85a1f06dc80050b4368638fbc819",
+            "name": "Best%20Glass%20Water%20Bottles%202021_%20Reusable....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Glass%20Water%20Bottles%202021_%20Reusable....jpg",
+            "size": {
+                "width": 2000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0046ea5148f7f769bc0f5d7fb0e570c": {
+            "format": "jpg",
+            "id": "b0046ea5148f7f769bc0f5d7fb0e570c",
+            "name": "Best%20glass%20water%20bottles%20to%20stay....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20glass%20water%20bottles%20to%20stay....jpg",
+            "size": {
+                "width": 615,
+                "height": 345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0292b5362d6722078306e640cbcb6057": {
+            "format": "jpg",
+            "id": "0292b5362d6722078306e640cbcb6057",
+            "name": "Best%20Insulated%20Water%20Bottles%20(2021....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Insulated%20Water%20Bottles%20(2021....jpg",
+            "size": {
+                "width": 480,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b996d241252930521cd5fcb6120e3d0a": {
+            "format": "jpg",
+            "id": "b996d241252930521cd5fcb6120e3d0a",
+            "name": "Best%20reusable%20water%20bottle%202022....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20reusable%20water%20bottle%202022....jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ec0267db1b38d2b81c8490f761d5d98": {
+            "format": "jpg",
+            "id": "2ec0267db1b38d2b81c8490f761d5d98",
+            "name": "Best%20Reusable%20Water%20Bottles%202021_%20Top....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Reusable%20Water%20Bottles%202021_%20Top....jpg",
+            "size": {
+                "width": 837,
+                "height": 1426
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd1e51136e128c12440f17a905b6b5cc": {
+            "format": "jpg",
+            "id": "fd1e51136e128c12440f17a905b6b5cc",
+            "name": "Best%20self-cleaning%20water%20bottle%20for...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20self-cleaning%20water%20bottle%20for...%20(1).jpg",
+            "size": {
+                "width": 420,
+                "height": 236
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76b783eddef8572ac29da4234ca42733": {
+            "format": "jpg",
+            "id": "76b783eddef8572ac29da4234ca42733",
+            "name": "Best%20self-cleaning%20water%20bottle%20for...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20self-cleaning%20water%20bottle%20for...%20(2).jpg",
+            "size": {
+                "width": 940,
+                "height": 528
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7590f166f301c51ce861f548f386c82": {
+            "format": "jpg",
+            "id": "b7590f166f301c51ce861f548f386c82",
+            "name": "Best%20self-cleaning%20water%20bottle%20for....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20self-cleaning%20water%20bottle%20for....jpg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d1e12bde1930b7c4e63bc31a21f4889": {
+            "format": "jpg",
+            "id": "8d1e12bde1930b7c4e63bc31a21f4889",
+            "name": "Best%20Water%20Bottle%20Type_%20Glass%20vs....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Water%20Bottle%20Type_%20Glass%20vs....jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f58ec072cc38a9d8fb5f8b11de4c7e82": {
+            "format": "jpg",
+            "id": "f58ec072cc38a9d8fb5f8b11de4c7e82",
+            "name": "Best%20Water%20Bottles%202021%20_%20Bottles%20for....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Water%20Bottles%202021%20_%20Bottles%20for....jpg",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "328c31443ba7c4daf228487c732089c0": {
+            "format": "jpg",
+            "id": "328c31443ba7c4daf228487c732089c0",
+            "name": "Best%20Water%20Bottles%20for%20Cycling%202021....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Water%20Bottles%20for%20Cycling%202021....jpg",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ffaaf0177eec19e4ed58a8843ff4ffc": {
+            "format": "jpg",
+            "id": "7ffaaf0177eec19e4ed58a8843ff4ffc",
+            "name": "Best%20water%20bottles%20of%202022%20_%20CNN....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20water%20bottles%20of%202022%20_%20CNN....jpg",
+            "size": {
+                "width": 4032,
+                "height": 2268
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b064a375848804ac2467e3060bbe0ec": {
+            "format": "jpg",
+            "id": "0b064a375848804ac2467e3060bbe0ec",
+            "name": "Best%20water%20bottles_%20The%20ultimate....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20water%20bottles_%20The%20ultimate....jpg",
+            "size": {
+                "width": 982,
+                "height": 726
+            },
+            "state": 2,
+            "type": 1
+        },
+        "084f703c206c12e1dfcc77310772ec57": {
+            "format": "jpg",
+            "id": "084f703c206c12e1dfcc77310772ec57",
+            "name": "Beverage%20Bottles%20-%20Ball.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Beverage%20Bottles%20-%20Ball.jpg",
+            "size": {
+                "width": 2025,
+                "height": 1350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e00d2c6b75ac22e6862870d09937297e": {
+            "format": "jpg",
+            "id": "e00d2c6b75ac22e6862870d09937297e",
+            "name": "Bisleri%20250ml%20Water%20Bottles%20Online%20at....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bisleri%20250ml%20Water%20Bottles%20Online%20at....jpg",
+            "size": {
+                "width": 650,
+                "height": 650
+            },
+            "state": 2,
+            "type": 1
+        },
+        "643cf2dcc9a00c55edc4ba9557b049c3": {
+            "format": "jpg",
+            "id": "643cf2dcc9a00c55edc4ba9557b049c3",
+            "name": "Bistro%20Glass%20Bottle%20Amber%201L....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bistro%20Glass%20Bottle%20Amber%201L....jpg",
+            "size": {
+                "width": 765,
+                "height": 765
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2c5ef4e65abd8e3f491a77a343bd680": {
+            "format": "jpg",
+            "id": "c2c5ef4e65abd8e3f491a77a343bd680",
+            "name": "Bisleri%20Rockstar%20300ml%20Water%20Bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bisleri%20Rockstar%20300ml%20Water%20Bottles....jpg",
+            "size": {
+                "width": 360,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b690230a39d9c36d681b1db8a907ff14": {
+            "format": "jpg",
+            "id": "b690230a39d9c36d681b1db8a907ff14",
+            "name": "Bold%20Bottle%20_%20Reusable%20water%20bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bold%20Bottle%20_%20Reusable%20water%20bottles....jpg",
+            "size": {
+                "width": 773,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da4e6d8c65f45ee3117c454dcc7a7fef": {
+            "format": "png",
+            "id": "da4e6d8c65f45ee3117c454dcc7a7fef",
+            "name": "Boldfit%20Gym%20Gallon%20Water%20Jug%20Bottle%20XL....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Boldfit%20Gym%20Gallon%20Water%20Jug%20Bottle%20XL....png",
+            "size": {
+                "width": 690,
+                "height": 700
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5273228ef213e70479b90988e194f9fc": {
+            "format": "jpg",
+            "id": "5273228ef213e70479b90988e194f9fc",
+            "name": "Bottle%20-%20Wikipedia%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20-%20Wikipedia%20(1).jpg",
+            "size": {
+                "width": 4800,
+                "height": 3600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3259725f49f15076555b3e5aab960963": {
+            "format": "jpg",
+            "id": "3259725f49f15076555b3e5aab960963",
+            "name": "Bottle%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 150,
+                "height": 239
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d59f61da984af86f84a19bbafea97241": {
+            "format": "jpg",
+            "id": "d59f61da984af86f84a19bbafea97241",
+            "name": "Bottle%20Dating%20Examples.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Dating%20Examples.jpg",
+            "size": {
+                "width": 819,
+                "height": 580
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ca80feb363e1b01e30b4d5221fe8c3e": {
+            "format": "jpg",
+            "id": "4ca80feb363e1b01e30b4d5221fe8c3e",
+            "name": "Bottle%20Images_%20Stock%20Photos%20&%20Vectors....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Images_%20Stock%20Photos%20&%20Vectors....jpg",
+            "size": {
+                "width": 260,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a057d2d89afa9c24b989d17dc33cf09d": {
+            "format": "jpg",
+            "id": "a057d2d89afa9c24b989d17dc33cf09d",
+            "name": "Bottle%20jar%20Images_%20Stock%20Photos....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20jar%20Images_%20Stock%20Photos....jpg",
+            "size": {
+                "width": 571,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "057d757f0dca10fa3784210d4e2c5fa1": {
+            "format": "png",
+            "id": "057d757f0dca10fa3784210d4e2c5fa1",
+            "name": "Bottle%20Jump%203D%20%E2%80%93%20Apps%20on%20Google%20Play.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Jump%203D%20%E2%80%93%20Apps%20on%20Google%20Play.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e570fc22d5aaa9b248049ee42e156058": {
+            "format": "jpg",
+            "id": "e570fc22d5aaa9b248049ee42e156058",
+            "name": "Bottle%20Of%20Beer%20With%20Custom%20Label%20And....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Of%20Beer%20With%20Custom%20Label%20And....jpg",
+            "size": {
+                "width": 325,
+                "height": 528
+            },
+            "state": 2,
+            "type": 1
+        },
+        "931a083eb34fd90d44c2da45b1046b7f": {
+            "format": "jpg",
+            "id": "931a083eb34fd90d44c2da45b1046b7f",
+            "name": "Bottle%20Of%20Water%20Pictures%20_%20Download....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Of%20Water%20Pictures%20_%20Download....jpg",
+            "size": {
+                "width": 359,
+                "height": 479
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ab0f43e2398b5efe3d7095642287264": {
+            "format": "jpg",
+            "id": "5ab0f43e2398b5efe3d7095642287264",
+            "name": "Bottles%20Coca%20Cola%20Soft%20Drinks%20330ml%20Can....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottles%20Coca%20Cola%20Soft%20Drinks%20330ml%20Can....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1234e28e14ab4666fa48a20723546981": {
+            "format": "jpg",
+            "id": "1234e28e14ab4666fa48a20723546981",
+            "name": "Bottles%20of%20Water%20Have%20Expiration%20Dates....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottles%20of%20Water%20Have%20Expiration%20Dates....jpg",
+            "size": {
+                "width": 320,
+                "height": 245
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4424e22bb1341f64403e2114d8d369a0": {
+            "format": "jpg",
+            "id": "4424e22bb1341f64403e2114d8d369a0",
+            "name": "Bottles%20Wholesale%20-%20Wholesale%20Jars....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottles%20Wholesale%20-%20Wholesale%20Jars....jpg",
+            "size": {
+                "width": 700,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30efbbe8db14eff6f3e5aac21343fd3f": {
+            "format": "png",
+            "id": "30efbbe8db14eff6f3e5aac21343fd3f",
+            "name": "Branded%20Metal%20Tide%20Insulated%20Vacuum....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Branded%20Metal%20Tide%20Insulated%20Vacuum....png",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e04255f38626f256366e4e13077bdf19": {
+            "format": "jpg",
+            "id": "e04255f38626f256366e4e13077bdf19",
+            "name": "Burch%20Bottle%20&%20Packaging_%20Inc....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Burch%20Bottle%20&%20Packaging_%20Inc....jpg",
+            "size": {
+                "width": 200,
+                "height": 267
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3b101629ea2f7cd9281036f91d97ef2": {
+            "format": "jpg",
+            "id": "d3b101629ea2f7cd9281036f91d97ef2",
+            "name": "Buy%20Aquafina%20Packaged%20Drinking%20Water%201....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Aquafina%20Packaged%20Drinking%20Water%201....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c2829af8e9b2199c7a6ae2796cf5116": {
+            "format": "jpg",
+            "id": "8c2829af8e9b2199c7a6ae2796cf5116",
+            "name": "Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water...%20(1).jpg",
+            "size": {
+                "width": 600,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d858bc8d41360ff80e525930b2c32d6": {
+            "format": "jpg",
+            "id": "4d858bc8d41360ff80e525930b2c32d6",
+            "name": "Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64c18dcd82656721cc1e9a46a351173b": {
+            "format": "jpg",
+            "id": "64c18dcd82656721cc1e9a46a351173b",
+            "name": "Buy%20BB%20Home%20Penta%20Plastic%20Pet%20Water....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20BB%20Home%20Penta%20Plastic%20Pet%20Water....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab7e2770dae2d90a0456ec87b9020725": {
+            "format": "jpg",
+            "id": "ab7e2770dae2d90a0456ec87b9020725",
+            "name": "Buy%20Cello%20H2o%20Unbreakable%20Water%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Cello%20H2o%20Unbreakable%20Water%20Bottle....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "329705a1fb63732d7a6f3c394a97f439": {
+            "format": "jpg",
+            "id": "329705a1fb63732d7a6f3c394a97f439",
+            "name": "Buy%20Coca%20Cola%20Can%20300ml%20Online%20-%20Lulu....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Coca%20Cola%20Can%20300ml%20Online%20-%20Lulu....jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29fbcbb03a24e7150878375a027723d5": {
+            "format": "jpg",
+            "id": "29fbcbb03a24e7150878375a027723d5",
+            "name": "Buy%20Coca%20Cola%20Soft%20Drink%20Coke%20Zero%20300....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Coca%20Cola%20Soft%20Drink%20Coke%20Zero%20300....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e35959f4d5a597d46d1e74eaa9bce0ba": {
+            "format": "jpg",
+            "id": "e35959f4d5a597d46d1e74eaa9bce0ba",
+            "name": "Buy%20Coca-Cola%20Can%20300ml%20Online%20at%20Low....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Coca-Cola%20Can%20300ml%20Online%20at%20Low....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4bba5f4935b7f3ae7e15465971465fc9": {
+            "format": "jpg",
+            "id": "4bba5f4935b7f3ae7e15465971465fc9",
+            "name": "Buy%20Elvira%2032oz%20Large%20Water%20Bottle%20with....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Elvira%2032oz%20Large%20Water%20Bottle%20with....jpg",
+            "size": {
+                "width": 1193,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1be35ff0371682171967ccffa5c1795": {
+            "format": "jpg",
+            "id": "a1be35ff0371682171967ccffa5c1795",
+            "name": "Buy%20Flasks%20and%20Water%20Bottles%20Online...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Flasks%20and%20Water%20Bottles%20Online...%20(1).jpg",
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "152dc13ced0bb8b2d618a9288e4c30ed": {
+            "format": "jpg",
+            "id": "152dc13ced0bb8b2d618a9288e4c30ed",
+            "name": "Buy%20Flasks%20and%20Water%20Bottles%20Online....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Flasks%20and%20Water%20Bottles%20Online....jpg",
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56d33e511c608e5474b00acefe6e48f3": {
+            "format": "png",
+            "id": "56d33e511c608e5474b00acefe6e48f3",
+            "name": "Buy%20Glass%20Bottle%20300%20ML%20at%20Best%20Price....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Glass%20Bottle%20300%20ML%20at%20Best%20Price....png",
+            "size": {
+                "width": 400,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "000d8346d020e4d4cfc99922c4cc17ad": {
+            "format": "jpg",
+            "id": "000d8346d020e4d4cfc99922c4cc17ad",
+            "name": "Buy%20Glass%20Ideas%20Glass%20Bottle%20-%20Plain....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Glass%20Ideas%20Glass%20Bottle%20-%20Plain....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "412e302203d79a10db3e82de256bebba": {
+            "format": "png",
+            "id": "412e302203d79a10db3e82de256bebba",
+            "name": "Buy%20Kinley%20Club%20Soda%20125%20L%20Online%20At....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Kinley%20Club%20Soda%20125%20L%20Online%20At....png",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "daece1256974824801fc90f9f0bfbbd0": {
+            "format": "jpg",
+            "id": "daece1256974824801fc90f9f0bfbbd0",
+            "name": "Buy%20Living%20essence%20Glass%20Bottle%20in....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Living%20essence%20Glass%20Bottle%20in....jpg",
+            "size": {
+                "width": 360,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1cacfabf5cc93b97a56c43a0685b52d4": {
+            "format": "jpg",
+            "id": "1cacfabf5cc93b97a56c43a0685b52d4",
+            "name": "Buy%20Milton%20bottle%20Thermosteel%20Stainless....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Milton%20bottle%20Thermosteel%20Stainless....jpg",
+            "size": {
+                "width": 2000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94f5fc3cac522f1870cf47baed302ad5": {
+            "format": "jpg",
+            "id": "94f5fc3cac522f1870cf47baed302ad5",
+            "name": "Buy%20Milton%20Water%20Bottle%20-%20Thermosteel....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Milton%20Water%20Bottle%20-%20Thermosteel....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "051dd3c929ee4c116a384b69b1c6024a": {
+            "format": "jpg",
+            "id": "051dd3c929ee4c116a384b69b1c6024a",
+            "name": "Buy%20Pexpo%20Stainless%20Steel%20Water%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Pexpo%20Stainless%20Steel%20Water%20Bottle....jpg",
+            "size": {
+                "width": 1121,
+                "height": 1670
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32b8d8cc910bdb9f6d4f3d3a336050a5": {
+            "format": "jpg",
+            "id": "32b8d8cc910bdb9f6d4f3d3a336050a5",
+            "name": "Buy%20Rejuve%20Steel%20Bottle%201%20Ltr%20in%20Pink....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Rejuve%20Steel%20Bottle%201%20Ltr%20in%20Pink....jpg",
+            "size": {
+                "width": 360,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "502ed0bc5ed3269398f79fced0203904": {
+            "format": "jpg",
+            "id": "502ed0bc5ed3269398f79fced0203904",
+            "name": "Buy%20Serial%20Sipper%20Water%20Bottle%20Online....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Serial%20Sipper%20Water%20Bottle%20Online....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59015458b2c92d60b98d32f28e95a0f0": {
+            "format": "jpg",
+            "id": "59015458b2c92d60b98d32f28e95a0f0",
+            "name": "Buy%20the%20Noodoll%20Water%20Bottle%20at%20KIDLY%20UK.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20the%20Noodoll%20Water%20Bottle%20at%20KIDLY%20UK.jpg",
+            "size": {
+                "width": 1920,
+                "height": 760
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b549b752a64d46e4e617c8e8f3e00624": {
+            "format": "jpg",
+            "id": "b549b752a64d46e4e617c8e8f3e00624",
+            "name": "Can%20You%20Freeze%20Water%20Bottles_%20Here_s....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Can%20You%20Freeze%20Water%20Bottles_%20Here_s....jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bd2ef23fd5ce830ac741398a6bb05da": {
+            "format": "jpg",
+            "id": "1bd2ef23fd5ce830ac741398a6bb05da",
+            "name": "Cap%20On%20A%20White%20Background%20Stock%20Photo....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cap%20On%20A%20White%20Background%20Stock%20Photo....jpg",
+            "size": {
+                "width": 501,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19db293b1add11ba2df027fd0ec5b4e9": {
+            "format": "jpeg",
+            "id": "19db293b1add11ba2df027fd0ec5b4e9",
+            "name": "CDL.%20GLASS%20BOTTLE%20WHISKY%20(SPIRIT)%201L.jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/CDL.%20GLASS%20BOTTLE%20WHISKY%20(SPIRIT)%201L.jpeg",
+            "size": {
+                "width": 550,
+                "height": 550
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e60b2729869d0464bffabb91a27e2d87": {
+            "format": "jpeg",
+            "id": "e60b2729869d0464bffabb91a27e2d87",
+            "name": "cello%20Fridge%20Bottle%20Squaremate%20Set%20of%206....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/cello%20Fridge%20Bottle%20Squaremate%20Set%20of%206....jpeg",
+            "size": {
+                "width": 416,
+                "height": 343
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79124a76323b5c55a019aa3f51f67b29": {
+            "format": "jpg",
+            "id": "79124a76323b5c55a019aa3f51f67b29",
+            "name": "Cello%20H2O%20Plastic%20Bottle%20_%201%20L_%20Set%20of_yythk....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20H2O%20Plastic%20Bottle%20_%201%20L_%20Set%20of_yythk....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5324449e55b964f979be722456e26191": {
+            "format": "jpg",
+            "id": "5324449e55b964f979be722456e26191",
+            "name": "Cello%20H2O%20Unbreakable%20Plastic%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20H2O%20Unbreakable%20Plastic%20Bottle....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c16c76f86016f2ec7ec6f9bff640a412": {
+            "format": "jpg",
+            "id": "c16c76f86016f2ec7ec6f9bff640a412",
+            "name": "Cello%20Ozone%20Plastic%20Water%20Bottle%20Set_%201...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20Ozone%20Plastic%20Water%20Bottle%20Set_%201...%20(1).jpg",
+            "size": {
+                "width": 1500,
+                "height": 928
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f2ea346b923c372d80ad0ccb75abe16": {
+            "format": "jpg",
+            "id": "3f2ea346b923c372d80ad0ccb75abe16",
+            "name": "Cello%20Ozone%20Plastic%20Water%20Bottle%20Set_%201....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20Ozone%20Plastic%20Water%20Bottle%20Set_%201....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0572e3c9415059f251fea149549e778c": {
+            "format": "jpg",
+            "id": "0572e3c9415059f251fea149549e778c",
+            "name": "Cello%20Puro%20Steel-X%20Benz%20Stainless%20Steel....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20Puro%20Steel-X%20Benz%20Stainless%20Steel....jpg",
+            "size": {
+                "width": 1280,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d4646efd03597a0edf8e567c01910833": {
+            "format": "jpeg",
+            "id": "d4646efd03597a0edf8e567c01910833",
+            "name": "cello%20VENICE%20FRIDGE%20WATER%20BOTTLES%201000....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/cello%20VENICE%20FRIDGE%20WATER%20BOTTLES%201000....jpeg",
+            "size": {
+                "width": 416,
+                "height": 346
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0837d94043a3bb0ca7ab975563b5818": {
+            "format": "jpg",
+            "id": "b0837d94043a3bb0ca7ab975563b5818",
+            "name": "Cello%20Venice%20Plastic%20Bottle%20Set_%201....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cello%20Venice%20Plastic%20Bottle%20Set_%201....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b70ad8f9e6dba08a98f46479a6e1a723": {
+            "format": "jpg",
+            "id": "b70ad8f9e6dba08a98f46479a6e1a723",
+            "name": "Chicco%20Duo%20Hybrid%20Baby%20Bottles%20with....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Chicco%20Duo%20Hybrid%20Baby%20Bottles%20with....jpg",
+            "size": {
+                "width": 620,
+                "height": 620
+            },
+            "state": 2,
+            "type": 1
+        },
+        "959e3511eec2e6ca4a7b3c788843e9dc": {
+            "format": "jpg",
+            "id": "959e3511eec2e6ca4a7b3c788843e9dc",
+            "name": "clean%20and%20sanitize%20your%20water%20bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/clean%20and%20sanitize%20your%20water%20bottle....jpg",
+            "size": {
+                "width": 1500,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e9743654fa19e53584ef400b9374dd4": {
+            "format": "jpg",
+            "id": "7e9743654fa19e53584ef400b9374dd4",
+            "name": "Clean%20Insulated%20Bottles%20and%20Drinkware....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clean%20Insulated%20Bottles%20and%20Drinkware....jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24994f378236fa732b30b42fe9a6ea1a": {
+            "format": "jpg",
+            "id": "24994f378236fa732b30b42fe9a6ea1a",
+            "name": "Clear%2034%20oz.%20Giara%20Glass%20Water%20Bottle%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clear%2034%20oz.%20Giara%20Glass%20Water%20Bottle%20....jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97ccf58e7608638f259427458d5d989e": {
+            "format": "jpg",
+            "id": "97ccf58e7608638f259427458d5d989e",
+            "name": "Clear%20Glass%20Bottle%20100ml....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clear%20Glass%20Bottle%20100ml....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9247248ebf5b8ba518b95f4366b9989": {
+            "format": "jpg",
+            "id": "e9247248ebf5b8ba518b95f4366b9989",
+            "name": "Clear%20PET%20Liquor%20Bottle-Cap....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Clear%20PET%20Liquor%20Bottle-Cap....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e6131a6b86f0183ee22f5b9db58618b": {
+            "format": "jpg",
+            "id": "1e6131a6b86f0183ee22f5b9db58618b",
+            "name": "Coca%20Cola%20300%20ml%20(Can)%20-%20JioMart.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20300%20ml%20(Can)%20-%20JioMart.jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f789258703be9e2f5e137760c0b39845": {
+            "format": "jpg",
+            "id": "f789258703be9e2f5e137760c0b39845",
+            "name": "Coca%20Cola%20Can%20150%20Ml%20(Pack%20of%2024)-%20Buy_yythk....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20150%20Ml%20(Pack%20of%2024)-%20Buy_yythk....jpg",
+            "size": {
+                "width": 1448,
+                "height": 1448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1492b5c3f98a4083c1b916e96976f912": {
+            "format": "jpg",
+            "id": "1492b5c3f98a4083c1b916e96976f912",
+            "name": "COCA%20COLA%20CAN%20180ML%20-%20SOFT%20DRINKS....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCA%20COLA%20CAN%20180ML%20-%20SOFT%20DRINKS....jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0577efe899e70a1616c6c3ec3288e780": {
+            "format": "png",
+            "id": "0577efe899e70a1616c6c3ec3288e780",
+            "name": "COCA%20COLA%20CAN%20300%20ML%20%E2%80%93%20MazBox.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCA%20COLA%20CAN%20300%20ML%20%E2%80%93%20MazBox.png",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f279f3e1c26bf8b91d2edfcef61a743": {
+            "format": "jpg",
+            "id": "5f279f3e1c26bf8b91d2edfcef61a743",
+            "name": "COCA%20COLA%20CAN%20300ML%20-%20SOFT%20DRINKS....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCA%20COLA%20CAN%20300ML%20-%20SOFT%20DRINKS....jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c76fc3d4f6427b2b109ed051ea796dc4": {
+            "format": "jpg",
+            "id": "c76fc3d4f6427b2b109ed051ea796dc4",
+            "name": "COCA%20COLA%20CAN%20300ML.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCA%20COLA%20CAN%20300ML.jpg",
+            "size": {
+                "width": 381,
+                "height": 492
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f934a0ac4a142ba58fe90f5fbe9dfbf": {
+            "format": "png",
+            "id": "5f934a0ac4a142ba58fe90f5fbe9dfbf",
+            "name": "Coca%20Cola%20Can%20at%20Rs%2024_piece%20_%20Cold....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20at%20Rs%2024_piece%20_%20Cold....png",
+            "size": {
+                "width": 214,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae5d82102b2b20212fa516f759c26d8b": {
+            "format": "jpg",
+            "id": "ae5d82102b2b20212fa516f759c26d8b",
+            "name": "coca%20cola%20can%20by%20benwood%20_%203DOcean.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/coca%20cola%20can%20by%20benwood%20_%203DOcean.jpg",
+            "size": {
+                "width": 1000,
+                "height": 563
+            },
+            "state": 2,
+            "type": 1
+        },
+        "887e789600a129061529783b5198f4d3": {
+            "format": "jpg",
+            "id": "887e789600a129061529783b5198f4d3",
+            "name": "Coca%20Cola%20Can%20by%20masterche%20_%203DOcean.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20by%20masterche%20_%203DOcean.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb618c00078c720628c1b4a3941b6f72": {
+            "format": "png",
+            "id": "eb618c00078c720628c1b4a3941b6f72",
+            "name": "Coca%20cola%20can%20by%20Ronak%20Jadhavrao%20on....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20by%20Ronak%20Jadhavrao%20on....png",
+            "size": {
+                "width": 400,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c311597cdd9370837cb8cc55fe41811": {
+            "format": "jpg",
+            "id": "3c311597cdd9370837cb8cc55fe41811",
+            "name": "Coca%20cola%20can%20editorial%20photography...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20editorial%20photography...%20(1).jpg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae134622e0e81d72b12721c9190a6077": {
+            "format": "jpg",
+            "id": "ae134622e0e81d72b12721c9190a6077",
+            "name": "Coca%20cola%20can%20editorial%20photography....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20editorial%20photography....jpg",
+            "size": {
+                "width": 600,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dffa189e485b2019391cb65e8b1a4507": {
+            "format": "jpg",
+            "id": "dffa189e485b2019391cb65e8b1a4507",
+            "name": "Coca%20Cola%20Can%20High%20Resolution%20Stock...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20High%20Resolution%20Stock...%20(1).jpg",
+            "size": {
+                "width": 914,
+                "height": 1390
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c6d34eb5fbccbf29cc3efbaa41f73b8": {
+            "format": "jpg",
+            "id": "1c6d34eb5fbccbf29cc3efbaa41f73b8",
+            "name": "Coca%20Cola%20Can%20High%20Resolution%20Stock...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20High%20Resolution%20Stock...%20(2).jpg",
+            "size": {
+                "width": 1300,
+                "height": 1063
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2fe32ef367ba2b58dca895539466c8a": {
+            "format": "jpg",
+            "id": "d2fe32ef367ba2b58dca895539466c8a",
+            "name": "Coca%20Cola%20Can%20High%20Resolution%20Stock....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20High%20Resolution%20Stock....jpg",
+            "size": {
+                "width": 866,
+                "height": 1390
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f324ae7ee69c674c86be8143e355fdc9": {
+            "format": "jpg",
+            "id": "f324ae7ee69c674c86be8143e355fdc9",
+            "name": "Coca%20cola%20can%20Images_%20Stock%20Photos...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20Images_%20Stock%20Photos...%20(1).jpg",
+            "size": {
+                "width": 260,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99ef2a0f38feda851f8d40c81ba96d5a": {
+            "format": "jpg",
+            "id": "99ef2a0f38feda851f8d40c81ba96d5a",
+            "name": "Coca%20cola%20can%20Images_%20Stock%20Photos...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20Images_%20Stock%20Photos...%20(2).jpg",
+            "size": {
+                "width": 184,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d0ba8f67e3d93b4f7c27ac8e70045ca": {
+            "format": "jpg",
+            "id": "8d0ba8f67e3d93b4f7c27ac8e70045ca",
+            "name": "Coca%20cola%20can%20Images_%20Stock%20Photos....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20Images_%20Stock%20Photos....jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b15321079b9827409322565724773aa4": {
+            "format": "jpg",
+            "id": "b15321079b9827409322565724773aa4",
+            "name": "Coca%20cola%20can%20photography-HD000827-Picxy.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20photography-HD000827-Picxy.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1535
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2938f8623eaf60884abd8abd14084dcf": {
+            "format": "jpg",
+            "id": "2938f8623eaf60884abd8abd14084dcf",
+            "name": "Coca%20Cola%20Can%20Pictures%20_%20Download%20Free...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20Pictures%20_%20Download%20Free...%20(1).jpg",
+            "size": {
+                "width": 2917,
+                "height": 3646
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f2d68f259ce0ca7942cc8eff3328b2d": {
+            "format": "jpg",
+            "id": "4f2d68f259ce0ca7942cc8eff3328b2d",
+            "name": "Coca%20Cola%20Can%20Pictures%20_%20Download%20Free....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20Pictures%20_%20Download%20Free....jpg",
+            "size": {
+                "width": 5616,
+                "height": 3744
+            },
+            "state": 2,
+            "type": 1
+        },
+        "311b10ab0afa7eaf9e0cb5027d291be3": {
+            "format": "png",
+            "id": "311b10ab0afa7eaf9e0cb5027d291be3",
+            "name": "Coca%20Cola%20Can%20PNG%20Image%20-%20PurePNG....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20PNG%20Image%20-%20PurePNG....png",
+            "size": {
+                "width": 1200,
+                "height": 795
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52a3d4e8725fc9db65960748ae841e14": {
+            "format": "png",
+            "id": "52a3d4e8725fc9db65960748ae841e14",
+            "name": "Coca%20Cola%20Can%20PNG%20Images_%20Free....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20PNG%20Images_%20Free....png",
+            "size": {
+                "width": 224,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "563c1ecb67461f642fd0f4180a67a11d": {
+            "format": "jpeg",
+            "id": "563c1ecb67461f642fd0f4180a67a11d",
+            "name": "Coca%20Cola%20Can%20Reviews_%20Latest%20Review%20of....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20Reviews_%20Latest%20Review%20of....jpeg",
+            "size": {
+                "width": 312,
+                "height": 308
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1e2ea1eefcc901d01e194e7e75d474e": {
+            "format": "jpg",
+            "id": "a1e2ea1eefcc901d01e194e7e75d474e",
+            "name": "Coca%20Cola%20Can%20%E2%80%93%20330ml%20%E2%80%93%20Capitalmart.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20%E2%80%93%20330ml%20%E2%80%93%20Capitalmart.jpg",
+            "size": {
+                "width": 374,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6539aabaeff0ef3c7e869eaa0643de0": {
+            "format": "jpg",
+            "id": "c6539aabaeff0ef3c7e869eaa0643de0",
+            "name": "Coca%20Cola%20Can%20%E2%80%93%20AskOnly.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20%E2%80%93%20AskOnly.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ca3f9e7c693ef238b3d816c5cf00a9b": {
+            "format": "png",
+            "id": "6ca3f9e7c693ef238b3d816c5cf00a9b",
+            "name": "Coca%20Cola%20Classic%20(U.S.%20Origin)%2012fl.oz%20....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Classic%20(U.S.%20Origin)%2012fl.oz%20....png",
+            "size": {
+                "width": 525,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "063c340bb8c756245213700aa6f44e53": {
+            "format": "jpg",
+            "id": "063c340bb8c756245213700aa6f44e53",
+            "name": "Coca%20Cola%20Cold%20Drink....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Cold%20Drink....jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18ce8d20527b2d2a3306d269b76862f0": {
+            "format": "png",
+            "id": "18ce8d20527b2d2a3306d269b76862f0",
+            "name": "Coca%20Cola%20Soft%20Drink%20300%20Ml%20Can%20at%20Rs_yythkg....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Soft%20Drink%20300%20Ml%20Can%20at%20Rs_yythkg....png",
+            "size": {
+                "width": 403,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c05bf0452269dcb4f4fa08d3d02b663": {
+            "format": "jpeg",
+            "id": "7c05bf0452269dcb4f4fa08d3d02b663",
+            "name": "Coca%20Cola%20Soft%20Drink%20Can%20250ml....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Soft%20Drink%20Can%20250ml....jpeg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "962df0ab38401c94661e687aed2502ad": {
+            "format": "jpg",
+            "id": "962df0ab38401c94661e687aed2502ad",
+            "name": "Coca%20Cola%20Zero%20300%20ml%20(Can)%20-%20JioMart.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Zero%20300%20ml%20(Can)%20-%20JioMart.jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48d365c7f0872b0d9b7975abb8ab3f39": {
+            "format": "jpg",
+            "id": "48d365c7f0872b0d9b7975abb8ab3f39",
+            "name": "coca%20cola_%20product_%20tin%20can_%20soft%20drink....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/coca%20cola_%20product_%20tin%20can_%20soft%20drink....jpg",
+            "size": {
+                "width": 3168,
+                "height": 4752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38c2b7313e0a678bd94de05013710e27": {
+            "format": "jpg",
+            "id": "38c2b7313e0a678bd94de05013710e27",
+            "name": "Coca-Cola%20Can%20-%203D%20Model%20by%20luxmi_3d_studio%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20-%203D%20Model%20by%20luxmi_3d_studio%20(1).jpg",
+            "size": {
+                "width": 2400,
+                "height": 2400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd4083650426e52a913b782d4db5dee1": {
+            "format": "jpg",
+            "id": "dd4083650426e52a913b782d4db5dee1",
+            "name": "Coca-Cola%20Can%20-%203D%20Model%20by%20luxmi_3d_studio.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20-%203D%20Model%20by%20luxmi_3d_studio.jpg",
+            "size": {
+                "width": 2400,
+                "height": 2400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf89232a33cc81a29c53a84e5edcc267": {
+            "format": "jpg",
+            "id": "cf89232a33cc81a29c53a84e5edcc267",
+            "name": "Coca-Cola%20Can%2012%20FL%203D%20model%20-%20Food%20on_yythk....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%2012%20FL%203D%20model%20-%20Food%20on_yythk....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a338d48cb85e060b176f54ca557c7289": {
+            "format": "jpg",
+            "id": "a338d48cb85e060b176f54ca557c7289",
+            "name": "Coca-Cola%20can%20250%20ml-tablets%20-%20Tawsyl.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20250%20ml-tablets%20-%20Tawsyl.jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc1cabe30a978e1e5b368c881c4322d4": {
+            "format": "jpg",
+            "id": "fc1cabe30a978e1e5b368c881c4322d4",
+            "name": "Coca-Cola%20Can%20300ml%20(Pack%20of%204....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20300ml%20(Pack%20of%204....jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b990640625f90176eeca92aa8d02dfc": {
+            "format": "jpg",
+            "id": "4b990640625f90176eeca92aa8d02dfc",
+            "name": "Coca-Cola%20Can%20300ml%20(Pack%20of%206)%20-%20Apni%20Shop.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20300ml%20(Pack%20of%206)%20-%20Apni%20Shop.jpg",
+            "size": {
+                "width": 522,
+                "height": 522
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4177e068b49f51e1a91480e05c7867aa": {
+            "format": "jpg",
+            "id": "4177e068b49f51e1a91480e05c7867aa",
+            "name": "Coca-Cola%20can%20330%20ml%20on%20white....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20330%20ml%20on%20white....jpg",
+            "size": {
+                "width": 1069,
+                "height": 1700
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c806f8c077f9133cb8a8dce24b1faf49": {
+            "format": "png",
+            "id": "c806f8c077f9133cb8a8dce24b1faf49",
+            "name": "Coca-Cola%20Can%203D%20Puzzle%20_%20Coca-Cola%20Store.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%203D%20Puzzle%20_%20Coca-Cola%20Store.png",
+            "size": {
+                "width": 700,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1988365f92118e821113258b6873ec99": {
+            "format": "jpg",
+            "id": "1988365f92118e821113258b6873ec99",
+            "name": "Coca-Cola%20Can%20by%20Genewal%20Design%20on%20Dribbble.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20by%20Genewal%20Design%20on%20Dribbble.jpg",
+            "size": {
+                "width": 400,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f6df01362522baf2fd927d05be37361": {
+            "format": "jpeg",
+            "id": "2f6df01362522baf2fd927d05be37361",
+            "name": "Coca-Cola%20Can%20Price%20in%20India%20-%20Buy%20Coca....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20Price%20in%20India%20-%20Buy%20Coca....jpeg",
+            "size": {
+                "width": 234,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fc62b22ed2f025f275e75989074af0b": {
+            "format": "jpg",
+            "id": "1fc62b22ed2f025f275e75989074af0b",
+            "name": "Coca-Cola%20Can%20Soda%20Tin%20-%20Free%20photo%20on....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20Soda%20Tin%20-%20Free%20photo%20on....jpg",
+            "size": {
+                "width": 866,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c24cceaf43c5f2b68683458b90bdabb3": {
+            "format": "jpg",
+            "id": "c24cceaf43c5f2b68683458b90bdabb3",
+            "name": "Coca-Cola%20can%20_%203D%20CAD%20Model%20Library....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20_%203D%20CAD%20Model%20Library....jpg",
+            "size": {
+                "width": 853,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2db27bda382468ed4b0aad10c9361bd": {
+            "format": "jpg",
+            "id": "a2db27bda382468ed4b0aad10c9361bd",
+            "name": "Coca-Cola%20can%20_%20Smithsonian_s%20National%20Zoo.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20_%20Smithsonian_s%20National%20Zoo.jpg",
+            "size": {
+                "width": 757,
+                "height": 1140
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f8c319e43cb20e595c17247ebf209ac": {
+            "format": "jpeg",
+            "id": "6f8c319e43cb20e595c17247ebf209ac",
+            "name": "Coca-Cola%20Can%20%E2%80%93%20Global%20Grocery.jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20%E2%80%93%20Global%20Grocery.jpeg",
+            "size": {
+                "width": 245,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a727b9c557257893fc0c0ce9e4f3136": {
+            "format": "jpg",
+            "id": "0a727b9c557257893fc0c0ce9e4f3136",
+            "name": "Coca-Cola%20Cans%20_Life%20Hacks....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Cans%20_Life%20Hacks....jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bba6384a7bcb62c931e1b0a12cbcad84": {
+            "format": "jpg",
+            "id": "bba6384a7bcb62c931e1b0a12cbcad84",
+            "name": "Coca-Cola%20cola180%20ml%20Can%20_%20Amazon.in%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20cola180%20ml%20Can%20_%20Amazon.in%20....jpg",
+            "size": {
+                "width": 1100,
+                "height": 1100
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f899fdb24c90c2adfee5afad24468d5": {
+            "format": "jpg",
+            "id": "1f899fdb24c90c2adfee5afad24468d5",
+            "name": "Coca-Cola%20company%20trials%20first%20paper....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20company%20trials%20first%20paper....jpg",
+            "size": {
+                "width": 976,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b21db555b13254680053a81f7f4cca11": {
+            "format": "jpg",
+            "id": "b21db555b13254680053a81f7f4cca11",
+            "name": "Coca-Cola%20Contour%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Contour%20Bottle....jpg",
+            "size": {
+                "width": 550,
+                "height": 1141
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffb50d403b1215bbe3e9df38c2531c6b": {
+            "format": "jpg",
+            "id": "ffb50d403b1215bbe3e9df38c2531c6b",
+            "name": "Coca-Cola%20Is%20Changing%20Coke%20Zero_s....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Is%20Changing%20Coke%20Zero_s....jpg",
+            "size": {
+                "width": 1080,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5c1e36b8bdea7a334a24d72311137a9": {
+            "format": "jpg",
+            "id": "c5c1e36b8bdea7a334a24d72311137a9",
+            "name": "Coca-Cola%20Regular%2024%20x%20330ml%20Online%20at....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Regular%2024%20x%20330ml%20Online%20at....jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af826d77b82b63bb80143e7b4e0da9b0": {
+            "format": "jpg",
+            "id": "af826d77b82b63bb80143e7b4e0da9b0",
+            "name": "Coca-Cola%20releases%20HK%20heritage%20design....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20releases%20HK%20heritage%20design....jpg",
+            "size": {
+                "width": 800,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4dd7ba5ecaf0bf6e6d7f1cbfdb16138b": {
+            "format": "jpg",
+            "id": "4dd7ba5ecaf0bf6e6d7f1cbfdb16138b",
+            "name": "Coca-Cola%20rolls%20out%20new%20pack%20design%20for....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20rolls%20out%20new%20pack%20design%20for....jpg",
+            "size": {
+                "width": 1879,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6065306b2bf82820a263beb00c28aec": {
+            "format": "jpeg",
+            "id": "f6065306b2bf82820a263beb00c28aec",
+            "name": "Coca-Cola%20Sleek%20Can%20(Free)%20-%20Download....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Sleek%20Can%20(Free)%20-%20Download....jpeg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00e1e1146e214406b6e9f6ab081a6bbb": {
+            "format": "png",
+            "id": "00e1e1146e214406b6e9f6ab081a6bbb",
+            "name": "Coca-Cola%20_%20Coca-Cola%20Flavours%20in%20India....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20_%20Coca-Cola%20Flavours%20in%20India....png",
+            "size": {
+                "width": 300,
+                "height": 270
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e98a863d37664bb326a6146c418bed2f": {
+            "format": "jpg",
+            "id": "e98a863d37664bb326a6146c418bed2f",
+            "name": "Coca-Cola....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola....jpg",
+            "size": {
+                "width": 900,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52958e9b85d5abec73e999f9fa8ebf07": {
+            "format": "png",
+            "id": "52958e9b85d5abec73e999f9fa8ebf07",
+            "name": "COCACOLA%20POP%20CAN%20180ML.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COCACOLA%20POP%20CAN%20180ML.png",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80719d159680af8acc679fa1684c8bc0": {
+            "format": "jpg",
+            "id": "80719d159680af8acc679fa1684c8bc0",
+            "name": "COKE%20CAN%20300%20ML%20-%20Stationery%20items....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COKE%20CAN%20300%20ML%20-%20Stationery%20items....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d05f2609d15df5a85b5d4fb1c867512": {
+            "format": "png",
+            "id": "6d05f2609d15df5a85b5d4fb1c867512",
+            "name": "Coke%20Can%20PNG%20Images_%20Free%20Transparent....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coke%20Can%20PNG%20Images_%20Free%20Transparent....png",
+            "size": {
+                "width": 224,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6602f3a3a82633001e67be5dbb0a7428": {
+            "format": "jpg",
+            "id": "6602f3a3a82633001e67be5dbb0a7428",
+            "name": "Coke%20Can%20Stock%20Photo%20-%20Download%20Image....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coke%20Can%20Stock%20Photo%20-%20Download%20Image....jpg",
+            "size": {
+                "width": 610,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2fd3f699182daa1b3263b32b61a4dd52": {
+            "format": "jpg",
+            "id": "2fd3f699182daa1b3263b32b61a4dd52",
+            "name": "Coke%20can%20Stock%20Photos%20&%20Images....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coke%20can%20Stock%20Photos%20&%20Images....jpg",
+            "size": {
+                "width": 399,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "860319f55794f56f010826e701f77985": {
+            "format": "png",
+            "id": "860319f55794f56f010826e701f77985",
+            "name": "Coke%20Cans%20png%20images%20_%20PNGEgg.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coke%20Cans%20png%20images%20_%20PNGEgg.png",
+            "size": {
+                "width": 900,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4bce4cdba60665bacc182690ca0d76eb": {
+            "format": "jpeg",
+            "id": "4bce4cdba60665bacc182690ca0d76eb",
+            "name": "Cold%20Water%20Bottle....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cold%20Water%20Bottle....jpeg",
+            "size": {
+                "width": 226,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f26383875372312259b8753549b888ae": {
+            "format": "jpg",
+            "id": "f26383875372312259b8753549b888ae",
+            "name": "Copper%20Bottle.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Copper%20Bottle.jpg",
+            "size": {
+                "width": 1024,
+                "height": 875
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d9bacd7a45505c4bcea9ee88cb2f908": {
+            "format": "jpg",
+            "id": "6d9bacd7a45505c4bcea9ee88cb2f908",
+            "name": "Copper%20bottle_%20Stay%20hydrated%20during%20the....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Copper%20bottle_%20Stay%20hydrated%20during%20the....jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43ce6a463fd23f62f735fd55d4a02290": {
+            "format": "jpg",
+            "id": "43ce6a463fd23f62f735fd55d4a02290",
+            "name": "Crushed%20Coca%20Cola%20can%20cut-out%20-%20Stock....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Crushed%20Coca%20Cola%20can%20cut-out%20-%20Stock....jpg",
+            "size": {
+                "width": 608,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8856a5a0b9cdfdd3fdeecc23d6f2bc5": {
+            "format": "jpg",
+            "id": "d8856a5a0b9cdfdd3fdeecc23d6f2bc5",
+            "name": "Crystal-Infused%20Water%20Bottles_%20Do%20They....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Crystal-Infused%20Water%20Bottles_%20Do%20They....jpg",
+            "size": {
+                "width": 732,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93ea62eba211bb071017fdb499c22761": {
+            "format": "jpg",
+            "id": "93ea62eba211bb071017fdb499c22761",
+            "name": "Double%20Walled%20Vacuum%20Insulated....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Double%20Walled%20Vacuum%20Insulated....jpg",
+            "size": {
+                "width": 1452,
+                "height": 732
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ef2399fa4f806ad76ad6af450a038e3": {
+            "format": "jpg",
+            "id": "0ef2399fa4f806ad76ad6af450a038e3",
+            "name": "Eco%20Bottle%201L%20with%20Fliptop%20(2....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Eco%20Bottle%201L%20with%20Fliptop%20(2....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbe4601c596483313c54258990d3b53a": {
+            "format": "jpg",
+            "id": "cbe4601c596483313c54258990d3b53a",
+            "name": "Eco_%20Large%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Eco_%20Large%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+            "size": {
+                "width": 2657,
+                "height": 2657
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45db90b44764ec0e28d8035933d6a63f": {
+            "format": "jpg",
+            "id": "45db90b44764ec0e28d8035933d6a63f",
+            "name": "Eco_%20Medium%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Eco_%20Medium%20Water%20Bottle%20%E2%80%93%20Tupperware%20US.jpg",
+            "size": {
+                "width": 2657,
+                "height": 2657
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c0bae2acd48f1ac574f6728fb5f02183": {
+            "format": "jpg",
+            "id": "c0bae2acd48f1ac574f6728fb5f02183",
+            "name": "Emerald%20Green%20Glass%20Long%20Neck%20Beer....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Emerald%20Green%20Glass%20Long%20Neck%20Beer....jpg",
+            "size": {
+                "width": 1800,
+                "height": 1800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbe656221872c4f4554e11dace69ba1f": {
+            "format": "jpg",
+            "id": "dbe656221872c4f4554e11dace69ba1f",
+            "name": "Empty%20Plastic%20Bottle%20Stock%20Photo....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Empty%20Plastic%20Bottle%20Stock%20Photo....jpg",
+            "size": {
+                "width": 681,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66097a06bb825d4cd1a4d3c34f6efadb": {
+            "format": "jpg",
+            "id": "66097a06bb825d4cd1a4d3c34f6efadb",
+            "name": "Essential%20Cycling%20Water%20Bottle%20550%20ml....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Essential%20Cycling%20Water%20Bottle%20550%20ml....jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50f78bdb2c252e59ac6a6d09010d4723": {
+            "format": "jpg",
+            "id": "50f78bdb2c252e59ac6a6d09010d4723",
+            "name": "Evolution%20of%20Coke%20Bottles%20and%20Cans%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Evolution%20of%20Coke%20Bottles%20and%20Cans%20(1).jpg",
+            "size": {
+                "width": 750,
+                "height": 562
+            },
+            "state": 2,
+            "type": 1
+        },
+        "699fd337ba4b767b66875463e4192046": {
+            "format": "jpg",
+            "id": "699fd337ba4b767b66875463e4192046",
+            "name": "Evolution%20of%20Coke%20Bottles%20and%20Cans.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Evolution%20of%20Coke%20Bottles%20and%20Cans.jpg",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bcc90788552e5fe18022e7c9e7b9779": {
+            "format": "jpg",
+            "id": "3bcc90788552e5fe18022e7c9e7b9779",
+            "name": "Expensive%20Water%20Bottles%20Are%20Millennials....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Expensive%20Water%20Bottles%20Are%20Millennials....jpg",
+            "size": {
+                "width": 960,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b164fe9a6c7b4cefce43ce290a24e641": {
+            "format": "jpg",
+            "id": "b164fe9a6c7b4cefce43ce290a24e641",
+            "name": "F1%20Fragrance%20bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/F1%20Fragrance%20bottle....jpg",
+            "size": {
+                "width": 3556,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b1afddf6873319942141890ee88c7e8": {
+            "format": "jpg",
+            "id": "7b1afddf6873319942141890ee88c7e8",
+            "name": "Fact%20Check%20Story_%20Photo%20of%20Coca%20Cola....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Fact%20Check%20Story_%20Photo%20of%20Coca%20Cola....jpg",
+            "size": {
+                "width": 650,
+                "height": 540
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25cad787536a62c8e5bc50144484f500": {
+            "format": "jpg",
+            "id": "25cad787536a62c8e5bc50144484f500",
+            "name": "Fridge%20Water%20Bottle%20Set....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Fridge%20Water%20Bottle%20Set....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28fa14a5045d13e824c445fa9ced909b": {
+            "format": "jpg",
+            "id": "28fa14a5045d13e824c445fa9ced909b",
+            "name": "Front%20View%20Of%20Coca%20Cola%20Can%20Stock%20Photo....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Front%20View%20Of%20Coca%20Cola%20Can%20Stock%20Photo....jpg",
+            "size": {
+                "width": 356,
+                "height": 482
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34742e3acdb5e01f53afdc7fff9f93c1": {
+            "format": "jpg",
+            "id": "34742e3acdb5e01f53afdc7fff9f93c1",
+            "name": "Gatorade%20Squeeze%2032oz%20Plastic%20Water....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Gatorade%20Squeeze%2032oz%20Plastic%20Water....jpg",
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9016f53880771a876f04790d963f0dfb": {
+            "format": "jpg",
+            "id": "9016f53880771a876f04790d963f0dfb",
+            "name": "Gatorade%20Squeeze%20Bottle%20_%20Sport%20Chek.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Gatorade%20Squeeze%20Bottle%20_%20Sport%20Chek.jpg",
+            "size": {
+                "width": 520,
+                "height": 520
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b419e900f733591fdcc6a0696505ca7f": {
+            "format": "jpg",
+            "id": "b419e900f733591fdcc6a0696505ca7f",
+            "name": "Gemful%203L%20Large%20Water%20Bottle%20with....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Gemful%203L%20Large%20Water%20Bottle%20with....jpg",
+            "size": {
+                "width": 1024,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cf4676273e085ac464c7c3b857534b7": {
+            "format": "jpg",
+            "id": "9cf4676273e085ac464c7c3b857534b7",
+            "name": "GIFTBASH%20Glass%20Bottle_%20100ML_%20Set%20of%204....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/GIFTBASH%20Glass%20Bottle_%20100ML_%20Set%20of%204....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab264cf8e7637a3b58ceec64954800c0": {
+            "format": "jpg",
+            "id": "ab264cf8e7637a3b58ceec64954800c0",
+            "name": "Glass%20200%20ml%20Milk%20Bottle_%20Rs%2012%20_unit....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20200%20ml%20Milk%20Bottle_%20Rs%2012%20_unit....jpg",
+            "size": {
+                "width": 250,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "324dc61b714a7ada510f111d61ded9fe": {
+            "format": "jpg",
+            "id": "324dc61b714a7ada510f111d61ded9fe",
+            "name": "Glass%20Bottle%20Cork%20Stopper%20at%20Rs%2048....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20Bottle%20Cork%20Stopper%20at%20Rs%2048....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc854ef580f7b515f631641dc2dff951": {
+            "format": "jpg",
+            "id": "dc854ef580f7b515f631641dc2dff951",
+            "name": "Glass%20Bottle%20Manufacturer%20in%20Europe...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20Bottle%20Manufacturer%20in%20Europe...%20(1).jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "538a8c623852de0285aa5007cee20bed": {
+            "format": "jpg",
+            "id": "538a8c623852de0285aa5007cee20bed",
+            "name": "Glass%20Bottle%20Manufacturer%20in%20Europe....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20Bottle%20Manufacturer%20in%20Europe....jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91e4ebee0baa657cb834a9f94d3a1f82": {
+            "format": "jpg",
+            "id": "91e4ebee0baa657cb834a9f94d3a1f82",
+            "name": "Glass%20bottle%20shortage%20leaves%20US....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20bottle%20shortage%20leaves%20US....jpg",
+            "size": {
+                "width": 2224,
+                "height": 1251
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59f43ab23ac1b48e2eecb607602ddc75": {
+            "format": "jpg",
+            "id": "59f43ab23ac1b48e2eecb607602ddc75",
+            "name": "glass%20bottle_New%20daily%20offers....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/glass%20bottle_New%20daily%20offers....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7eedad0fa5851aeba90745ab598ee47": {
+            "format": "jpg",
+            "id": "f7eedad0fa5851aeba90745ab598ee47",
+            "name": "Glass_%20Metal_%20Plastic%20-%20Which%20Water....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass_%20Metal_%20Plastic%20-%20Which%20Water....jpg",
+            "size": {
+                "width": 1920,
+                "height": 1281
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79a767175d15fea8fbab8c9a00b2dafd": {
+            "format": "png",
+            "id": "79a767175d15fea8fbab8c9a00b2dafd",
+            "name": "Goals%20Insulated%20Stainless%20Steel%20Water....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Goals%20Insulated%20Stainless%20Steel%20Water....png",
+            "size": {
+                "width": 330,
+                "height": 584
+            },
+            "state": 2,
+            "type": 1
+        },
+        "77fdf5aefdcb5c2d689250a8930f245d": {
+            "format": "jpeg",
+            "id": "77fdf5aefdcb5c2d689250a8930f245d",
+            "name": "GS%20POLO%20Coca%20Cola%20Can%20Sipper%20Vaccum%20Mug....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/GS%20POLO%20Coca%20Cola%20Can%20Sipper%20Vaccum%20Mug....jpeg",
+            "size": {
+                "width": 416,
+                "height": 340
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b992aa8a450af337ea9773a57da085c": {
+            "format": "jpg",
+            "id": "6b992aa8a450af337ea9773a57da085c",
+            "name": "Guide%20to%20Wine%20Bottle%20Sizes%20_%20Wine%20Folly.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Guide%20to%20Wine%20Bottle%20Sizes%20_%20Wine%20Folly.jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89d79246a9de73d69a82b405af1a8343": {
+            "format": "jpg",
+            "id": "89d79246a9de73d69a82b405af1a8343",
+            "name": "Hand%20Holding%20Coca%20Cola%20Can_%20by%20NOOR....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Hand%20Holding%20Coca%20Cola%20Can_%20by%20NOOR....jpg",
+            "size": {
+                "width": 562,
+                "height": 376
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19a984fdcfc274619da88a5279d43adb": {
+            "format": "jpg",
+            "id": "19a984fdcfc274619da88a5279d43adb",
+            "name": "Home%20iDrink%20-%20iDrink.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Home%20iDrink%20-%20iDrink.jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2824ef88862d52231d03b0a2733db0c": {
+            "format": "jpg",
+            "id": "c2824ef88862d52231d03b0a2733db0c",
+            "name": "Home%20%E2%80%93%20EQUA%20-%20Sustainable%20Water%20Bottles.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Home%20%E2%80%93%20EQUA%20-%20Sustainable%20Water%20Bottles.jpg",
+            "size": {
+                "width": 1800,
+                "height": 615
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49ca6567f5f1b7a63f0a660ce4a901f7": {
+            "format": "jpg",
+            "id": "49ca6567f5f1b7a63f0a660ce4a901f7",
+            "name": "How%20to%20Bottle-Feed%20a%20Baby_%20Tips%20for....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20Bottle-Feed%20a%20Baby_%20Tips%20for....jpg",
+            "size": {
+                "width": 414,
+                "height": 232
+            },
+            "state": 1,
+            "type": 1
+        },
+        "31b0af5060efae15c93fc6965d4361a2": {
+            "format": "jpg",
+            "id": "31b0af5060efae15c93fc6965d4361a2",
+            "name": "How%20to%20buy%20bottles%20and%20nipples%20_%20BabyCenter%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20buy%20bottles%20and%20nipples%20_%20BabyCenter%20(1).jpg",
+            "size": {
+                "width": 1026,
+                "height": 770
+            },
+            "state": 1,
+            "type": 1
+        },
+        "42a4de8882e028a40db1869fb335467e": {
+            "format": "jpg",
+            "id": "42a4de8882e028a40db1869fb335467e",
+            "name": "How%20to%20buy%20bottles%20and%20nipples%20_%20BabyCenter.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20buy%20bottles%20and%20nipples%20_%20BabyCenter.jpg",
+            "size": {
+                "width": 1026,
+                "height": 770
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b765324135ae66c6666492c6fc157c4f": {
+            "format": "jpg",
+            "id": "b765324135ae66c6666492c6fc157c4f",
+            "name": "How%20to%20Clean%20a%20Water%20Bottle%E2%80%94Because...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20Clean%20a%20Water%20Bottle%E2%80%94Because...%20(1).jpg",
+            "size": {
+                "width": 2000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ff94510b4914f1d5876809e2b459f61": {
+            "format": "jpg",
+            "id": "8ff94510b4914f1d5876809e2b459f61",
+            "name": "How%20to%20draw%20a%20coca%20cola%20slim%20can%20-%20Yo.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20draw%20a%20coca%20cola%20slim%20can%20-%20Yo.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "68a51dbd7f410d640142ea94981e172d": {
+            "format": "png",
+            "id": "68a51dbd7f410d640142ea94981e172d",
+            "name": "How%20to%20Use%20a%20Density%20Bottle.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/How%20to%20Use%20a%20Density%20Bottle.png",
+            "size": {
+                "width": 310,
+                "height": 465
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8ae606341d9c22730dbce0a7c7f25c1": {
+            "format": "jpg",
+            "id": "c8ae606341d9c22730dbce0a7c7f25c1",
+            "name": "Impossible%20bottle%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Impossible%20bottle%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 2000,
+                "height": 3008
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3710fd18feca30ce57e549828172e42": {
+            "format": "jpg",
+            "id": "c3710fd18feca30ce57e549828172e42",
+            "name": "Insulated%20Water%20Bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Insulated%20Water%20Bottles....jpg",
+            "size": {
+                "width": 800,
+                "height": 670
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2de62d2bc11dab83b5b452c6a7998406": {
+            "format": "jpg",
+            "id": "2de62d2bc11dab83b5b452c6a7998406",
+            "name": "Irish%20message%20in%20a%20bottle%20found%2040....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Irish%20message%20in%20a%20bottle%20found%2040....jpg",
+            "size": {
+                "width": 620,
+                "height": 827
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ddde9aa1e7c4666c2c01816ff671f57": {
+            "format": "jpg",
+            "id": "3ddde9aa1e7c4666c2c01816ff671f57",
+            "name": "Jameson%20Water%20Bottle%20_%20Jameson%20Irish....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Jameson%20Water%20Bottle%20_%20Jameson%20Irish....jpg",
+            "size": {
+                "width": 565,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7efc91c3a587d9d9a92f49ec4a2a2ce": {
+            "format": "jpg",
+            "id": "b7efc91c3a587d9d9a92f49ec4a2a2ce",
+            "name": "KENKO%20COPPER%20WATER%20BOTTLE%201%20LITER(MHS....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/KENKO%20COPPER%20WATER%20BOTTLE%201%20LITER(MHS....jpg",
+            "size": {
+                "width": 500,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60ef502480c8dd9edd6a3e16a53d8293": {
+            "format": "png",
+            "id": "60ef502480c8dd9edd6a3e16a53d8293",
+            "name": "KENT%20Thermos%20Bottles%20&%20Stainless%20Steel....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/KENT%20Thermos%20Bottles%20&%20Stainless%20Steel....png",
+            "size": {
+                "width": 1900,
+                "height": 1100
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18a93709d433e218f12d59c01df28684": {
+            "format": "jpeg",
+            "id": "18a93709d433e218f12d59c01df28684",
+            "name": "Kids%20Water%20Bottles%20-%20Buy%20School%20Water....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Kids%20Water%20Bottles%20-%20Buy%20School%20Water....jpeg",
+            "size": {
+                "width": 432,
+                "height": 612
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2855719969906b22813b88716192cf4": {
+            "format": "jpg",
+            "id": "b2855719969906b22813b88716192cf4",
+            "name": "Kuber%20Industries%20Cola%20Stainless%20Steel....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Kuber%20Industries%20Cola%20Stainless%20Steel....jpg",
+            "size": {
+                "width": 1100,
+                "height": 1519
+            },
+            "state": 2,
+            "type": 1
+        },
+        "625a0478898af5127518de89e779c72c": {
+            "format": "jpg",
+            "id": "625a0478898af5127518de89e779c72c",
+            "name": "Lable-free%20Bottle%20_%20evian%C2%AE%20-%20evian....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Lable-free%20Bottle%20_%20evian%C2%AE%20-%20evian....jpg",
+            "size": {
+                "width": 2185,
+                "height": 2732
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31ef0892611c5763dd0f455fde22d2f8": {
+            "format": "png",
+            "id": "31ef0892611c5763dd0f455fde22d2f8",
+            "name": "Laboratory%20Bottle%20WITH%20PP%20Pouring%20Ring....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Laboratory%20Bottle%20WITH%20PP%20Pouring%20Ring....png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5cea1586d64fe79505089152460c327a": {
+            "format": "jpg",
+            "id": "5cea1586d64fe79505089152460c327a",
+            "name": "LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As...%20(1).jpg",
+            "size": {
+                "width": 1140,
+                "height": 1140
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5f5c555f6dbc5a6308a314ae81a12ae": {
+            "format": "jpg",
+            "id": "b5f5c555f6dbc5a6308a314ae81a12ae",
+            "name": "LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As...%20(2).jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23fecb363d25fadcc3b6e4be128334f0": {
+            "format": "jpg",
+            "id": "23fecb363d25fadcc3b6e4be128334f0",
+            "name": "LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/LARQ%20_%20Self-cleaning%20Water%20Bottle%20_%20As....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d293f2a7d59d40abe63b4183265da006": {
+            "format": "jpg",
+            "id": "d293f2a7d59d40abe63b4183265da006",
+            "name": "Mainstays%2022-ounce%20Plastic%20Water%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Mainstays%2022-ounce%20Plastic%20Water%20Bottle....jpg",
+            "size": {
+                "width": 5000,
+                "height": 5000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52c2424d177d9cd6e208fb5de485ce6e": {
+            "format": "jpg",
+            "id": "52c2424d177d9cd6e208fb5de485ce6e",
+            "name": "Matchstix%20Coke%20Can%20Stainless%20Steel....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Matchstix%20Coke%20Can%20Stainless%20Steel....jpg",
+            "size": {
+                "width": 1280,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82b96db2e4637f7c83e22c62ac63c604": {
+            "format": "jpg",
+            "id": "82b96db2e4637f7c83e22c62ac63c604",
+            "name": "meaning%20in%20the%20Cambridge%20English%20Dictionary.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/meaning%20in%20the%20Cambridge%20English%20Dictionary.jpg",
+            "size": {
+                "width": 150,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f8cdae57a8a2820f0025b214efd47f5": {
+            "format": "jpg",
+            "id": "4f8cdae57a8a2820f0025b214efd47f5",
+            "name": "Menu%20Bottle%20Carafe%20with%20Lid....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Menu%20Bottle%20Carafe%20with%20Lid....jpg",
+            "size": {
+                "width": 2000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "06216c6dda98a67db968e2f92ff33a7b": {
+            "format": "jpg",
+            "id": "06216c6dda98a67db968e2f92ff33a7b",
+            "name": "Message%20in%20a%20bottle%20finders%20speak%20to%20US....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Message%20in%20a%20bottle%20finders%20speak%20to%20US....jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae25670b68069ad073de89bf452bc87b": {
+            "format": "png",
+            "id": "ae25670b68069ad073de89bf452bc87b",
+            "name": "Metal%20Water%20Bottle_%20GREY.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Metal%20Water%20Bottle_%20GREY.png",
+            "size": {
+                "width": 2220,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "96334cbaa00632849898c09f7d577d19": {
+            "format": "jpg",
+            "id": "96334cbaa00632849898c09f7d577d19",
+            "name": "Milton%20Aqua%201000%20Stainless%20Steel%20Water....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Milton%20Aqua%201000%20Stainless%20Steel%20Water....jpg",
+            "size": {
+                "width": 970,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "079ecef4eaf8584eaae36477a6a3926a": {
+            "format": "jpg",
+            "id": "079ecef4eaf8584eaae36477a6a3926a",
+            "name": "Milton%20Duo%20DLX%201000%20Thermosteel%2024....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Milton%20Duo%20DLX%201000%20Thermosteel%2024....jpg",
+            "size": {
+                "width": 2000,
+                "height": 1913
+            },
+            "state": 2,
+            "type": 1
+        },
+        "176a49c8781ae86de114314ceb283104": {
+            "format": "jpeg",
+            "id": "176a49c8781ae86de114314ceb283104",
+            "name": "Milton%20Water%20Bottles%20Online%20at....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Milton%20Water%20Bottles%20Online%20at....jpeg",
+            "size": {
+                "width": 612,
+                "height": 467
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9fcb21048d87f84a5edc1edd8064e52": {
+            "format": "jpg",
+            "id": "f9fcb21048d87f84a5edc1edd8064e52",
+            "name": "Monkey%20Bottles%20%E2%80%93%20monkeycups.ie.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Monkey%20Bottles%20%E2%80%93%20monkeycups.ie.jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb293fab343249904613bf1d135e51eb": {
+            "format": "jpg",
+            "id": "fb293fab343249904613bf1d135e51eb",
+            "name": "Moomin%20_Apples_%20Glass%20Bottle%201%20l....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Moomin%20_Apples_%20Glass%20Bottle%201%20l....jpg",
+            "size": {
+                "width": 953,
+                "height": 953
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b893426d0189eb9bae1882e77728bbba": {
+            "format": "jpg",
+            "id": "b893426d0189eb9bae1882e77728bbba",
+            "name": "Multi-Colour%20Roundel%20Water%20Bottle.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Multi-Colour%20Roundel%20Water%20Bottle.jpg",
+            "size": {
+                "width": 700,
+                "height": 700
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38b879329deae460d9be54d0c91c4287": {
+            "format": "jpeg",
+            "id": "38b879329deae460d9be54d0c91c4287",
+            "name": "network%20Bottles%20for%20Fridge%20School%20Use....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/network%20Bottles%20for%20Fridge%20School%20Use....jpeg",
+            "size": {
+                "width": 416,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d74d48a4836a4a0439b4d631e6e71313": {
+            "format": "jpg",
+            "id": "d74d48a4836a4a0439b4d631e6e71313",
+            "name": "Nike%20Big%20Mouth%20Water%20Bottle%202.0%2022oz%20....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Nike%20Big%20Mouth%20Water%20Bottle%202.0%2022oz%20....jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "629da9cb2c50158b124c003eb1dfa9df": {
+            "format": "png",
+            "id": "629da9cb2c50158b124c003eb1dfa9df",
+            "name": "Ocean%20Bottle_%20The%20world_s%20most%20needed....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Ocean%20Bottle_%20The%20world_s%20most%20needed....png",
+            "size": {
+                "width": 750,
+                "height": 1019
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48905d01801065c4c9769f75551922d9": {
+            "format": "jpeg",
+            "id": "48905d01801065c4c9769f75551922d9",
+            "name": "Odel%20600Ml%20Plastic%20Bottle%20_%20Odel.lk.jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Odel%20600Ml%20Plastic%20Bottle%20_%20Odel.lk.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ac294d5cda262c484af399c183be484": {
+            "format": "jpg",
+            "id": "6ac294d5cda262c484af399c183be484",
+            "name": "Personalized%20Water%20Bottle%20-%20For%20Gym....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Personalized%20Water%20Bottle%20-%20For%20Gym....jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e10c909d88ea30589b007f51c6ceeac4": {
+            "format": "jpg",
+            "id": "e10c909d88ea30589b007f51c6ceeac4",
+            "name": "PET%20bottles.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/PET%20bottles.jpg",
+            "size": {
+                "width": 431,
+                "height": 444
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6842910485804d0d66c0da524b9566e8": {
+            "format": "jpg",
+            "id": "6842910485804d0d66c0da524b9566e8",
+            "name": "Plain%20Water%20bottle%20_%20Water%20bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plain%20Water%20bottle%20_%20Water%20bottles....jpg",
+            "size": {
+                "width": 500,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "645ede2214b74ef19a531f26b682b8b9": {
+            "format": "jpg",
+            "id": "645ede2214b74ef19a531f26b682b8b9",
+            "name": "Plastic%20Bottle%20Pictures%20%5BHQ%5D%20_%20Download....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Bottle%20Pictures%20%5BHQ%5D%20_%20Download....jpg",
+            "size": {
+                "width": 339,
+                "height": 508
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e569c1f33015ef4f03973005f68ee4bc": {
+            "format": "jpg",
+            "id": "e569c1f33015ef4f03973005f68ee4bc",
+            "name": "Plastic%20Bottles%20in%20Mumbai_%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Bottles%20in%20Mumbai_%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95....jpg",
+            "size": {
+                "width": 250,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "514729f7b41f60141d6cfb080cf2a2d7": {
+            "format": "jpg",
+            "id": "514729f7b41f60141d6cfb080cf2a2d7",
+            "name": "plastic%20binge....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/plastic%20binge....jpg",
+            "size": {
+                "width": 500,
+                "height": 300
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bf19b2002f37c70ed12100f349234cfd": {
+            "format": "jpg",
+            "id": "bf19b2002f37c70ed12100f349234cfd",
+            "name": "Plastic%20Drink%20Water%20Bottle%20Stock%20Photo....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Drink%20Water%20Bottle%20Stock%20Photo....jpg",
+            "size": {
+                "width": 576,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c9f43b2da4e57f86de4fe751259d993": {
+            "format": "jpg",
+            "id": "7c9f43b2da4e57f86de4fe751259d993",
+            "name": "Plastic%20Empty%20Water%20Bottle_%20Capacity....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Empty%20Water%20Bottle_%20Capacity....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef86350838d297f41ae5241f98453094": {
+            "format": "jpg",
+            "id": "ef86350838d297f41ae5241f98453094",
+            "name": "Plastic%20water%20bottle%203D%20model....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20water%20bottle%203D%20model....jpg",
+            "size": {
+                "width": 600,
+                "height": 324
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b4cca2e4e27dbe826b46e89e4a86825": {
+            "format": "jpg",
+            "id": "8b4cca2e4e27dbe826b46e89e4a86825",
+            "name": "Plastic%20Water%20Bottle%20Safety%20Tips....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plastic%20Water%20Bottle%20Safety%20Tips....jpg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "186f1835a6655d555105821d137565f6": {
+            "format": "jpg",
+            "id": "186f1835a6655d555105821d137565f6",
+            "name": "PUMA%20Sportstyle%20Unisex%20Training%20600ml....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/PUMA%20Sportstyle%20Unisex%20Training%20600ml....jpg",
+            "size": {
+                "width": 2000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2f58c386083647070cbe5e307324710": {
+            "format": "jpg",
+            "id": "d2f58c386083647070cbe5e307324710",
+            "name": "Pump%20Still%20Water%20Bottle%20750mL%20_%20Woolworths.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Pump%20Still%20Water%20Bottle%20750mL%20_%20Woolworths.jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "651f02e08a338f2637741871e70ea22f": {
+            "format": "png",
+            "id": "651f02e08a338f2637741871e70ea22f",
+            "name": "Pura%20Stainless%20_%20Stainless%20Steel%20Baby....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Pura%20Stainless%20_%20Stainless%20Steel%20Baby....png",
+            "size": {
+                "width": 300,
+                "height": 537
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6838bc946429b049a7bb6eee742bd094": {
+            "format": "jpg",
+            "id": "6838bc946429b049a7bb6eee742bd094",
+            "name": "Reagent%20Bottle%20with%20Screw%20Cap_%20Clear....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reagent%20Bottle%20with%20Screw%20Cap_%20Clear....jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59107a90d8f11cadb5c0c98fe64f2c18": {
+            "format": "jpg",
+            "id": "59107a90d8f11cadb5c0c98fe64f2c18",
+            "name": "Realistic%20Coca%20cola%20can%203D%20model%20_%20CGTrader.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Realistic%20Coca%20cola%20can%203D%20model%20_%20CGTrader.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91a8ecfd87166b802ffecef2a9bdfbd1": {
+            "format": "jpg",
+            "id": "91a8ecfd87166b802ffecef2a9bdfbd1",
+            "name": "Reuse%20My%20Bottled%20Water%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reuse%20My%20Bottled%20Water%20Bottle....jpg",
+            "size": {
+                "width": 2000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "790b052905fd60afe17d6998dab548c7": {
+            "format": "jpg",
+            "id": "790b052905fd60afe17d6998dab548c7",
+            "name": "Reuse%20Old%20Plastic%20Bottles.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reuse%20Old%20Plastic%20Bottles.jpg",
+            "size": {
+                "width": 605,
+                "height": 605
+            },
+            "state": 1,
+            "type": 1
+        },
+        "93ccbf68c93fe3bac32ca12091d722d2": {
+            "format": "png",
+            "id": "93ccbf68c93fe3bac32ca12091d722d2",
+            "name": "Reuse%20Old%20Plastic%20Bottles.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Reuse%20Old%20Plastic%20Bottles.png",
+            "size": {
+                "width": 635,
+                "height": 476
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87296598eb414a155ceb19c8029a642a": {
+            "format": "jpg",
+            "id": "87296598eb414a155ceb19c8029a642a",
+            "name": "Smart%20Water%20Bottles%20That%20Are%20Worth%20the....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Smart%20Water%20Bottles%20That%20Are%20Worth%20the....jpg",
+            "size": {
+                "width": 700,
+                "height": 466
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b9ce2e0cd095749c021f3d2cbf26b7b": {
+            "format": "jpg",
+            "id": "4b9ce2e0cd095749c021f3d2cbf26b7b",
+            "name": "Solimo%20Plastic%20Fridge%20Bottle%20Set....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Solimo%20Plastic%20Fridge%20Bottle%20Set....jpg",
+            "size": {
+                "width": 2134,
+                "height": 2233
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b04751d3b011166371f85da25cbf50b5": {
+            "format": "jpg",
+            "id": "b04751d3b011166371f85da25cbf50b5",
+            "name": "SOMA%20Glass%20Bottle%20_%20SOMA%20Water%20Singapore.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/SOMA%20Glass%20Bottle%20_%20SOMA%20Water%20Singapore.jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72e2a92abe3b094d207cba05312db8fd": {
+            "format": "jpg",
+            "id": "72e2a92abe3b094d207cba05312db8fd",
+            "name": "Sparkling%20Wine%20Bottle%20Clear%20750ml%20-%20The....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Sparkling%20Wine%20Bottle%20Clear%20750ml%20-%20The....jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0370b4682a63b273e22656988e93763": {
+            "format": "png",
+            "id": "e0370b4682a63b273e22656988e93763",
+            "name": "spoon%20in%20an%20open%20bottle%20of%20champagne....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/spoon%20in%20an%20open%20bottle%20of%20champagne....png",
+            "size": {
+                "width": 640,
+                "height": 472
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4d73c753690a286001f9af92a77c06c8": {
+            "format": "jpg",
+            "id": "4d73c753690a286001f9af92a77c06c8",
+            "name": "Sprite%202L%20Bottle%20_%20Walmart%20Canada.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Sprite%202L%20Bottle%20_%20Walmart%20Canada.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e817537443a36fccb7de14c8fc95cc7f": {
+            "format": "jpg",
+            "id": "e817537443a36fccb7de14c8fc95cc7f",
+            "name": "Stainless%20Steel%20Bottle%20Peacock....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stainless%20Steel%20Bottle%20Peacock....jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "620fd8622971c838a642485a84e61997": {
+            "format": "png",
+            "id": "620fd8622971c838a642485a84e61997",
+            "name": "Stainless%20Steel%20Reusable%20Insulated%20Bottles.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stainless%20Steel%20Reusable%20Insulated%20Bottles.png",
+            "size": {
+                "width": 600,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de360aae49c45632e3237308ed4af45c": {
+            "format": "jpg",
+            "id": "de360aae49c45632e3237308ed4af45c",
+            "name": "Stainless%20Steel%20Water%20Bottles%2027%20oz....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stainless%20Steel%20Water%20Bottles%2027%20oz....jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7b7e8a8069eb07ae9f91ccb80ceedf1": {
+            "format": "jpg",
+            "id": "d7b7e8a8069eb07ae9f91ccb80ceedf1",
+            "name": "Steel%20Water%20Bottle%201200ml%20-%20Miniso.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Steel%20Water%20Bottle%201200ml%20-%20Miniso.jpg",
+            "size": {
+                "width": 1100,
+                "height": 1100
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a16e64d5183f78a5e00985c96e0f473f": {
+            "format": "png",
+            "id": "a16e64d5183f78a5e00985c96e0f473f",
+            "name": "Stone%20_%20S_well%C2%AE%20Bottle%20Official.png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Stone%20_%20S_well%C2%AE%20Bottle%20Official.png",
+            "size": {
+                "width": 330,
+                "height": 584
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7094866cb86d107af548a25314ae43da": {
+            "format": "jpg",
+            "id": "7094866cb86d107af548a25314ae43da",
+            "name": "S_well%20Stainless%20Steel%20Water%20Bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/S_well%20Stainless%20Steel%20Water%20Bottles....jpg",
+            "size": {
+                "width": 600,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb3baaaf5ff12ff3e98dc9e22986514f": {
+            "format": "png",
+            "id": "fb3baaaf5ff12ff3e98dc9e22986514f",
+            "name": "S_well%20Stainless%20Steel%20Water%20Bottles....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/S_well%20Stainless%20Steel%20Water%20Bottles....png",
+            "size": {
+                "width": 375,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3285c18db3d89ff43c0945395bdcf6c": {
+            "format": "jpg",
+            "id": "c3285c18db3d89ff43c0945395bdcf6c",
+            "name": "Technology%20Coca-Cola%20Can%20Safe%20DS-COKE....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Technology%20Coca-Cola%20Can%20Safe%20DS-COKE....jpg",
+            "size": {
+                "width": 516,
+                "height": 991
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b904420a2a17912c9f6f3b7f91aaab72": {
+            "format": "jpg",
+            "id": "b904420a2a17912c9f6f3b7f91aaab72",
+            "name": "The%208%20Best%20Reusable%20Water%20Bottles%20(2022...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Reusable%20Water%20Bottles%20(2022...%20(1).jpg",
+            "size": {
+                "width": 2399,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a8e67f9decd23c0cdc68d7cfa1ab341": {
+            "format": "jpg",
+            "id": "0a8e67f9decd23c0cdc68d7cfa1ab341",
+            "name": "The%208%20Best%20Reusable%20Water%20Bottles%20(2022....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Reusable%20Water%20Bottles%20(2022....jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "662909c6646d2d978f243ebb9ef12826": {
+            "format": "jpg",
+            "id": "662909c6646d2d978f243ebb9ef12826",
+            "name": "The%208%20Best%20Water%20Bottles%20for%202022...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Water%20Bottles%20for%202022...%20(1).jpg",
+            "size": {
+                "width": 2048,
+                "height": 1365
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b5ef1b87d7345650b7a67333858ad8d": {
+            "format": "jpg",
+            "id": "6b5ef1b87d7345650b7a67333858ad8d",
+            "name": "The%208%20Best%20Water%20Bottles%20for%202022...%20(2).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Water%20Bottles%20for%202022...%20(2).jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "325051102c389a0e389dcff0443b7740": {
+            "format": "jpg",
+            "id": "325051102c389a0e389dcff0443b7740",
+            "name": "The%208%20Best%20Water%20Bottles%20for%202022....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Water%20Bottles%20for%202022....jpg",
+            "size": {
+                "width": 1024,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c40908083c91647e204244d227843c0": {
+            "format": "jpg",
+            "id": "6c40908083c91647e204244d227843c0",
+            "name": "The%20Best%20Kids%20Water%20Bottles%20for%202022....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%20Best%20Kids%20Water%20Bottles%20for%202022....jpg",
+            "size": {
+                "width": 2048,
+                "height": 1365
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e34e684c225dc583b50436887315a9f": {
+            "format": "png",
+            "id": "1e34e684c225dc583b50436887315a9f",
+            "name": "Thermos%20Water%20Bottle%20(New%20Designs....png",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Thermos%20Water%20Bottle%20(New%20Designs....png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2af2b21e3041f4249dee6782854e8a40": {
+            "format": "jpeg",
+            "id": "2af2b21e3041f4249dee6782854e8a40",
+            "name": "Top%20COCA%20COLA%20CAN%20330ML%20(PACK%20OF%2024....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Top%20COCA%20COLA%20CAN%20330ML%20(PACK%20OF%2024....jpeg",
+            "size": {
+                "width": 800,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aaf885e45484226b129b71dd3e884ca9": {
+            "format": "jpg",
+            "id": "aaf885e45484226b129b71dd3e884ca9",
+            "name": "Trendy%20Stainless%20Steel%20Water%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Trendy%20Stainless%20Steel%20Water%20Bottle....jpg",
+            "size": {
+                "width": 900,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b9a63c23d6640d9103a9ed6bfc77980": {
+            "format": "jpg",
+            "id": "0b9a63c23d6640d9103a9ed6bfc77980",
+            "name": "TRITAN%E2%84%A2%20BOTTLE%20Wide%20Mouth%20(1%20Liter....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/TRITAN%E2%84%A2%20BOTTLE%20Wide%20Mouth%20(1%20Liter....jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2811db26aab90483b7687fa2cc9a17c": {
+            "format": "jpg",
+            "id": "a2811db26aab90483b7687fa2cc9a17c",
+            "name": "Tupperware%20Aquasafe%20Cool%20n%20Chic%20500ml....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Tupperware%20Aquasafe%20Cool%20n%20Chic%20500ml....jpg",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20af8a0c15375da8b23cc2618bc41e65": {
+            "format": "jpg",
+            "id": "20af8a0c15375da8b23cc2618bc41e65",
+            "name": "Tupperware%20Aquasafe%20Steel%20Water%20Bottle....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Tupperware%20Aquasafe%20Steel%20Water%20Bottle....jpg",
+            "size": {
+                "width": 850,
+                "height": 850
+            },
+            "state": 2,
+            "type": 1
+        },
+        "394ba0d69cadf16bf47bac0c9d4d5b4d": {
+            "format": "jpg",
+            "id": "394ba0d69cadf16bf47bac0c9d4d5b4d",
+            "name": "Two-liter%20bottle%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Two-liter%20bottle%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 640,
+                "height": 907
+            },
+            "state": 2,
+            "type": 1
+        },
+        "410cad27eb7214a4e586f9d4254cd4e7": {
+            "format": "jpeg",
+            "id": "410cad27eb7214a4e586f9d4254cd4e7",
+            "name": "Wash%20Your%20Water%20Bottle....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Wash%20Your%20Water%20Bottle....jpeg",
+            "size": {
+                "width": 477,
+                "height": 357
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47df77fd943bb938d75af593b68108e0": {
+            "format": "jpg",
+            "id": "47df77fd943bb938d75af593b68108e0",
+            "name": "Water%20Bottle%20-%20Frankztreat.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottle%20-%20Frankztreat.jpg",
+            "size": {
+                "width": 1024,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d6edfe70c0cb7b770f1472abad954e2": {
+            "format": "jpg",
+            "id": "6d6edfe70c0cb7b770f1472abad954e2",
+            "name": "Water%20Bottle%2028%20cl_%20Mat%20Navy%20-%20GLACIAL....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottle%2028%20cl_%20Mat%20Navy%20-%20GLACIAL....jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7cf4c49ab7b27e697d9efe95f8aeaed": {
+            "format": "jpg",
+            "id": "c7cf4c49ab7b27e697d9efe95f8aeaed",
+            "name": "Water%20Bottle%20500%20ML%20-%20Tunturi%20Fitness.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottle%20500%20ML%20-%20Tunturi%20Fitness.jpg",
+            "size": {
+                "width": 1900,
+                "height": 1900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d2c173a59218e0841d795fca45f3f0b": {
+            "format": "jpg",
+            "id": "8d2c173a59218e0841d795fca45f3f0b",
+            "name": "Water%20bottle%20Images_%20Stock%20Photos....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20bottle%20Images_%20Stock%20Photos....jpg",
+            "size": {
+                "width": 184,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f038e67949ce9f07e4e402586ec98e81": {
+            "format": "jpg",
+            "id": "f038e67949ce9f07e4e402586ec98e81",
+            "name": "Water%20Bottles%20for%20Runners.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles%20for%20Runners.jpg",
+            "size": {
+                "width": 4167,
+                "height": 2083
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc394f57fd70be5e2304e0c96407a2ee": {
+            "format": "jpg",
+            "id": "dc394f57fd70be5e2304e0c96407a2ee",
+            "name": "Water%20Bottles%20for%20Staying%20Hydrated....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles%20for%20Staying%20Hydrated....jpg",
+            "size": {
+                "width": 1125,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b2d7882d2c2cd2d981919dcd1975be9": {
+            "format": "jpg",
+            "id": "2b2d7882d2c2cd2d981919dcd1975be9",
+            "name": "Water%20Bottles%20That%20Track%20Intake...%20(1).jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles%20That%20Track%20Intake...%20(1).jpg",
+            "size": {
+                "width": 860,
+                "height": 916
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e04a181341a3bb7f48ac72f0a7bb706": {
+            "format": "jpg",
+            "id": "1e04a181341a3bb7f48ac72f0a7bb706",
+            "name": "Water%20Bottles%20That%20Track%20Intake....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles%20That%20Track%20Intake....jpg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bb702d0460b38c3c59a2933e0fdb97c": {
+            "format": "jpg",
+            "id": "1bb702d0460b38c3c59a2933e0fdb97c",
+            "name": "Water%20bottles....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20bottles....jpg",
+            "size": {
+                "width": 750,
+                "height": 440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82712486e8aa4f9864c828259c5c070a": {
+            "format": "jpeg",
+            "id": "82712486e8aa4f9864c828259c5c070a",
+            "name": "Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpeg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpeg",
+            "size": {
+                "width": 220,
+                "height": 258
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26dfedd43184cd4980341268493862bc": {
+            "format": "jpg",
+            "id": "26dfedd43184cd4980341268493862bc",
+            "name": "Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles_%20Buy%20Water%20Bottles%20(%E0%A4%AA%E0%A4%A8%E0%A4%BF....jpg",
+            "size": {
+                "width": 220,
+                "height": 258
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d9e8d21dc6168dccac5a71605865f9c": {
+            "format": "jpg",
+            "id": "5d9e8d21dc6168dccac5a71605865f9c",
+            "name": "Water%20Plastic%20Bottle%20Isolated%20Stock....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Plastic%20Bottle%20Isolated%20Stock....jpg",
+            "size": {
+                "width": 1024,
+                "height": 516
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f0ef71bf9190c9169765556dc093108": {
+            "format": "jpg",
+            "id": "4f0ef71bf9190c9169765556dc093108",
+            "name": "Wine%20bottle%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Wine%20bottle%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8dcab3bb508f25bbd21dfafaf7e2edcf": {
+            "format": "jpg",
+            "id": "8dcab3bb508f25bbd21dfafaf7e2edcf",
+            "name": "Wines%20with%20Standout%20Bottle%20Designs....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Wines%20with%20Standout%20Bottle%20Designs....jpg",
+            "size": {
+                "width": 3744,
+                "height": 5000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35bf8c746920db4066fcd538d7b53673": {
+            "format": "jpg",
+            "id": "35bf8c746920db4066fcd538d7b53673",
+            "name": "Woman%20finds%2095-year-old%20message%20in%20a....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Woman%20finds%2095-year-old%20message%20in%20a....jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ce16d2fce46aa20b7caa718221d9886": {
+            "format": "jpg",
+            "id": "0ce16d2fce46aa20b7caa718221d9886",
+            "name": "%E2%84%A2%E2%9C%93%20Coca%20Cola%20(Coke)%20Soft%20Drink%20Can....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/%E2%84%A2%E2%9C%93%20Coca%20Cola%20(Coke)%20Soft%20Drink%20Can....jpg",
+            "size": {
+                "width": 666,
+                "height": 666
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d92822b8d721199d52ae5ee0b13ff69c": {
+            "format": "jpg",
+            "id": "d92822b8d721199d52ae5ee0b13ff69c",
+            "name": "%E2%9C%93%20Tin%20Coca-Cola%20Can%20On%20Brown%20Wooden....jpg",
+            "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/%E2%9C%93%20Tin%20Coca-Cola%20Can%20On%20Brown%20Wooden....jpg",
+            "size": {
+                "width": 5804,
+                "height": 3869
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

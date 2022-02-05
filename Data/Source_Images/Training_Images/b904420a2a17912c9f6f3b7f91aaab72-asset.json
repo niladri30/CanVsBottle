@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b904420a2a17912c9f6f3b7f91aaab72",
+        "name": "The%208%20Best%20Reusable%20Water%20Bottles%20(2022...%20(1).jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Reusable%20Water%20Bottles%20(2022...%20(1).jpg",
+        "size": {
+            "width": 2399,
+            "height": 1349
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GnCcM89dQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1122.5721040189126,
+                "width": 484.26029216467464,
+                "left": 987.6361221779548,
+                "top": 85.2094414893617
+            },
+            "points": [
+                {
+                    "x": 987.6361221779548,
+                    "y": 85.2094414893617
+                },
+                {
+                    "x": 1471.8964143426294,
+                    "y": 85.2094414893617
+                },
+                {
+                    "x": 1471.8964143426294,
+                    "y": 1207.7815455082741
+                },
+                {
+                    "x": 987.6361221779548,
+                    "y": 1207.7815455082741
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

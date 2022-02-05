@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "84784a6e7d7e02dcd31bba42694fa529",
+        "name": "600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/600_%20Best%20Coca%20Cola%20Photos%20%C2%B7%20100_%20Free....jpeg",
+        "size": {
+            "width": 500,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wZwuQqFc5",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 482.5581395348837,
+                "width": 191.86046511627904,
+                "left": 151.88953488372093,
+                "top": 123.54651162790697
+            },
+            "points": [
+                {
+                    "x": 151.88953488372093,
+                    "y": 123.54651162790697
+                },
+                {
+                    "x": 343.75,
+                    "y": 123.54651162790697
+                },
+                {
+                    "x": 343.75,
+                    "y": 606.1046511627907
+                },
+                {
+                    "x": 151.88953488372093,
+                    "y": 606.1046511627907
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

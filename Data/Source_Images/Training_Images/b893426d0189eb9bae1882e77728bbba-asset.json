@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b893426d0189eb9bae1882e77728bbba",
+        "name": "Multi-Colour%20Roundel%20Water%20Bottle.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Multi-Colour%20Roundel%20Water%20Bottle.jpg",
+        "size": {
+            "width": 700,
+            "height": 700
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wySqRtX8t",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 647.8723404255319,
+                "width": 194.85815602836877,
+                "left": 258.77659574468083,
+                "top": 27.30496453900709
+            },
+            "points": [
+                {
+                    "x": 258.77659574468083,
+                    "y": 27.30496453900709
+                },
+                {
+                    "x": 453.63475177304963,
+                    "y": 27.30496453900709
+                },
+                {
+                    "x": 453.63475177304963,
+                    "y": 675.177304964539
+                },
+                {
+                    "x": 258.77659574468083,
+                    "y": 675.177304964539
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

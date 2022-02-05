@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bba6384a7bcb62c931e1b0a12cbcad84",
+        "name": "Coca-Cola%20cola180%20ml%20Can%20_%20Amazon.in%20....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20cola180%20ml%20Can%20_%20Amazon.in%20....jpg",
+        "size": {
+            "width": 1100,
+            "height": 1100
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wVkPYNy6a",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 1006.3829787234042,
+                "width": 510.9929078014184,
+                "left": 291.57801418439715,
+                "top": 52.659574468085104
+            },
+            "points": [
+                {
+                    "x": 291.57801418439715,
+                    "y": 52.659574468085104
+                },
+                {
+                    "x": 802.5709219858156,
+                    "y": 52.659574468085104
+                },
+                {
+                    "x": 802.5709219858156,
+                    "y": 1059.0425531914893
+                },
+                {
+                    "x": 291.57801418439715,
+                    "y": 1059.0425531914893
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

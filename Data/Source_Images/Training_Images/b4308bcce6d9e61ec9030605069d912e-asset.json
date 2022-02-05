@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b4308bcce6d9e61ec9030605069d912e",
+        "name": "13%20best%20reusable%20water%20bottles%20to...%20(1).jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/13%20best%20reusable%20water%20bottles%20to...%20(1).jpg",
+        "size": {
+            "width": 720,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ho7SFZrvI",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 708.8372093023256,
+                "width": 212.09302325581396,
+                "left": 251.86046511627907,
+                "top": 4.186046511627907
+            },
+            "points": [
+                {
+                    "x": 251.86046511627907,
+                    "y": 4.186046511627907
+                },
+                {
+                    "x": 463.95348837209303,
+                    "y": 4.186046511627907
+                },
+                {
+                    "x": 463.95348837209303,
+                    "y": 713.0232558139535
+                },
+                {
+                    "x": 251.86046511627907,
+                    "y": 713.0232558139535
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ac8d78513953635cd0264fa434e82ee2",
+        "name": "38_517%20Wine%20Bottle%20Photos%20and%20Premium....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/38_517%20Wine%20Bottle%20Photos%20and%20Premium....jpg",
+        "size": {
+            "width": 408,
+            "height": 612
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZrWs3-rgA",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 538.4651162790698,
+                "width": 150.6279069767442,
+                "left": 129.87209302325581,
+                "top": 42.697674418604656
+            },
+            "points": [
+                {
+                    "x": 129.87209302325581,
+                    "y": 42.697674418604656
+                },
+                {
+                    "x": 280.5,
+                    "y": 42.697674418604656
+                },
+                {
+                    "x": 280.5,
+                    "y": 581.1627906976745
+                },
+                {
+                    "x": 129.87209302325581,
+                    "y": 581.1627906976745
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

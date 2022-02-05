@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ab7e2770dae2d90a0456ec87b9020725",
+        "name": "Buy%20Cello%20H2o%20Unbreakable%20Water%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Cello%20H2o%20Unbreakable%20Water%20Bottle....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vJcDZZd8G",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 484.49612403100775,
+                "width": 144.3798449612403,
+                "left": 182.65503875968992,
+                "top": 8.720930232558139
+            },
+            "points": [
+                {
+                    "x": 182.65503875968992,
+                    "y": 8.720930232558139
+                },
+                {
+                    "x": 327.0348837209302,
+                    "y": 8.720930232558139
+                },
+                {
+                    "x": 327.0348837209302,
+                    "y": 493.21705426356584
+                },
+                {
+                    "x": 182.65503875968992,
+                    "y": 493.21705426356584
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

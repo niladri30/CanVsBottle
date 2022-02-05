@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "662909c6646d2d978f243ebb9ef12826",
+        "name": "The%208%20Best%20Water%20Bottles%20for%202022...%20(1).jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/The%208%20Best%20Water%20Bottles%20for%202022...%20(1).jpg",
+        "size": {
+            "width": 2048,
+            "height": 1365
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8pKazBpPh",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1190.9760956175298,
+                "width": 440.605577689243,
+                "left": 791.4581673306773,
+                "top": 105.9183578187251
+            },
+            "points": [
+                {
+                    "x": 791.4581673306773,
+                    "y": 105.9183578187251
+                },
+                {
+                    "x": 1232.0637450199201,
+                    "y": 105.9183578187251
+                },
+                {
+                    "x": 1232.0637450199201,
+                    "y": 1296.894453436255
+                },
+                {
+                    "x": 791.4581673306773,
+                    "y": 1296.894453436255
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

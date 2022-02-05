@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b0046ea5148f7f769bc0f5d7fb0e570c",
+        "name": "Best%20glass%20water%20bottles%20to%20stay....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20glass%20water%20bottles%20to%20stay....jpg",
+        "size": {
+            "width": 615,
+            "height": 345
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cy120ZDkF",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 117.96774193548386,
+                "width": 444.8462929475587,
+                "left": 86.74502712477396,
+                "top": 79.15524193548386
+            },
+            "points": [
+                {
+                    "x": 86.74502712477396,
+                    "y": 79.15524193548386
+                },
+                {
+                    "x": 531.5913200723327,
+                    "y": 79.15524193548386
+                },
+                {
+                    "x": 531.5913200723327,
+                    "y": 197.12298387096772
+                },
+                {
+                    "x": 86.74502712477396,
+                    "y": 197.12298387096772
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b21db555b13254680053a81f7f4cca11",
+        "name": "Coca-Cola%20Contour%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Contour%20Bottle....jpg",
+        "size": {
+            "width": 550,
+            "height": 1141
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Do61-XxOB",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1025.686170212766,
+                "width": 355.88235294117646,
+                "left": 106.03170955882352,
+                "top": 76.8758865248227
+            },
+            "points": [
+                {
+                    "x": 106.03170955882352,
+                    "y": 76.8758865248227
+                },
+                {
+                    "x": 461.9140625,
+                    "y": 76.8758865248227
+                },
+                {
+                    "x": 461.9140625,
+                    "y": 1102.5620567375888
+                },
+                {
+                    "x": 106.03170955882352,
+                    "y": 1102.5620567375888
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

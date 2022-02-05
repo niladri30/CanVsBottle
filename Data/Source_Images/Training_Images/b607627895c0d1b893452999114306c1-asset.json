@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b607627895c0d1b893452999114306c1",
+        "name": "10_%20Best%20Water%20Bottles%20On%20Sale%20Right%20Now.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/10_%20Best%20Water%20Bottles%20On%20Sale%20Right%20Now.jpg",
+        "size": {
+            "width": 640,
+            "height": 637
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wgmtHkIEW",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 634.531007751938,
+                "width": 184.09266409266408,
+                "left": 245.52123552123552,
+                "top": 1.2344961240310077
+            },
+            "points": [
+                {
+                    "x": 245.52123552123552,
+                    "y": 1.2344961240310077
+                },
+                {
+                    "x": 429.6138996138996,
+                    "y": 1.2344961240310077
+                },
+                {
+                    "x": 429.6138996138996,
+                    "y": 635.765503875969
+                },
+                {
+                    "x": 245.52123552123552,
+                    "y": 635.765503875969
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

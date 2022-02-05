@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "204253e1310856299d69b5b143c561b8",
+        "name": "Baby%20Feeding%20Bottle(%E0%A4%AC%E0%A5%87%E0%A4%AC%E0%A5%80%20%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Baby%20Feeding%20Bottle(%E0%A4%AC%E0%A5%87%E0%A4%AC%E0%A5%80%20%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97....jpeg",
+        "size": {
+            "width": 486,
+            "height": 612
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5cSHT5MOG",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 552.6976744186047,
+                "width": 183.73170731707316,
+                "left": 0.46303353658536583,
+                "top": 41.51162790697675
+            },
+            "points": [
+                {
+                    "x": 0.46303353658536583,
+                    "y": 41.51162790697675
+                },
+                {
+                    "x": 184.19474085365852,
+                    "y": 41.51162790697675
+                },
+                {
+                    "x": 184.19474085365852,
+                    "y": 594.2093023255815
+                },
+                {
+                    "x": 0.46303353658536583,
+                    "y": 594.2093023255815
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a338d48cb85e060b176f54ca557c7289",
+        "name": "Coca-Cola%20can%20250%20ml-tablets%20-%20Tawsyl.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20250%20ml-tablets%20-%20Tawsyl.jpg",
+        "size": {
+            "width": 800,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JwOFysmmL",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 460.4651162790698,
+                "width": 190.69767441860466,
+                "left": 303.1007751937985,
+                "top": 168.9922480620155
+            },
+            "points": [
+                {
+                    "x": 303.1007751937985,
+                    "y": 168.9922480620155
+                },
+                {
+                    "x": 493.79844961240315,
+                    "y": 168.9922480620155
+                },
+                {
+                    "x": 493.79844961240315,
+                    "y": 629.4573643410853
+                },
+                {
+                    "x": 303.1007751937985,
+                    "y": 629.4573643410853
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

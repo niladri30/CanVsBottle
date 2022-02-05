@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "aaf885e45484226b129b71dd3e884ca9",
+        "name": "Trendy%20Stainless%20Steel%20Water%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Trendy%20Stainless%20Steel%20Water%20Bottle....jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Yo44jkw5E",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 842.5531914893617,
+                "width": 279.25531914893617,
+                "left": 305.5851063829787,
+                "top": 28.72340425531915
+            },
+            "points": [
+                {
+                    "x": 305.5851063829787,
+                    "y": 28.72340425531915
+                },
+                {
+                    "x": 584.8404255319149,
+                    "y": 28.72340425531915
+                },
+                {
+                    "x": 584.8404255319149,
+                    "y": 871.2765957446809
+                },
+                {
+                    "x": 305.5851063829787,
+                    "y": 871.2765957446809
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

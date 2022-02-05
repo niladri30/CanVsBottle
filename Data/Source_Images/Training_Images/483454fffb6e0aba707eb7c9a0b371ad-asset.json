@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "483454fffb6e0aba707eb7c9a0b371ad",
+        "name": "21%20Best%20Water%20Bottles%202020%20_%20Vogue.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/21%20Best%20Water%20Bottles%202020%20_%20Vogue.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "URLpI6Bcy",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 279.68992248062017,
+                "width": 86.2015503875969,
+                "left": 116.89922480620154,
+                "top": 12.4031007751938
+            },
+            "points": [
+                {
+                    "x": 116.89922480620154,
+                    "y": 12.4031007751938
+                },
+                {
+                    "x": 203.10077519379846,
+                    "y": 12.4031007751938
+                },
+                {
+                    "x": 203.10077519379846,
+                    "y": 292.09302325581393
+                },
+                {
+                    "x": 116.89922480620154,
+                    "y": 292.09302325581393
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

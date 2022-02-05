@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6842910485804d0d66c0da524b9566e8",
+        "name": "Plain%20Water%20bottle%20_%20Water%20bottles....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Plain%20Water%20bottle%20_%20Water%20bottles....jpg",
+        "size": {
+            "width": 500,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tRRAM3df5",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 459.5744680851064,
+                "width": 149.65986394557822,
+                "left": 176.65816326530611,
+                "top": 78.29787234042554
+            },
+            "points": [
+                {
+                    "x": 176.65816326530611,
+                    "y": 78.29787234042554
+                },
+                {
+                    "x": 326.31802721088434,
+                    "y": 78.29787234042554
+                },
+                {
+                    "x": 326.31802721088434,
+                    "y": 537.872340425532
+                },
+                {
+                    "x": 176.65816326530611,
+                    "y": 537.872340425532
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

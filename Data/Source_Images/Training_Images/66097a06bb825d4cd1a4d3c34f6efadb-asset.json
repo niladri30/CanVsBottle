@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "66097a06bb825d4cd1a4d3c34f6efadb",
+        "name": "Essential%20Cycling%20Water%20Bottle%20550%20ml....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Essential%20Cycling%20Water%20Bottle%20550%20ml....jpg",
+        "size": {
+            "width": 800,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CaOBXRWYr",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 432.6241134751773,
+                "width": 200.00000000000006,
+                "left": 304.25531914893617,
+                "top": 263.82978723404256
+            },
+            "points": [
+                {
+                    "x": 304.25531914893617,
+                    "y": 263.82978723404256
+                },
+                {
+                    "x": 504.25531914893617,
+                    "y": 263.82978723404256
+                },
+                {
+                    "x": 504.25531914893617,
+                    "y": 696.4539007092199
+                },
+                {
+                    "x": 304.25531914893617,
+                    "y": 696.4539007092199
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

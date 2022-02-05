@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b04751d3b011166371f85da25cbf50b5",
+        "name": "SOMA%20Glass%20Bottle%20_%20SOMA%20Water%20Singapore.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/SOMA%20Glass%20Bottle%20_%20SOMA%20Water%20Singapore.jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kSyvlhJnB",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 868.0851063829787,
+                "width": 261.70212765957444,
+                "left": 477.6595744680851,
+                "top": 168.08510638297872
+            },
+            "points": [
+                {
+                    "x": 477.6595744680851,
+                    "y": 168.08510638297872
+                },
+                {
+                    "x": 739.3617021276596,
+                    "y": 168.08510638297872
+                },
+                {
+                    "x": 739.3617021276596,
+                    "y": 1036.1702127659573
+                },
+                {
+                    "x": 477.6595744680851,
+                    "y": 1036.1702127659573
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

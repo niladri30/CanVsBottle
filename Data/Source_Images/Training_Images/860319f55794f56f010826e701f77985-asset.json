@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "860319f55794f56f010826e701f77985",
+        "name": "Coke%20Cans%20png%20images%20_%20PNGEgg.png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coke%20Cans%20png%20images%20_%20PNGEgg.png",
+        "size": {
+            "width": 900,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BHMe5KmwX",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 467.33067729083666,
+                "width": 259.36254980079684,
+                "left": 320.3187250996016,
+                "top": 62.15139442231076
+            },
+            "points": [
+                {
+                    "x": 320.3187250996016,
+                    "y": 62.15139442231076
+                },
+                {
+                    "x": 579.6812749003984,
+                    "y": 62.15139442231076
+                },
+                {
+                    "x": 579.6812749003984,
+                    "y": 529.4820717131474
+                },
+                {
+                    "x": 320.3187250996016,
+                    "y": 529.4820717131474
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

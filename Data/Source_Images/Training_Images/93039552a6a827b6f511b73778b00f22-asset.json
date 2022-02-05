@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "93039552a6a827b6f511b73778b00f22",
+        "name": "15%20best%20water%20bottles%20for%202021%20reviewed....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20best%20water%20bottles%20for%202021%20reviewed....jpg",
+        "size": {
+            "width": 700,
+            "height": 466
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8oCiDaArN",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 462.1021569293478,
+                "width": 179.74683544303798,
+                "left": 278.4810126582279,
+                "top": 3.897843070652174
+            },
+            "points": [
+                {
+                    "x": 278.4810126582279,
+                    "y": 3.897843070652174
+                },
+                {
+                    "x": 458.22784810126586,
+                    "y": 3.897843070652174
+                },
+                {
+                    "x": 458.22784810126586,
+                    "y": 466
+                },
+                {
+                    "x": 278.4810126582279,
+                    "y": 466
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

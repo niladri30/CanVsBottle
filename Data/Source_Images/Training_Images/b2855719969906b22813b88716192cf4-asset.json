@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b2855719969906b22813b88716192cf4",
+        "name": "Kuber%20Industries%20Cola%20Stainless%20Steel....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Kuber%20Industries%20Cola%20Stainless%20Steel....jpg",
+        "size": {
+            "width": 1100,
+            "height": 1519
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ks8tq60SR",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1311.6187943262412,
+                "width": 425.98039215686276,
+                "left": 258.0652573529412,
+                "top": 94.26418439716312
+            },
+            "points": [
+                {
+                    "x": 258.0652573529412,
+                    "y": 94.26418439716312
+                },
+                {
+                    "x": 684.045649509804,
+                    "y": 94.26418439716312
+                },
+                {
+                    "x": 684.045649509804,
+                    "y": 1405.8829787234042
+                },
+                {
+                    "x": 258.0652573529412,
+                    "y": 1405.8829787234042
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a2db27bda382468ed4b0aad10c9361bd",
+        "name": "Coca-Cola%20can%20_%20Smithsonian_s%20National%20Zoo.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20can%20_%20Smithsonian_s%20National%20Zoo.jpg",
+        "size": {
+            "width": 757,
+            "height": 1140
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pWp0tRBjt",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 932.3255813953488,
+                "width": 505.402332361516,
+                "left": 129.83350036443147,
+                "top": 117.09302325581395
+            },
+            "points": [
+                {
+                    "x": 129.83350036443147,
+                    "y": 117.09302325581395
+                },
+                {
+                    "x": 635.2358327259475,
+                    "y": 117.09302325581395
+                },
+                {
+                    "x": 635.2358327259475,
+                    "y": 1049.4186046511627
+                },
+                {
+                    "x": 129.83350036443147,
+                    "y": 1049.4186046511627
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

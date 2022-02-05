@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "96334cbaa00632849898c09f7d577d19",
+        "name": "Milton%20Aqua%201000%20Stainless%20Steel%20Water....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Milton%20Aqua%201000%20Stainless%20Steel%20Water....jpg",
+        "size": {
+            "width": 970,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VpzY_Wy4L",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 548.4978540772532,
+                "width": 279.535192563081,
+                "left": 349.0969455511288,
+                "top": 28.18535407725322
+            },
+            "points": [
+                {
+                    "x": 349.0969455511288,
+                    "y": 28.18535407725322
+                },
+                {
+                    "x": 628.6321381142099,
+                    "y": 28.18535407725322
+                },
+                {
+                    "x": 628.6321381142099,
+                    "y": 576.6832081545065
+                },
+                {
+                    "x": 349.0969455511288,
+                    "y": 576.6832081545065
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

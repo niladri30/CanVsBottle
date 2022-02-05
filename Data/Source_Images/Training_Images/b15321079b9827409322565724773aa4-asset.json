@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b15321079b9827409322565724773aa4",
+        "name": "Coca%20cola%20can%20photography-HD000827-Picxy.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20photography-HD000827-Picxy.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1535
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MkLlpM0n6",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 1142.3255813953488,
+                "width": 597.7695167286245,
+                "left": 462.26765799256503,
+                "top": 202.28682170542635
+            },
+            "points": [
+                {
+                    "x": 462.26765799256503,
+                    "y": 202.28682170542635
+                },
+                {
+                    "x": 1060.0371747211896,
+                    "y": 202.28682170542635
+                },
+                {
+                    "x": 1060.0371747211896,
+                    "y": 1344.6124031007753
+                },
+                {
+                    "x": 462.26765799256503,
+                    "y": 1344.6124031007753
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

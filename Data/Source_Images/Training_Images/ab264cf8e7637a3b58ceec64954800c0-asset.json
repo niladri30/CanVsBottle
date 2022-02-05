@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ab264cf8e7637a3b58ceec64954800c0",
+        "name": "Glass%20200%20ml%20Milk%20Bottle_%20Rs%2012%20_unit....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Glass%20200%20ml%20Milk%20Bottle_%20Rs%2012%20_unit....jpg",
+        "size": {
+            "width": 250,
+            "height": 250
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sByMB7izg",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 210.1063829787234,
+                "width": 92.6418439716312,
+                "left": 78.23581560283688,
+                "top": 28.368794326241133
+            },
+            "points": [
+                {
+                    "x": 78.23581560283688,
+                    "y": 28.368794326241133
+                },
+                {
+                    "x": 170.87765957446808,
+                    "y": 28.368794326241133
+                },
+                {
+                    "x": 170.87765957446808,
+                    "y": 238.47517730496452
+                },
+                {
+                    "x": 78.23581560283688,
+                    "y": 238.47517730496452
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

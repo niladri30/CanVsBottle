@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b7efc91c3a587d9d9a92f49ec4a2a2ce",
+        "name": "KENKO%20COPPER%20WATER%20BOTTLE%201%20LITER(MHS....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/KENKO%20COPPER%20WATER%20BOTTLE%201%20LITER(MHS....jpg",
+        "size": {
+            "width": 500,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2Uw83ccRk",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 552.1276595744681,
+                "width": 151.06382978723403,
+                "left": 264.36170212765956,
+                "top": 29.78723404255319
+            },
+            "points": [
+                {
+                    "x": 264.36170212765956,
+                    "y": 29.78723404255319
+                },
+                {
+                    "x": 415.4255319148936,
+                    "y": 29.78723404255319
+                },
+                {
+                    "x": 415.4255319148936,
+                    "y": 581.9148936170212
+                },
+                {
+                    "x": 264.36170212765956,
+                    "y": 581.9148936170212
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

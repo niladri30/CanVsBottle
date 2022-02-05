@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ae134622e0e81d72b12721c9190a6077",
+        "name": "Coca%20cola%20can%20editorial%20photography....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20cola%20can%20editorial%20photography....jpg",
+        "size": {
+            "width": 600,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "L77kdI2dm",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 678.4883720930233,
+                "width": 301.74418604651163,
+                "left": 147.38372093023256,
+                "top": 83.72093023255815
+            },
+            "points": [
+                {
+                    "x": 147.38372093023256,
+                    "y": 83.72093023255815
+                },
+                {
+                    "x": 449.12790697674416,
+                    "y": 83.72093023255815
+                },
+                {
+                    "x": 449.12790697674416,
+                    "y": 762.2093023255813
+                },
+                {
+                    "x": 147.38372093023256,
+                    "y": 762.2093023255813
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

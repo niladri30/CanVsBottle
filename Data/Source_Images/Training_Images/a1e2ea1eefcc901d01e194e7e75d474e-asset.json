@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a1e2ea1eefcc901d01e194e7e75d474e",
+        "name": "Coca%20Cola%20Can%20%E2%80%93%20330ml%20%E2%80%93%20Capitalmart.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20Can%20%E2%80%93%20330ml%20%E2%80%93%20Capitalmart.jpg",
+        "size": {
+            "width": 374,
+            "height": 371
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wW06nuZ95",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 321.3895348837209,
+                "width": 125.86538461538461,
+                "left": 124.85396634615384,
+                "top": 11.503875968992247
+            },
+            "points": [
+                {
+                    "x": 124.85396634615384,
+                    "y": 11.503875968992247
+                },
+                {
+                    "x": 250.71935096153845,
+                    "y": 11.503875968992247
+                },
+                {
+                    "x": 250.71935096153845,
+                    "y": 332.89341085271315
+                },
+                {
+                    "x": 124.85396634615384,
+                    "y": 332.89341085271315
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

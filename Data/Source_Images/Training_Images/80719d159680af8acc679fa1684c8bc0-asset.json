@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "80719d159680af8acc679fa1684c8bc0",
+        "name": "COKE%20CAN%20300%20ML%20-%20Stationery%20items....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/COKE%20CAN%20300%20ML%20-%20Stationery%20items....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YfP0V-Axl",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 452.12765957446805,
+                "width": 203.90070921985816,
+                "left": 138.74113475177305,
+                "top": 30.141843971631204
+            },
+            "points": [
+                {
+                    "x": 138.74113475177305,
+                    "y": 30.141843971631204
+                },
+                {
+                    "x": 342.6418439716312,
+                    "y": 30.141843971631204
+                },
+                {
+                    "x": 342.6418439716312,
+                    "y": 482.26950354609926
+                },
+                {
+                    "x": 138.74113475177305,
+                    "y": 482.26950354609926
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

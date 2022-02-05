@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1988365f92118e821113258b6873ec99",
+        "name": "Coca-Cola%20Can%20by%20Genewal%20Design%20on%20Dribbble.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20by%20Genewal%20Design%20on%20Dribbble.jpg",
+        "size": {
+            "width": 400,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-Fvbna48x",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 220.48192771084337,
+                "width": 86.07594936708861,
+                "left": 155.51537070524412,
+                "top": 47.98192771084337
+            },
+            "points": [
+                {
+                    "x": 155.51537070524412,
+                    "y": 47.98192771084337
+                },
+                {
+                    "x": 241.59132007233273,
+                    "y": 47.98192771084337
+                },
+                {
+                    "x": 241.59132007233273,
+                    "y": 268.46385542168673
+                },
+                {
+                    "x": 155.51537070524412,
+                    "y": 268.46385542168673
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
