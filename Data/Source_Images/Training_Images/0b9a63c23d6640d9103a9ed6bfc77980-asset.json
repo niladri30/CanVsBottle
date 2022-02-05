@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0b9a63c23d6640d9103a9ed6bfc77980",
+        "name": "TRITAN%E2%84%A2%20BOTTLE%20Wide%20Mouth%20(1%20Liter....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/TRITAN%E2%84%A2%20BOTTLE%20Wide%20Mouth%20(1%20Liter....jpg",
+        "size": {
+            "width": 500,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CiY_bg7E0",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 453.90070921985813,
+                "width": 242.02127659574467,
+                "left": 140.51418439716312,
+                "top": 15.957446808510637
+            },
+            "points": [
+                {
+                    "x": 140.51418439716312,
+                    "y": 15.957446808510637
+                },
+                {
+                    "x": 382.53546099290776,
+                    "y": 15.957446808510637
+                },
+                {
+                    "x": 382.53546099290776,
+                    "y": 469.85815602836874
+                },
+                {
+                    "x": 140.51418439716312,
+                    "y": 469.85815602836874
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

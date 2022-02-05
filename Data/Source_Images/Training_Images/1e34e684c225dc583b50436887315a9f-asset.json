@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "1e34e684c225dc583b50436887315a9f",
+        "name": "Thermos%20Water%20Bottle%20(New%20Designs....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Thermos%20Water%20Bottle%20(New%20Designs....png",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_uU-4rYUx",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 409.5744680851064,
+                "width": 128.72340425531914,
+                "left": 236.70212765957447,
+                "top": 78.72340425531915
+            },
+            "points": [
+                {
+                    "x": 236.70212765957447,
+                    "y": 78.72340425531915
+                },
+                {
+                    "x": 365.4255319148936,
+                    "y": 78.72340425531915
+                },
+                {
+                    "x": 365.4255319148936,
+                    "y": 488.2978723404255
+                },
+                {
+                    "x": 236.70212765957447,
+                    "y": 488.2978723404255
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

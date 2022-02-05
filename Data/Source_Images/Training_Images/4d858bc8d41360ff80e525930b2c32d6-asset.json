@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4d858bc8d41360ff80e525930b2c32d6",
+        "name": "Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20BB%20Home%20Frost%20Stainless%20Steel%20Water....jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cjUfxHrhW",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 823.2558139534883,
+                "width": 258.13953488372096,
+                "left": 307.8488372093023,
+                "top": 47.093023255813954
+            },
+            "points": [
+                {
+                    "x": 307.8488372093023,
+                    "y": 47.093023255813954
+                },
+                {
+                    "x": 565.9883720930233,
+                    "y": 47.093023255813954
+                },
+                {
+                    "x": 565.9883720930233,
+                    "y": 870.3488372093024
+                },
+                {
+                    "x": 307.8488372093023,
+                    "y": 870.3488372093024
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "4bce4cdba60665bacc182690ca0d76eb",
+        "name": "Cold%20Water%20Bottle....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cold%20Water%20Bottle....jpeg",
+        "size": {
+            "width": 226,
+            "height": 416
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rnp369Rh3",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 413.78723404255317,
+                "width": 118.16993464052288,
+                "left": 52.95720996732027,
+                "top": 2.212765957446808
+            },
+            "points": [
+                {
+                    "x": 52.95720996732027,
+                    "y": 2.212765957446808
+                },
+                {
+                    "x": 171.12714460784315,
+                    "y": 2.212765957446808
+                },
+                {
+                    "x": 171.12714460784315,
+                    "y": 416
+                },
+                {
+                    "x": 52.95720996732027,
+                    "y": 416
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

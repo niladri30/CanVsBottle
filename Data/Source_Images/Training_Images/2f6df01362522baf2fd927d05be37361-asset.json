@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "2f6df01362522baf2fd927d05be37361",
+        "name": "Coca-Cola%20Can%20Price%20in%20India%20-%20Buy%20Coca....jpeg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Can%20Price%20in%20India%20-%20Buy%20Coca....jpeg",
+        "size": {
+            "width": 234,
+            "height": 416
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ACm2VYhTq",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 415.1937984496124,
+                "width": 232.3862068965517,
+                "left": 1.311206896551724,
+                "top": 0.8062015503875969
+            },
+            "points": [
+                {
+                    "x": 1.311206896551724,
+                    "y": 0.8062015503875969
+                },
+                {
+                    "x": 233.69741379310344,
+                    "y": 0.8062015503875969
+                },
+                {
+                    "x": 233.69741379310344,
+                    "y": 416
+                },
+                {
+                    "x": 1.311206896551724,
+                    "y": 416
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

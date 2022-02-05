@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1bf1093c929dd2369732ab1a24e20f49",
+        "name": "Anti-colic%20GLASS%20Baby%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Anti-colic%20GLASS%20Baby%20Bottle....jpg",
+        "size": {
+            "width": 900,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-VlJqfr_c",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 770.9302325581396,
+                "width": 348.83720930232556,
+                "left": 415.98837209302326,
+                "top": 59.30232558139535
+            },
+            "points": [
+                {
+                    "x": 415.98837209302326,
+                    "y": 59.30232558139535
+                },
+                {
+                    "x": 764.8255813953489,
+                    "y": 59.30232558139535
+                },
+                {
+                    "x": 764.8255813953489,
+                    "y": 830.2325581395348
+                },
+                {
+                    "x": 415.98837209302326,
+                    "y": 830.2325581395348
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

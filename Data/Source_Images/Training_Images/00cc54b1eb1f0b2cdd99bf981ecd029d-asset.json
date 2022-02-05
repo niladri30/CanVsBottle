@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "00cc54b1eb1f0b2cdd99bf981ecd029d",
+        "name": "35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/35%20DIY%20Wine%20Bottle%20Crafts%20-%20Empty%20Wine....jpg",
+        "size": {
+            "width": 480,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BV1jbA7JL",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 633.4883720930233,
+                "width": 175.8139534883721,
+                "left": 215.58139534883722,
+                "top": 23.72093023255814
+            },
+            "points": [
+                {
+                    "x": 215.58139534883722,
+                    "y": 23.72093023255814
+                },
+                {
+                    "x": 391.3953488372093,
+                    "y": 23.72093023255814
+                },
+                {
+                    "x": 391.3953488372093,
+                    "y": 657.2093023255815
+                },
+                {
+                    "x": 215.58139534883722,
+                    "y": 657.2093023255815
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

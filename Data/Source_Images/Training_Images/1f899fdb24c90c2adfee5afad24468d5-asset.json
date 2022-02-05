@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1f899fdb24c90c2adfee5afad24468d5",
+        "name": "Coca-Cola%20company%20trials%20first%20paper....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20company%20trials%20first%20paper....jpg",
+        "size": {
+            "width": 976,
+            "height": 549
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UCNFysC_B",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 508.86084905660374,
+                "width": 211.2722443559097,
+                "left": 388.8446215139442,
+                "top": 16.549307193396228
+            },
+            "points": [
+                {
+                    "x": 388.8446215139442,
+                    "y": 16.549307193396228
+                },
+                {
+                    "x": 600.1168658698539,
+                    "y": 16.549307193396228
+                },
+                {
+                    "x": 600.1168658698539,
+                    "y": 525.41015625
+                },
+                {
+                    "x": 388.8446215139442,
+                    "y": 525.41015625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

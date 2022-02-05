@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "00e1e1146e214406b6e9f6ab081a6bbb",
+        "name": "Coca-Cola%20_%20Coca-Cola%20Flavours%20in%20India....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20_%20Coca-Cola%20Flavours%20in%20India....png",
+        "size": {
+            "width": 300,
+            "height": 270
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OU4wLSuWP",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 233.61702127659575,
+                "width": 100.95693779904306,
+                "left": 98.9683014354067,
+                "top": 19.148936170212767
+            },
+            "points": [
+                {
+                    "x": 98.9683014354067,
+                    "y": 19.148936170212767
+                },
+                {
+                    "x": 199.92523923444975,
+                    "y": 19.148936170212767
+                },
+                {
+                    "x": 199.92523923444975,
+                    "y": 252.76595744680853
+                },
+                {
+                    "x": 98.9683014354067,
+                    "y": 252.76595744680853
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

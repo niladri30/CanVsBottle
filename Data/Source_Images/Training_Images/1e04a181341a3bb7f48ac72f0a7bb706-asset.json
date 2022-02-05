@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e04a181341a3bb7f48ac72f0a7bb706",
+        "name": "Water%20Bottles%20That%20Track%20Intake....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20Bottles%20That%20Track%20Intake....jpg",
+        "size": {
+            "width": 450,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8yC248KkW",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 398.13829787234044,
+                "width": 159.5744680851064,
+                "left": 135.23936170212767,
+                "top": 3.9893617021276597
+            },
+            "points": [
+                {
+                    "x": 135.23936170212767,
+                    "y": 3.9893617021276597
+                },
+                {
+                    "x": 294.81382978723406,
+                    "y": 3.9893617021276597
+                },
+                {
+                    "x": 294.81382978723406,
+                    "y": 402.12765957446805
+                },
+                {
+                    "x": 135.23936170212767,
+                    "y": 402.12765957446805
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e6131a6b86f0183ee22f5b9db58618b",
+        "name": "Coca%20Cola%20300%20ml%20(Can)%20-%20JioMart.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca%20Cola%20300%20ml%20(Can)%20-%20JioMart.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RQZ1DMsGy",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 575.5813953488372,
+                "width": 261.6279069767442,
+                "left": 171.51162790697674,
+                "top": 10.465116279069768
+            },
+            "points": [
+                {
+                    "x": 171.51162790697674,
+                    "y": 10.465116279069768
+                },
+                {
+                    "x": 433.13953488372096,
+                    "y": 10.465116279069768
+                },
+                {
+                    "x": 433.13953488372096,
+                    "y": 586.046511627907
+                },
+                {
+                    "x": 171.51162790697674,
+                    "y": 586.046511627907
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

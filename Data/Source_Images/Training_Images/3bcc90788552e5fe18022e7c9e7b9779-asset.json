@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3bcc90788552e5fe18022e7c9e7b9779",
+        "name": "Expensive%20Water%20Bottles%20Are%20Millennials....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Expensive%20Water%20Bottles%20Are%20Millennials....jpg",
+        "size": {
+            "width": 960,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ShcMk-1Wy",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 433.6734693877551,
+                "width": 741.99203187251,
+                "left": 112.19123505976096,
+                "top": 49.864477040816325
+            },
+            "points": [
+                {
+                    "x": 112.19123505976096,
+                    "y": 49.864477040816325
+                },
+                {
+                    "x": 854.183266932271,
+                    "y": 49.864477040816325
+                },
+                {
+                    "x": 854.183266932271,
+                    "y": 483.53794642857144
+                },
+                {
+                    "x": 112.19123505976096,
+                    "y": 483.53794642857144
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

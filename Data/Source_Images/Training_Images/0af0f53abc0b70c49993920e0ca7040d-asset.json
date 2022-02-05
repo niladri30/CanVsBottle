@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "0af0f53abc0b70c49993920e0ca7040d",
+        "name": "15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....png",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/15%20Best%20Water%20Bottles%20to%20Buy%20in%202022....png",
+        "size": {
+            "width": 365,
+            "height": 545
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JR9mlfvS5",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 519.6511627906978,
+                "width": 212.03757225433526,
+                "left": 84.70624096820809,
+                "top": 7.393410852713179
+            },
+            "points": [
+                {
+                    "x": 84.70624096820809,
+                    "y": 7.393410852713179
+                },
+                {
+                    "x": 296.74381322254334,
+                    "y": 7.393410852713179
+                },
+                {
+                    "x": 296.74381322254334,
+                    "y": 527.0445736434109
+                },
+                {
+                    "x": 84.70624096820809,
+                    "y": 527.0445736434109
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

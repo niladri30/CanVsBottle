@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4f8cdae57a8a2820f0025b214efd47f5",
+        "name": "Menu%20Bottle%20Carafe%20with%20Lid....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Menu%20Bottle%20Carafe%20with%20Lid....jpg",
+        "size": {
+            "width": 2000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TVpr0H_fL",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1776.5957446808509,
+                "width": 507.09219858156024,
+                "left": 679.0780141843971,
+                "top": 124.11347517730496
+            },
+            "points": [
+                {
+                    "x": 679.0780141843971,
+                    "y": 124.11347517730496
+                },
+                {
+                    "x": 1186.1702127659573,
+                    "y": 124.11347517730496
+                },
+                {
+                    "x": 1186.1702127659573,
+                    "y": 1900.7092198581558
+                },
+                {
+                    "x": 679.0780141843971,
+                    "y": 1900.7092198581558
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

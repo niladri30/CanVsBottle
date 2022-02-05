@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0a727b9c557257893fc0c0ce9e4f3136",
+        "name": "Coca-Cola%20Cans%20_Life%20Hacks....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Coca-Cola%20Cans%20_Life%20Hacks....jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eIV8Zw7xq",
+            "type": "RECTANGLE",
+            "tags": [
+                "can"
+            ],
+            "boundingBox": {
+                "height": 441.50943396226415,
+                "width": 678.2470119521912,
+                "left": 139.3891102257636,
+                "top": 103.21344339622642
+            },
+            "points": [
+                {
+                    "x": 139.3891102257636,
+                    "y": 103.21344339622642
+                },
+                {
+                    "x": 817.6361221779549,
+                    "y": 103.21344339622642
+                },
+                {
+                    "x": 817.6361221779549,
+                    "y": 544.7228773584906
+                },
+                {
+                    "x": 139.3891102257636,
+                    "y": 544.7228773584906
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

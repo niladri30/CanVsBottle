@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0b064a375848804ac2467e3060bbe0ec",
+        "name": "Best%20water%20bottles_%20The%20ultimate....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20water%20bottles_%20The%20ultimate....jpg",
+        "size": {
+            "width": 982,
+            "height": 726
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vjzBy1_w3",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 697.59902200489,
+                "width": 186.45569620253164,
+                "left": 369.35985533453885,
+                "top": 7.8490984107579465
+            },
+            "points": [
+                {
+                    "x": 369.35985533453885,
+                    "y": 7.8490984107579465
+                },
+                {
+                    "x": 555.8155515370705,
+                    "y": 7.8490984107579465
+                },
+                {
+                    "x": 555.8155515370705,
+                    "y": 705.448120415648
+                },
+                {
+                    "x": 369.35985533453885,
+                    "y": 705.448120415648
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4d73c753690a286001f9af92a77c06c8",
+        "name": "Sprite%202L%20Bottle%20_%20Walmart%20Canada.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Sprite%202L%20Bottle%20_%20Walmart%20Canada.jpg",
+        "size": {
+            "width": 1500,
+            "height": 1500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tdhpsS8tV",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1454.787234042553,
+                "width": 510.63829787234044,
+                "left": 309.8404255319149,
+                "top": 7.9787234042553195
+            },
+            "points": [
+                {
+                    "x": 309.8404255319149,
+                    "y": 7.9787234042553195
+                },
+                {
+                    "x": 820.4787234042553,
+                    "y": 7.9787234042553195
+                },
+                {
+                    "x": 820.4787234042553,
+                    "y": 1462.7659574468084
+                },
+                {
+                    "x": 309.8404255319149,
+                    "y": 1462.7659574468084
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

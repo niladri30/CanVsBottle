@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1ddb5e8b45619e59392dc70426e328cd",
+        "name": "Baby%20Milk%20Feeding%20Bottle....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Baby%20Milk%20Feeding%20Bottle....jpg",
+        "size": {
+            "width": 2560,
+            "height": 2560
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "V9vpyQ5MK",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 2133.3333333333335,
+                "width": 1170.8527131782946,
+                "left": 706.9767441860465,
+                "top": 94.26356589147287
+            },
+            "points": [
+                {
+                    "x": 706.9767441860465,
+                    "y": 94.26356589147287
+                },
+                {
+                    "x": 1877.8294573643411,
+                    "y": 94.26356589147287
+                },
+                {
+                    "x": 1877.8294573643411,
+                    "y": 2227.5968992248063
+                },
+                {
+                    "x": 706.9767441860465,
+                    "y": 2227.5968992248063
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

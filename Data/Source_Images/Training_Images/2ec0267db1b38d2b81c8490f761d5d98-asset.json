@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2ec0267db1b38d2b81c8490f761d5d98",
+        "name": "Best%20Reusable%20Water%20Bottles%202021_%20Top....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Best%20Reusable%20Water%20Bottles%202021_%20Top....jpg",
+        "size": {
+            "width": 837,
+            "height": 1426
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5ZB9fmzO4",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1414.9457364341085,
+                "width": 814.9009900990098,
+                "left": 16.40160891089109,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 16.40160891089109,
+                    "y": 0
+                },
+                {
+                    "x": 831.302599009901,
+                    "y": 0
+                },
+                {
+                    "x": 831.302599009901,
+                    "y": 1414.9457364341085
+                },
+                {
+                    "x": 16.40160891089109,
+                    "y": 1414.9457364341085
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

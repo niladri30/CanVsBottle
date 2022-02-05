@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1bb702d0460b38c3c59a2933e0fdb97c",
+        "name": "Water%20bottles....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Water%20bottles....jpg",
+        "size": {
+            "width": 750,
+            "height": 440
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "J3MO8VEIT",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 407.14932126696834,
+                "width": 152.39043824701196,
+                "left": 301.79282868525894,
+                "top": 16.814196832579185
+            },
+            "points": [
+                {
+                    "x": 301.79282868525894,
+                    "y": 16.814196832579185
+                },
+                {
+                    "x": 454.1832669322709,
+                    "y": 16.814196832579185
+                },
+                {
+                    "x": 454.1832669322709,
+                    "y": 423.9635180995475
+                },
+                {
+                    "x": 301.79282868525894,
+                    "y": 423.9635180995475
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3ddde9aa1e7c4666c2c01816ff671f57",
+        "name": "Jameson%20Water%20Bottle%20_%20Jameson%20Irish....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Jameson%20Water%20Bottle%20_%20Jameson%20Irish....jpg",
+        "size": {
+            "width": 565,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DL8Wu2auK",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 424.46808510638294,
+                "width": 129.81167608286253,
+                "left": 215.00058851224105,
+                "top": 95.74468085106383
+            },
+            "points": [
+                {
+                    "x": 215.00058851224105,
+                    "y": 95.74468085106383
+                },
+                {
+                    "x": 344.81226459510356,
+                    "y": 95.74468085106383
+                },
+                {
+                    "x": 344.81226459510356,
+                    "y": 520.2127659574468
+                },
+                {
+                    "x": 215.00058851224105,
+                    "y": 520.2127659574468
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

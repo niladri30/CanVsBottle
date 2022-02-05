@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4ca80feb363e1b01e30b4d5221fe8c3e",
+        "name": "Bottle%20Images_%20Stock%20Photos%20&%20Vectors....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Bottle%20Images_%20Stock%20Photos%20&%20Vectors....jpg",
+        "size": {
+            "width": 260,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Gxhi9zUUb",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 172.015503875969,
+                "width": 107.47390396659708,
+                "left": 74.40566283924844,
+                "top": 40.69767441860465
+            },
+            "points": [
+                {
+                    "x": 74.40566283924844,
+                    "y": 40.69767441860465
+                },
+                {
+                    "x": 181.8795668058455,
+                    "y": 40.69767441860465
+                },
+                {
+                    "x": 181.8795668058455,
+                    "y": 212.71317829457362
+                },
+                {
+                    "x": 74.40566283924844,
+                    "y": 212.71317829457362
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

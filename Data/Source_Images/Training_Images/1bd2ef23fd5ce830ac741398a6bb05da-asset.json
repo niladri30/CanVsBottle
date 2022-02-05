@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1bd2ef23fd5ce830ac741398a6bb05da",
+        "name": "Cap%20On%20A%20White%20Background%20Stock%20Photo....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Cap%20On%20A%20White%20Background%20Stock%20Photo....jpg",
+        "size": {
+            "width": 501,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "o_SHkIrhd",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 928.7441860465116,
+                "width": 252.48809523809524,
+                "left": 124.72191220238095,
+                "top": 15.875968992248062
+            },
+            "points": [
+                {
+                    "x": 124.72191220238095,
+                    "y": 15.875968992248062
+                },
+                {
+                    "x": 377.2100074404762,
+                    "y": 15.875968992248062
+                },
+                {
+                    "x": 377.2100074404762,
+                    "y": 944.6201550387597
+                },
+                {
+                    "x": 124.72191220238095,
+                    "y": 944.6201550387597
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

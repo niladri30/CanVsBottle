@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4bba5f4935b7f3ae7e15465971465fc9",
+        "name": "Buy%20Elvira%2032oz%20Large%20Water%20Bottle%20with....jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Buy%20Elvira%2032oz%20Large%20Water%20Bottle%20with....jpg",
+        "size": {
+            "width": 1193,
+            "height": 1500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OSPuuCoyg",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1215.1162790697674,
+                "width": 413.18536585365854,
+                "left": 60.241044207317074,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 60.241044207317074,
+                    "y": 0
+                },
+                {
+                    "x": 473.42641006097557,
+                    "y": 0
+                },
+                {
+                    "x": 473.42641006097557,
+                    "y": 1215.1162790697674
+                },
+                {
+                    "x": 60.241044207317074,
+                    "y": 1215.1162790697674
+                }
+            ]
+        },
+        {
+            "id": "tjWbfELXP",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 1188.953488372093,
+                "width": 602.3195121951219,
+                "left": 473.42641006097557,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 473.42641006097557,
+                    "y": 0
+                },
+                {
+                    "x": 1075.7459222560976,
+                    "y": 0
+                },
+                {
+                    "x": 1075.7459222560976,
+                    "y": 1188.953488372093
+                },
+                {
+                    "x": 473.42641006097557,
+                    "y": 1188.953488372093
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

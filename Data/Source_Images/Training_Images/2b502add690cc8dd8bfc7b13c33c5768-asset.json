@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2b502add690cc8dd8bfc7b13c33c5768",
+        "name": "Baby%20bottle%20-%20Wikipedia.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/Baby%20bottle%20-%20Wikipedia.jpg",
+        "size": {
+            "width": 800,
+            "height": 1067
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2P74DffE6",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 839.5387596899226,
+                "width": 254.26356589147284,
+                "left": 154.94186046511626,
+                "top": 84.78100775193799
+            },
+            "points": [
+                {
+                    "x": 154.94186046511626,
+                    "y": 84.78100775193799
+                },
+                {
+                    "x": 409.2054263565891,
+                    "y": 84.78100775193799
+                },
+                {
+                    "x": 409.2054263565891,
+                    "y": 924.3197674418606
+                },
+                {
+                    "x": 154.94186046511626,
+                    "y": 924.3197674418606
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

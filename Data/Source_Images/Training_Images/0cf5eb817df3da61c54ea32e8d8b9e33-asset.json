@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0cf5eb817df3da61c54ea32e8d8b9e33",
+        "name": "400ml%20thermal%20bottle%20with%20Drinking%20Reminder.jpg",
+        "path": "file:C:/Users/I508308/Dev/Training_Dataset/Images/400ml%20thermal%20bottle%20with%20Drinking%20Reminder.jpg",
+        "size": {
+            "width": 800,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6CDnJZ2e1",
+            "type": "RECTANGLE",
+            "tags": [
+                "bottle"
+            ],
+            "boundingBox": {
+                "height": 713.1782945736435,
+                "width": 227.90697674418607,
+                "left": 284.49612403100775,
+                "top": 40.310077519379846
+            },
+            "points": [
+                {
+                    "x": 284.49612403100775,
+                    "y": 40.310077519379846
+                },
+                {
+                    "x": 512.4031007751938,
+                    "y": 40.310077519379846
+                },
+                {
+                    "x": 512.4031007751938,
+                    "y": 753.4883720930233
+                },
+                {
+                    "x": 284.49612403100775,
+                    "y": 753.4883720930233
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
